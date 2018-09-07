@@ -1,0 +1,28 @@
+RandomPort:
+  Config:
+    Random Nether Portal Teleports:
+      Choose Randomly:
+        Odds of ported out of 100: the odds out of 100 that the player will NetherPort
+          on portal use, only matters if NetherPort and randomly chosen are set to
+          true
+      Activated: determines whether or not a player will RandomPort when useing a
+        nether portal entering or exiting the nether
+    X:
+      Max: The maximum x coordinate point
+    Permissions:
+      Regular Permissions: if true, RandomPort will use standard permissions (uses
+        OP bases permissions if false)
+    PortOnDeath:
+      Choose Randomly:
+        Activated: determines if DeathPort uses permissions or random selections,
+          this will take no effect if PortOnDeath is set to false
+    Block Id's to avoid: The block Id's that RandomPort will not allow a player to
+      land from a teleport on, by default they are bedrock, water, flowing water,
+      lava, and flowing lava
+  Commands:
+    /rp <player>: randomports the target if the sender has permission
+    /randomport: randomports the sender if they have permission
+  Permissions:
+    RandomPort:
+      deathport: allows the player to RandomPort on death, not applicable if using
+        randomly chosen deathports

@@ -1,0 +1,23 @@
+lastAccountName: mitiazavr
+timestamps:
+  login: 1529055775757
+  lastteleport: 1528867800771
+  logout: 1529055822986
+ipAddress: 25.30.145.141
+lastlocation:
+  world: world
+  x: 2090.0
+  y: 80.0
+  z: -1536.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 80.0
+  z: 0.5
+  yaw: 0.0
+  pitch: -7.0
+afk: false
+money: '0'
+nickname: mitiazavr

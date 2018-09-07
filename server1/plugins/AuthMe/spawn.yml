@@ -1,0 +1,14 @@
+spawn:
+  world: world
+  x: 606.5
+  y: 63.0
+  z: -9019.5
+  yaw: 0.0
+  pitch: -2.0
+firstspawn:
+  world: world
+  x: 606.5
+  y: 63.0
+  z: -9019.5
+  yaw: 0.0
+  pitch: -2.0

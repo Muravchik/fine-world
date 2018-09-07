@@ -1,0 +1,23 @@
+# 
+# shop_resources:
+welcome:
+  location: spawn, 0.500, 83.200, 4.500
+  lines:
+  - '&7Добро пожаловать на &b&lfine&e&lWorld'
+  - '&7Что бы выйти со спавна напишите &a&l/rp'
+ench:
+  location: spawn, -9.500, 83.200, -23.500
+  lines:
+  - '&b&lЧаровальня'
+batoots:
+  location: spawn, 10.500, 83.200, -27.500
+  lines:
+  - '&a&lБатуты'
+shop:
+  location: spawn, 26.500, 82.200, 13.500
+  lines:
+  - ' &6&l----Магазин----'
+mine:
+  location: spawn, 5.500, 83.200, 26.500
+  lines:
+  - '&fАвто-шахта'

@@ -1,0 +1,546 @@
+[09:51:49] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[09:51:49] [Server thread/INFO]: Loading properties
+[09:51:49] [Server thread/INFO]: Default game type: ADVENTURE
+[09:51:49] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1e4dd71-5e5cf84 (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[09:51:49] [Server thread/INFO]: Debug logging is disabled
+[09:51:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:51:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:51:49] [Server thread/INFO]: Generating keypair
+[09:51:50] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:25560
+[09:51:50] [Server thread/INFO]: Using default channel type
+[09:51:53] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v4.24.dev
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Allocator: PooledByteBufAllocator(directByDefault: true), direct: true
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Compression level: 3
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Assume 1.5.2 ping delay: 100
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Assume legacy ping dealy: 200
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Login threads max count: 2147483647, keep alive time: 60
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block NETHERRACK is less than strength of block with id MAGMA
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block SOIL is less than strength of block with id GRASS_PATH
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/WARN]: [ProtocolSupport] Block remapper warning: strength of block TRAP_DOOR is less than strength of block with id IRON_TRAPDOOR
+[09:51:53] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0-SNAPSHOT-b318
+[09:51:53] [Server thread/INFO]: [Hide-Players] Loading Hide-Players v1.0
+[09:51:53] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.2-SNAPSHOT-b1287
+[09:51:53] [Server thread/INFO]: [ChangeSkin] Loading ChangeSkin v2.2.1
+[09:51:53] [Server thread/INFO]: [BlockVersion] Loading BlockVersion v1.2
+[09:51:53] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v4.24.dev
+[09:51:53] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0-SNAPSHOT-b318
+[09:51:53] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[09:51:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:51:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:51:53] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[09:51:53] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[09:51:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:51:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:51:53] [Server thread/INFO]: Preparing level "world"
+[09:51:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:51:53] [Server thread/INFO]: Item Despawn Rate: 1
+[09:51:53] [Server thread/INFO]: Item Merge Radius: 0.0
+[09:51:53] [Server thread/INFO]: Arrow Despawn Rate: 1
+[09:51:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:51:53] [Server thread/INFO]: View Distance: 2
+[09:51:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:51:53] [Server thread/INFO]: Experience Merge Radius: 0.0
+[09:51:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:51:53] [Server thread/INFO]: Max Entity Collisions: 1
+[09:51:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:51:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[09:51:53] [Server thread/INFO]: Mob Spawn Range: 0
+[09:51:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[09:51:53] [Server thread/INFO]: Entity Activation Range: An 0 / Mo 0 / Mi 0
+[09:51:53] [Server thread/INFO]: Entity Tracking Range: Pl 0 / An 0 / Mo 0 / Mi 0 / Other 0
+[09:51:53] [Server thread/INFO]: Random Lighting Updates: false
+[09:51:53] [Server thread/INFO]: Structure Info Saving: false
+[09:51:53] [Server thread/INFO]: *** WARNING *** You have selected to NOT save structure info. This may cause structures such as fortresses to not spawn mobs!
+[09:51:53] [Server thread/INFO]: *** WARNING *** Please use this option with caution, SpigotMC is not responsible for any issues this option may cause in the future!
+[09:51:53] [Server thread/INFO]: Max TNT Explosions: 100
+[09:51:53] [Server thread/INFO]: Tile Max Tick Time: 8ms Entity max Tick Time: 16ms
+[09:51:54] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7142173314759866001)
+[09:51:55] [Server thread/INFO]: Preparing spawn area: 16%
+[09:51:56] [Server thread/INFO]: Preparing spawn area: 96%
+[09:51:56] [Server thread/INFO]: [Hide-Players] Enabling Hide-Players v1.0
+[09:51:56] [Server thread/INFO]: [Hide-Players] Server by Slavik123123123 Enabled!
+[09:51:56] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.2-SNAPSHOT-b1287
+[09:51:56] [Server thread/INFO]: [AuthMe] SQLite driver loaded
+[09:51:56] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[09:51:56] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[09:51:56] [Server thread/INFO]: [AuthMe] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[09:51:56] [Server thread/INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[09:51:56] [Server thread/INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[09:51:56] [Server thread/INFO]: [AuthMe] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[09:51:56] [Server thread/INFO]: [ChangeSkin] Enabling ChangeSkin v2.2.1
+[09:51:56] [Server thread/INFO]: [ChangeSkin] BungeeCord detected. Activating BungeeCord support
+[09:51:56] [Server thread/INFO]: [ChangeSkin] Make sure you installed the plugin on BungeeCord too
+[09:51:56] [Server thread/INFO]: [BlockVersion] Enabling BlockVersion v1.2
+[09:51:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:51:56] [Server thread/INFO]: Done (3,003s)! For help, type "help" or "?"

@@ -1,0 +1,24 @@
+lastAccountName: SteveGrKek2
+timestamps:
+  login: 1509772025590
+  logout: 1509772032881
+  lastteleport: 1509705138985
+  kits:
+    firework: 1509689045552
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1802.4679707401015
+  y: 97.9955756704869
+  z: -120.36574742878157
+  yaw: -153.47485
+  pitch: 12.599989
+logoutlocation:
+  world: spawn
+  x: -11.54882475884809
+  y: 87.04308182178617
+  z: -4.139608296984823
+  yaw: 181.50035
+  pitch: 8.399992
+afk: false
+godmode: true

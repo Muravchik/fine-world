@@ -1,0 +1,37 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  regular:
+    enabled: true
+    interval: 15
+    expiry: -1
+    random: true
+    messages:
+    - '&8(&7✉&8) &3\n &f↱ &7Будь вкурсе обновлений сервера!\n &f↦ &7Подписывайся на
+      группу в контакте! \n &f↳ &7Ссылка на группу &f»&e vk.com/fineworldmc \n&7'
+    - '&8(&7✉&8) &7Покупать донат только на сайте &f» &efine-world.ru'
+    - '&8(&7✉&8) &7Наша группа в контакте &f»&e vk.com/fineworldmc'
+    - '&8(&7✉&8) \n&7Покупая донат вы продлеваете жизнь серверу\n&7Купить донат вы
+      можете на нащем сайте -&c&l fine-world.ru'
+    - '&8(&7✉&8) &7Меню сервера &f» &f&l/menu'
+    - '&8(&7✉&8) &7Поддержать проект &f» &f&l/donate'
+    - '&8(&7✉&8) &7Все вопросы можно задавать в сообщения группы &f» &avk.com/fineworldmc'
+    - '&8(&7✉&8) &7Рандомный телепорт &f» &a&l/rp'
+    - '&8(&7✉&8) &3\n &f↱ &7Хочешь сменить скин но нет лицензии? \n &f↦ &7Не проблема!
+      &fПросто введи команду: \n &f↳ &f/skin &8<ник понравившегося скина>\n&7'
+    - '&8(&7✉&8) &3\n &f↱ &7Рассказывайте о нашем сервере &fдрузьям! \n \n &f↳ &7Этим
+      вы поможете развиваться &fсерверу&7 быстрее! \n&7'

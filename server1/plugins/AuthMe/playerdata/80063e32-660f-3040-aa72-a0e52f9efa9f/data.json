@@ -1,0 +1,15 @@
+{
+  "group": "glav",
+  "location": {
+    "world": "world",
+    "x": 2749.6315003910768,
+    "y": 98.77822957799422,
+    "z": -11518.787476715,
+    "yaw": -215.25052,
+    "pitch": -35.250004
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.19996805,
+  "fly-speed": 0.09998403
+}

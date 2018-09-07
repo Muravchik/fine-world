@@ -1,0 +1,11 @@
+enable: true
+commands:
+  enable: false
+  list:
+  - setwarp
+entitis: []
+flags:
+  enable: true
+  use: deny
+flag-delay: 1
+entity-protect: false

@@ -1,0 +1,36 @@
+Login:
+- Auth
+Lobby:
+- survival
+Auth:
+  host: localhost
+  port: 3306
+  username: root
+  password: admin
+  database: fineworld
+IpProtect:
+- Nick;Ip
+Table:
+  tablename: sql6160939
+  username: sql6160939
+  password: password
+  ip: ip
+  session: session
+  email: email
+  server: server
+AntiBot:
+  enable: true
+  banTime: 14400
+  maxNames: 3
+Email:
+  mailSMTP: ''
+  mailPort: 465
+  mailAccount: ''
+  mailPassword: ''
+  mailSenderName: ''
+  RecoveryPasswordLength: 8
+  mailSubject: ''
+  maxRegPerEmail: 2
+  recallPlayers: true
+  delayRecall: 2
+  mailText: Привет, <playername>. Твой новый пароль - <generatedpass>

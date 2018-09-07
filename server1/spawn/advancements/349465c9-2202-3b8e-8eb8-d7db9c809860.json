@@ -1,0 +1,8 @@
+{
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-06-10 20:12:35 +0700"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,22 @@
+lastAccountName: Annezlove
+timestamps:
+  login: 1528792994959
+  lastteleport: 1528793763479
+  logout: 1528794181948
+ipAddress: 127.0.0.1
+lastlocation:
+  world: spawn
+  x: -40.26799878092091
+  y: 97.0
+  z: -28.102972317307035
+  yaw: 3.661621
+  pitch: 44.68771
+afk: false
+logoutlocation:
+  world: spawn
+  x: -26.98124096458902
+  y: 89.9931355638255
+  z: -5.576776521886558
+  yaw: -36.974976
+  pitch: 26.356062
+money: '10000000'

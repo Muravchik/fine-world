@@ -1,0 +1,14 @@
+TeleportToSpawnWorld: true
+TeleportToBedLocation: false
+Location:
+  enabled: false
+  WorldName: world
+  X: 267
+  Y: 30
+  Z: 30
+PlaySound:
+  enabled: false
+  Sound: BAT_DEATH
+ClearInventory: true
+Effects:
+- EXPLOSION_HUGE

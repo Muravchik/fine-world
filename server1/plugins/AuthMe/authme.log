@@ -1,0 +1,1668 @@
+[12-06 10:01:50]: [INFO] SQLite driver loaded
+[12-06 10:01:52]: [INFO] SQLite Setup finished
+[12-06 10:01:52]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 10:01:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 10:01:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 10:01:52]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 10:01:58]: [WARN] Could not download GeoLiteAPI database [UnknownHostException]: geolite.maxmind.com
+[12-06 10:01:58]: java.net.UnknownHostException: geolite.maxmind.com
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at fr.xephi.authme.util.GeoLiteAPI$1.run(GeoLiteAPI.java:86)
+	at java.lang.Thread.run(Unknown Source)
+
+[12-06 10:02:11]: [FINE] SteveGrKek registered 127.0.0.1
+[12-06 10:02:11]: [FINE] SteveGrKek logged in!
+[12-06 10:19:35]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 10:20:17]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 10:20:17]: [INFO] MySQL setup finished
+[12-06 10:20:17]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 10:20:17]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 10:20:17]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 10:20:17]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 10:20:30]: [FINE] Player stevegrkek has registered out from one of your server!
+[12-06 10:20:30]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 10:22:11]: [INFO] SteveGrKek logged out
+[12-06 10:22:25]: [FINE] SteveGrKek logged in!
+[12-06 10:26:48]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 10:27:18]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 10:27:19]: [INFO] MySQL setup finished
+[12-06 10:27:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 10:27:19]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 10:27:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 10:27:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 10:27:19]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 10:28:27]: [FINE] Player stevegrkek has logged out from one of your server!
+[12-06 10:28:28]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 10:28:49]: [INFO] SteveGrKek logged out
+[12-06 10:34:59]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:26:31]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 15:26:32]: [INFO] MySQL setup finished
+[12-06 15:26:32]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 15:26:32]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 15:26:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 15:26:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 15:26:32]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 15:26:51]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:27:12]: [INFO] SteveGrKek logged out
+[12-06 15:27:20]: [FINE] SteveGrKek logged in!
+[12-06 15:28:13]: [INFO] SteveGrKek logged out
+[12-06 15:28:14]: [FINE] SteveGrKek used the wrong password
+[12-06 15:28:17]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:28:31]: [INFO] SteveGrKek logged out
+[12-06 15:28:36]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:28:44]: [INFO] SteveGrKek logged out
+[12-06 15:30:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:30:16]: [INFO] SteveGrKek logged out
+[12-06 15:31:06]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:38:38]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 15:39:17]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 15:39:17]: [INFO] MySQL setup finished
+[12-06 15:39:17]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 15:39:17]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 15:39:17]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 15:39:17]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 15:39:17]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 15:39:42]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:39:42]: [FINE] SteveGrKek logged in!
+[12-06 15:39:47]: [INFO] SteveGrKek logged out
+[12-06 15:43:31]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:50:25]: [INFO] SteveGrKek logged out
+[12-06 15:50:27]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-06 15:50:34]: [FINE] SteveGrKek used the wrong password
+[12-06 15:50:38]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:51:32]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:51:32]: [FINE] SteveGrKek logged in!
+[12-06 15:51:42]: [INFO] SteveGrKek logged out
+[12-06 15:51:58]: [FINE] SteveGrKek used the wrong password
+[12-06 15:53:39]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:53:48]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 15:54:19]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 15:54:19]: [INFO] MySQL setup finished
+[12-06 15:54:19]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 15:54:19]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 15:54:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 15:54:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 15:54:19]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 15:54:35]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:56:26]: [FINE] Player stevegrkek has registered out from one of your server!
+[12-06 15:56:26]: [FINE] SteveGrKek logged in!
+[12-06 15:57:11]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 15:59:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 15:59:00]: [INFO] MySQL setup finished
+[12-06 15:59:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 15:59:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 15:59:01]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 15:59:01]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 15:59:01]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 15:59:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:59:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:59:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 15:59:34]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-06 16:05:59]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-06 16:06:00]: [INFO] MySQL setup finished
+[12-06 16:06:00]: [INFO] No supported permissions system found! Permissions are disabled!
+[12-06 16:06:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-06 16:06:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-06 16:06:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-06 16:06:00]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-06 16:06:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 16:06:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 16:06:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 16:06:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-06 16:06:11]: [FINE] Player stevegrkek has logged out from one of your server!
+[12-07 15:29:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:29:01]: [WARN] Fatal error occurred during database connection! Authme initialization aborted! [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[12-07 15:29:01]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:516)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:118)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:137)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:141)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:69)
+	at fr.xephi.authme.AuthMe.setupDatabase(AuthMe.java:403)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:190)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.loadPlugin(CraftServer.java:362)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:322)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:316)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 18 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 34 more
+
+[12-07 15:29:01]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[12-07 15:32:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:32:00]: [INFO] MySQL setup finished
+[12-07 15:32:00]: [INFO] Hooked into PermissionsEx!
+[12-07 15:32:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-07 15:32:01]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-07 15:32:01]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-07 15:32:01]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-07 15:32:17]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:32:59]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-07 15:34:01]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:34:02]: [INFO] MySQL setup finished
+[12-07 15:34:02]: [INFO] Hooked into PermissionsEx!
+[12-07 15:34:02]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-07 15:34:02]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-07 15:34:02]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-07 15:34:02]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-07 15:35:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:35:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:35:14]: [FINE] Player stevegrkek has logged out from one of your server!
+[12-07 15:35:31]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-07 15:35:49]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-07 15:35:51]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-07 15:36:36]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-07 15:37:04]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[12-07 15:37:11]: [FINE] SteveGrKek logged in!
+[12-07 15:37:32]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:37:50]: [INFO] SteveGrKek logged out
+[12-07 15:37:55]: [FINE] SteveGrKek logged in!
+[12-07 15:40:34]: [FINE] Player stevegrkek has logged out from one of your server!
+[12-07 15:40:34]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:40:57]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:42:03]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-07 15:42:26]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:42:26]: [INFO] MySQL setup finished
+[12-07 15:42:26]: [INFO] Hooked into PermissionsEx!
+[12-07 15:42:27]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-07 15:42:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-07 15:42:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-07 15:42:27]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-07 15:42:39]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:42:58]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:42:58]: [FINE] SteveGrKek logged in!
+[12-07 15:43:59]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-07 15:44:25]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:44:25]: [INFO] MySQL setup finished
+[12-07 15:44:25]: [INFO] Hooked into PermissionsEx!
+[12-07 15:44:25]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-07 15:44:25]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-07 15:44:25]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-07 15:44:25]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-07 15:44:29]: [FINE] Player stevegrkek has logged out from one of your server!
+[12-07 15:44:29]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:44:40]: [FINE] Player stevegrkek has logged in from one of your server!
+[12-07 15:44:40]: [FINE] SteveGrKek logged in!
+[12-07 15:45:49]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[12-07 15:46:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[12-07 15:46:20]: [INFO] MySQL setup finished
+[12-07 15:46:20]: [INFO] Hooked into PermissionsEx!
+[12-07 15:46:20]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-07 15:46:21]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-07 15:46:21]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-07 15:46:21]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[12-07 15:46:34]: [FINE] SteveGrKek logged in!
+[12-07 15:47:50]: [FINE] SteveGrKek logged in!
+[12-07 16:18:31]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 10:17:36]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 10:17:38]: [WARN] Fatal error occurred during database connection! Authme initialization aborted! [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[03-13 10:17:38]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:516)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:118)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:137)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:141)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:69)
+	at fr.xephi.authme.AuthMe.setupDatabase(AuthMe.java:403)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:190)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.loadPlugin(CraftServer.java:362)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:322)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:316)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 18 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 34 more
+
+[03-13 10:17:38]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[03-13 10:21:55]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 10:21:56]: [INFO] MySQL setup finished
+[03-13 10:21:56]: [INFO] Hooked into PermissionsEx!
+[03-13 10:21:56]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 10:21:56]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 10:21:56]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 10:25:05]: [FINE] SteveGrKek logged in!
+[03-13 10:43:32]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 10:45:47]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 10:45:47]: [INFO] MySQL setup finished
+[03-13 10:45:47]: [INFO] Hooked into PermissionsEx!
+[03-13 10:45:47]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 10:45:47]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 10:45:47]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 10:45:47]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 10:46:02]: [FINE] SteveGrKek logged in!
+[03-13 10:53:22]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 10:53:46]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 10:53:46]: [INFO] MySQL setup finished
+[03-13 10:53:46]: [INFO] Hooked into PermissionsEx!
+[03-13 10:53:46]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 10:53:47]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 10:53:47]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 10:53:47]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 10:54:00]: [FINE] SteveGrKek logged in!
+[03-13 10:55:43]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 10:56:15]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 10:56:15]: [INFO] MySQL setup finished
+[03-13 10:56:15]: [INFO] Hooked into PermissionsEx!
+[03-13 10:56:15]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 10:56:16]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 10:56:16]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 10:56:16]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 10:56:33]: [FINE] SteveGrKek used the wrong password
+[03-13 11:01:10]: [FINE] SteveGrKek logged in!
+[03-13 11:03:12]: [FINE] SteveGrKek logged in!
+[03-13 11:08:56]: [FINE] SteveGrKek logged in!
+[03-13 11:09:07]: [INFO] SteveGrKek logged out
+[03-13 11:09:11]: [FINE] SteveGrKek logged in!
+[03-13 11:22:07]: [FINE] SteveGrKek logged in!
+[03-13 11:25:47]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 11:25:47]: [INFO] MySQL setup finished
+[03-13 11:25:47]: [INFO] Hooked into PermissionsEx!
+[03-13 11:25:47]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 11:25:47]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 11:25:47]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 11:25:47]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 11:27:14]: [FINE] SteveGrKek logged in!
+[03-13 11:29:30]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 11:29:51]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 11:29:51]: [INFO] MySQL setup finished
+[03-13 11:29:51]: [INFO] Hooked into PermissionsEx!
+[03-13 11:29:51]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 11:29:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 11:29:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 11:29:52]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 11:30:06]: [FINE] SteveGrKek logged in!
+[03-13 11:32:04]: [FINE] SteveGrKek logged in!
+[03-13 11:41:33]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 11:41:52]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 11:41:53]: [INFO] MySQL setup finished
+[03-13 11:41:53]: [INFO] Hooked into PermissionsEx!
+[03-13 11:41:53]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 11:41:53]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 11:41:53]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 11:41:53]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 11:43:40]: [FINE] SteveGrKek logged in!
+[03-13 11:56:28]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 11:56:58]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 11:56:58]: [INFO] MySQL setup finished
+[03-13 11:56:58]: [INFO] Hooked into PermissionsEx!
+[03-13 11:56:58]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 11:56:58]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 11:56:58]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 11:56:58]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 11:59:18]: [FINE] SteveGrKek logged in!
+[03-13 12:11:46]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:12:18]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:12:18]: [INFO] MySQL setup finished
+[03-13 12:12:18]: [INFO] Hooked into PermissionsEx!
+[03-13 12:12:18]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:12:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:12:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:12:19]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:12:29]: [FINE] SteveGrKek logged in!
+[03-13 12:13:11]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:14:06]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:14:06]: [INFO] MySQL setup finished
+[03-13 12:14:06]: [INFO] Hooked into PermissionsEx!
+[03-13 12:14:06]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:14:06]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:14:06]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:14:06]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:14:16]: [FINE] SteveGrKek logged in!
+[03-13 12:17:08]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:17:32]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:17:32]: [INFO] MySQL setup finished
+[03-13 12:17:32]: [INFO] Hooked into PermissionsEx!
+[03-13 12:17:33]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:17:33]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:17:33]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:17:33]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:17:57]: [FINE] SteveGrKek logged in!
+[03-13 12:20:48]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:21:14]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:21:14]: [INFO] MySQL setup finished
+[03-13 12:21:14]: [INFO] Hooked into PermissionsEx!
+[03-13 12:21:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:21:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:21:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:21:14]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:21:43]: [FINE] SteveGrKek logged in!
+[03-13 12:25:49]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:26:12]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:26:12]: [INFO] MySQL setup finished
+[03-13 12:26:12]: [INFO] Hooked into PermissionsEx!
+[03-13 12:26:12]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:26:13]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:26:13]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:26:13]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:26:20]: [FINE] SteveGrKek logged in!
+[03-13 12:37:25]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:37:49]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:37:49]: [INFO] MySQL setup finished
+[03-13 12:37:49]: [INFO] Hooked into PermissionsEx!
+[03-13 12:37:49]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:37:49]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:37:49]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:37:49]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:38:24]: [FINE] SteveGrKek logged in!
+[03-13 12:40:23]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:41:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:41:01]: [INFO] MySQL setup finished
+[03-13 12:41:01]: [INFO] Hooked into PermissionsEx!
+[03-13 12:41:01]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:41:01]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:41:01]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:41:01]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:41:12]: [FINE] SteveGrKek logged in!
+[03-13 12:46:13]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:47:26]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:47:26]: [INFO] MySQL setup finished
+[03-13 12:47:26]: [INFO] Hooked into PermissionsEx!
+[03-13 12:47:26]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:47:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:47:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:47:27]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:47:42]: [FINE] SteveGrKek logged in!
+[03-13 12:48:17]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 12:52:42]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 12:52:42]: [INFO] MySQL setup finished
+[03-13 12:52:42]: [INFO] Hooked into PermissionsEx!
+[03-13 12:52:42]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 12:52:42]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 12:52:42]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 12:52:42]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 12:52:51]: [FINE] SteveGrKek logged in!
+[03-13 12:53:12]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 13:04:32]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 13:04:32]: [INFO] MySQL setup finished
+[03-13 13:04:32]: [INFO] Hooked into PermissionsEx!
+[03-13 13:04:32]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 13:04:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 13:04:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 13:04:32]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 13:04:55]: [FINE] SteveGrKek logged in!
+[03-13 13:09:36]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 13:13:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 13:13:20]: [INFO] MySQL setup finished
+[03-13 13:13:20]: [INFO] Hooked into PermissionsEx!
+[03-13 13:13:20]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 13:13:20]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 13:13:20]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 13:13:20]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 13:18:42]: [FINE] SteveGrKek logged in!
+[03-13 13:19:28]: [FINE] SteveGrKek logged in!
+[03-13 13:23:09]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-13 13:24:16]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-13 13:24:16]: [INFO] MySQL setup finished
+[03-13 13:24:16]: [INFO] Hooked into PermissionsEx!
+[03-13 13:24:16]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-13 13:24:16]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-13 13:24:16]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-13 13:24:16]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-13 13:24:21]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-13 13:24:21]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-13 13:24:21]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-13 13:24:21]: [FINE] SteveGrKek logged in!
+[03-13 13:24:30]: [INFO] SteveGrKek logged out
+[03-13 13:24:34]: [FINE] SteveGrKek logged in!
+[03-13 13:26:54]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-14 16:39:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-14 16:39:20]: [INFO] MySQL setup finished
+[03-14 16:39:20]: [INFO] Hooked into PermissionsEx!
+[03-14 16:39:20]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-14 16:39:20]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-14 16:39:20]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-14 16:39:20]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-14 16:44:06]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-14 16:44:35]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-14 16:44:35]: [INFO] MySQL setup finished
+[03-14 16:44:35]: [INFO] Hooked into PermissionsEx!
+[03-14 16:44:35]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-14 16:44:35]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-14 16:44:35]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-14 16:44:35]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-14 16:45:20]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 16:45:20]: [FINE] SteveGrKek logged in!
+[03-14 16:50:08]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 16:50:08]: [FINE] SteveGrKek logged in!
+[03-14 16:50:55]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 16:50:55]: [FINE] SteveGrKek logged in!
+[03-14 17:08:14]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 17:20:09]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 17:20:10]: [FINE] SteveGrKek logged in!
+[03-14 17:45:49]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-14 17:46:29]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-14 17:46:32]: [INFO] MySQL setup finished
+[03-14 17:46:32]: [INFO] Hooked into PermissionsEx!
+[03-14 17:46:32]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-14 17:46:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-14 17:46:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-14 17:46:32]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-14 17:47:01]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 17:47:01]: [FINE] SteveGrKek logged in!
+[03-14 17:47:25]: [INFO] SteveGrKek logged out
+[03-14 17:47:29]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 17:49:48]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 17:49:49]: [FINE] SteveGrKek logged in!
+[03-14 17:50:02]: [INFO] SteveGrKek logged out
+[03-14 17:50:11]: [FINE] Player stevegrkek has logged in from one of your server!
+[03-14 18:11:56]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-14 18:12:36]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-14 18:12:37]: [INFO] MySQL setup finished
+[03-14 18:12:37]: [INFO] Hooked into PermissionsEx!
+[03-14 18:12:37]: [WARN] Cannot copy resource 'messages/help_ru.yml' to file 'plugins\AuthMe\messages\help_ru.yml': cannot load resource
+[03-14 18:12:37]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-14 18:12:37]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-14 18:12:37]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-14 18:12:37]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-14 18:12:55]: [FINE] SteveGrKek logged in!
+[03-14 18:13:04]: [INFO] SteveGrKek logged out
+[03-14 18:13:10]: [FINE] SteveGrKek logged in!
+[03-14 18:13:50]: [FINE] SteveGrKek logged in!
+[03-14 18:19:55]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-15 16:52:55]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-15 16:52:56]: [INFO] MySQL setup finished
+[03-15 16:52:56]: [INFO] Hooked into PermissionsEx!
+[03-15 16:52:56]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-15 16:52:56]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-15 16:52:56]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-15 16:52:56]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-15 16:53:09]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-15 17:18:25]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-15 17:18:26]: [INFO] MySQL setup finished
+[03-15 17:18:26]: [INFO] Hooked into PermissionsEx!
+[03-15 17:18:26]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-15 17:18:26]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-15 17:18:26]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-15 17:18:26]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-15 17:18:47]: [FINE] SteveGrKek123 logged in!
+[03-15 17:18:50]: [INFO] SteveGrKek123 logged out
+[03-15 17:18:54]: [FINE] SteveGrKek123 used the wrong password
+[03-15 17:19:43]: [INFO] Unhooked from Permissions!
+[03-15 17:19:43]: [INFO] Hooked into PermissionsEx!
+[03-15 17:19:43]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-15 17:19:43]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-15 17:19:51]: [FINE] SteveGrKek123 logged in!
+[03-15 17:19:53]: [INFO] SteveGrKek123 logged out
+[03-15 17:19:57]: [FINE] SteveGrKek123 logged in!
+[03-15 17:22:06]: [INFO] Unhooked from Permissions!
+[03-15 17:22:06]: [INFO] Hooked into PermissionsEx!
+[03-15 17:22:06]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-15 17:22:06]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-15 17:22:20]: [INFO] SteveGrKek123 logged out
+[03-15 17:22:24]: [FINE] SteveGrKek123 logged in!
+[03-15 17:37:18]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-16 14:06:03]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:06:03]: [INFO] MySQL setup finished
+[03-16 14:06:03]: [INFO] Hooked into PermissionsEx!
+[03-16 14:06:03]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:06:04]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:06:04]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:06:04]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-16 14:06:22]: [FINE] SteveGrKek123 logged in!
+[03-16 14:06:37]: [INFO] SteveGrKek123 logged out
+[03-16 14:06:54]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:06:54]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-16 14:06:54]: [INFO] Unhooked from Permissions!
+[03-16 14:06:54]: [INFO] Hooked into PermissionsEx!
+[03-16 14:08:51]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-16 14:10:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:10:13]: [INFO] MySQL setup finished
+[03-16 14:10:13]: [INFO] Hooked into PermissionsEx!
+[03-16 14:10:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:10:13]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:10:13]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:10:13]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-16 14:10:35]: [FINE] SteveGrKek123 logged in!
+[03-16 14:11:12]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-16 14:12:35]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:12:36]: [INFO] MySQL setup finished
+[03-16 14:12:36]: [INFO] Hooked into PermissionsEx!
+[03-16 14:12:36]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:12:36]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:12:36]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:12:36]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 14:16:41]: [WARN] Error getting message with key 'denied_command'. Please verify your config file at 'messages_ru.yml'
+[03-16 14:17:50]: [FINE] SteveGrKek123 logged in!
+[03-16 14:18:02]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-16 14:18:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:18:40]: [INFO] MySQL setup finished
+[03-16 14:18:40]: [INFO] Hooked into PermissionsEx!
+[03-16 14:18:40]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:18:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:18:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:18:40]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 14:18:53]: [FINE] SteveGrKek123 logged in!
+[03-16 14:19:11]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-16 14:22:51]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:22:51]: [INFO] MySQL setup finished
+[03-16 14:22:51]: [INFO] Hooked into PermissionsEx!
+[03-16 14:22:51]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:22:51]: [WARN] WARNING!!! You set session timeout to 0, this may cause security issues!
+[03-16 14:22:51]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:22:51]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:22:51]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 14:23:00]: [FINE] Player stevegrkek123 has logged out from one of your server!
+[03-16 14:23:00]: [FINE] Player stevegrkek123 has logged in from one of your server!
+[03-16 14:23:06]: [FINE] SteveGrKek123 logged in!
+[03-16 14:47:10]: [FINE] SteveGrKek123 logged in!
+[03-16 14:50:03]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-16 14:50:41]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:50:41]: [INFO] MySQL setup finished
+[03-16 14:50:41]: [INFO] Hooked into PermissionsEx!
+[03-16 14:50:41]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:50:41]: [WARN] WARNING!!! You set session timeout to 0, this may cause security issues!
+[03-16 14:50:41]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:50:41]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:50:41]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 14:51:11]: [FINE] Player stevegrkek123 has logged in from one of your server!
+[03-16 14:51:11]: [FINE] SteveGrKek123 logged in!
+[03-16 14:53:10]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 14:53:10]: [INFO] MySQL setup finished
+[03-16 14:53:10]: [INFO] Hooked into PermissionsEx!
+[03-16 14:53:10]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 14:53:10]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 14:53:10]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 14:53:10]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 14:53:47]: [FINE] Player stevegrkek123 has logged in from one of your server!
+[03-16 14:53:53]: [INFO] SteveGrKek123 logged out
+[03-16 14:53:59]: [FINE] SteveGrKek123 logged in!
+[03-16 14:54:44]: [FINE] SteveGrKek123 logged in!
+[03-16 14:55:18]: [FINE] SteveGrKek123 logged in!
+[03-16 15:04:36]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-16 15:05:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-16 15:05:13]: [INFO] MySQL setup finished
+[03-16 15:05:13]: [INFO] Hooked into PermissionsEx!
+[03-16 15:05:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-16 15:05:13]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-16 15:05:13]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-16 15:05:13]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-16 15:05:55]: [FINE] SteveGrKek123 logged in!
+[03-16 15:21:02]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-20 09:31:54]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-20 09:31:55]: [INFO] MySQL setup finished
+[03-20 09:31:55]: [INFO] Hooked into PermissionsEx!
+[03-20 09:31:55]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-20 09:31:55]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-20 09:31:55]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-20 09:31:55]: [INFO] AuthMe 5.2-SNAPSHOT build n°1287 correctly enabled!
+[03-20 09:34:35]: [FINE] Player stevegrkek123 has logged in from one of your server!
+[03-20 09:34:35]: [FINE] SteveGrKek123 logged in!
+[03-20 09:35:01]: [FINE] Player stevegrkek123 has logged in from one of your server!
+[03-20 09:35:01]: [FINE] SteveGrKek123 logged in!
+[03-20 09:35:22]: [INFO] SteveGrKek123 logged out
+[03-20 09:35:36]: [FINE] SteveGrKek123 used the wrong password
+[03-20 09:35:39]: [FINE] SteveGrKek123 logged in!
+[03-20 09:39:58]: [FINE] SteveGrKek123 logged in!
+[03-20 09:52:09]: [INFO] AuthMe 5.2-SNAPSHOT-b1287 disabled!
+[03-20 09:53:57]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-20 09:53:58]: [INFO] MySQL setup finished
+[03-20 09:53:58]: [INFO] Hooked into PermissionsEx!
+[03-20 09:53:58]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-20 09:53:58]: [WARN] WARNING!!! You set session timeout to 0, this may cause security issues!
+[03-20 09:53:58]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-20 09:53:58]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-20 09:53:58]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-20 10:00:53]: [FINE] SteveGrKek123 logged in!
+[03-20 10:01:03]: [FINE] SteveGrKek123 logged in!
+[03-20 10:02:45]: [FINE] SteveGrKek123 logged in!
+[03-20 10:08:37]: [FINE] SteveGrKek123 logged in!
+[03-20 10:11:32]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-20 10:12:14]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-20 10:12:14]: [INFO] MySQL setup finished
+[03-20 10:12:14]: [INFO] Hooked into PermissionsEx!
+[03-20 10:12:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-20 10:12:14]: [WARN] WARNING!!! You set session timeout to 0, this may cause security issues!
+[03-20 10:12:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-20 10:12:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-20 10:12:14]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-20 10:16:54]: [FINE] SteveGrKek123 logged in!
+[03-20 10:17:08]: [INFO] SteveGrKek123 logged out
+[03-20 10:17:24]: [FINE] SteveGrKek123 logged in!
+[03-20 10:19:53]: [FINE] SteveGrKek123 logged in!
+[03-20 10:20:00]: [FINE] SteveGrKek123 logged in!
+[03-20 10:20:16]: [INFO] SteveGrKek123 logged out
+[03-20 10:20:19]: [FINE] SteveGrKek123 logged in!
+[03-20 10:20:56]: [INFO] SteveGrKek123 logged out
+[03-20 10:24:32]: [FINE] SteveGrKek123 logged in!
+[03-20 10:25:03]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-20 10:25:03]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-20 10:25:03]: [INFO] Unhooked from Permissions!
+[03-20 10:25:03]: [INFO] Hooked into PermissionsEx!
+[03-20 10:25:07]: [FINE] SteveGrKek123 logged in!
+[03-20 10:30:39]: [FINE] SteveGrKek123 logged in!
+[03-20 10:58:26]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-27 16:51:22]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-27 16:51:23]: [WARN] Could not create data source: [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[03-27 16:51:23]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[03-27 16:51:23]: [WARN] Aborting initialization of AuthMe: [IllegalStateException]: Error during initialization of data source
+[03-27 16:51:23]: java.lang.IllegalStateException: Error during initialization of data source
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:46)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	... 19 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[03-27 16:51:23]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[03-27 16:51:23]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-27 16:56:31]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-27 16:56:31]: [INFO] MySQL setup finished
+[03-27 16:56:31]: [INFO] Hooked into PermissionsEx!
+[03-27 16:56:31]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-27 16:56:32]: [WARN] WARNING!!! You set session timeout to 0, this may cause security issues!
+[03-27 16:56:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-27 16:56:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-27 16:56:32]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-27 16:56:58]: [FINE] SteveGrKek logged in!
+[03-27 16:57:21]: [FINE] SteveGrKek logged in!
+[03-27 16:57:28]: [INFO] SteveGrKek logged out
+[03-27 16:57:33]: [FINE] SteveGrKek logged in!
+[03-27 16:58:04]: [INFO] Unhooked from Permissions!
+[03-27 16:58:04]: [INFO] Hooked into PermissionsEx!
+[03-27 16:58:04]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-27 16:58:04]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-27 16:58:07]: [FINE] SteveGrKek logged in!
+[03-27 17:00:15]: [FINE] SteveGrKek logged in!
+[03-27 17:00:20]: [INFO] SteveGrKek logged out
+[03-27 17:00:26]: [FINE] SteveGrKek logged in!
+[03-27 17:19:55]: [FINE] SteveGrKek logged in!
+[03-27 17:21:30]: [INFO] SteveGrKek logged out
+[03-27 17:21:51]: [FINE] SteveGrKek logged in!
+[03-27 17:21:53]: [INFO] SteveGrKek logged out
+[03-27 17:21:57]: [FINE] SteveGrKek logged in!
+[03-27 17:23:00]: [FINE] SteveGrKek logged in!
+[03-27 17:25:39]: [INFO] SteveGrKek logged out
+[03-27 17:25:53]: [FINE] SteveGrKek logged in!
+[03-27 17:27:42]: [INFO] Unhooked from Permissions!
+[03-27 17:27:42]: [INFO] Hooked into PermissionsEx!
+[03-27 17:27:42]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-27 17:27:42]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-27 17:27:54]: [FINE] SteveGrKek logged in!
+[03-27 17:28:40]: [INFO] Unhooked from Permissions!
+[03-27 17:28:40]: [INFO] Hooked into PermissionsEx!
+[03-27 17:28:40]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-27 17:28:40]: [INFO] Hikari ConnectionPool arguments reloaded!
+[03-27 17:28:50]: [FINE] SteveGrKek logged in!
+[03-27 17:48:23]: [FINE] SteveGrKek logged in!
+[03-27 17:55:26]: [FINE] SteveGrKek logged in!
+[03-27 17:56:09]: [FINE] SteveGrKek logged in!
+[03-27 17:57:52]: [FINE] SteveGrKek logged in!
+[03-27 17:58:18]: [FINE] SteveGrKek logged in!
+[03-27 18:00:12]: [FINE] SteveGrKek logged in!
+[03-27 18:01:39]: [FINE] SteveGrKek logged in!
+[03-27 18:02:06]: [FINE] SteveGrKek logged in!
+[03-27 18:02:15]: [FINE] SteveGrKek logged in!
+[03-27 18:02:31]: [FINE] SteveGrKek logged in!
+[03-27 18:02:44]: [FINE] SteveGrKek logged in!
+[03-27 18:02:56]: [FINE] SteveGrKek logged in!
+[03-27 18:03:10]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:30:34]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:30:35]: [WARN] Could not create data source: [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[03-29 19:30:35]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[03-29 19:30:35]: [WARN] Aborting initialization of AuthMe: [IllegalStateException]: Error during initialization of data source
+[03-29 19:30:35]: java.lang.IllegalStateException: Error during initialization of data source
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:46)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	... 19 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[03-29 19:30:35]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[03-29 19:30:35]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:32:36]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:32:37]: [INFO] MySQL setup finished
+[03-29 19:32:37]: [INFO] Hooked into PermissionsEx!
+[03-29 19:32:37]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:32:37]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:32:37]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:32:37]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:33:59]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:35:42]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:35:42]: [INFO] MySQL setup finished
+[03-29 19:35:42]: [INFO] Hooked into PermissionsEx!
+[03-29 19:35:43]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:35:43]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:35:43]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:35:43]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:38:36]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:40:11]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:40:11]: [INFO] MySQL setup finished
+[03-29 19:40:11]: [INFO] Hooked into PermissionsEx!
+[03-29 19:40:11]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:40:11]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:40:11]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:40:11]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:41:04]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:41:54]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:41:55]: [INFO] MySQL setup finished
+[03-29 19:41:55]: [INFO] Hooked into PermissionsEx!
+[03-29 19:41:55]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:41:55]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:41:55]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:41:55]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:44:19]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:45:29]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:45:29]: [INFO] MySQL setup finished
+[03-29 19:45:29]: [INFO] Hooked into PermissionsEx!
+[03-29 19:45:29]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:45:29]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:45:29]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:45:29]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:47:04]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-29 19:48:49]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-29 19:48:49]: [INFO] MySQL setup finished
+[03-29 19:48:49]: [INFO] Hooked into PermissionsEx!
+[03-29 19:48:50]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-29 19:48:50]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-29 19:48:50]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-29 19:48:50]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-29 19:49:15]: [FINE] SteveGrKek logged in!
+[03-29 19:49:19]: [INFO] SteveGrKek logged out
+[03-29 19:51:42]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-30 19:04:44]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-30 19:04:45]: [INFO] MySQL setup finished
+[03-30 19:04:45]: [INFO] Hooked into PermissionsEx!
+[03-30 19:04:45]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-30 19:04:45]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-30 19:04:45]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-30 19:04:45]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-30 19:05:05]: [FINE] SteveGrKek logged in!
+[03-30 19:05:10]: [INFO] SteveGrKek logged out
+[03-30 19:05:18]: [FINE] SteveGrKek logged in!
+[03-30 19:08:41]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-30 19:09:17]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-30 19:09:17]: [INFO] MySQL setup finished
+[03-30 19:09:17]: [INFO] Hooked into PermissionsEx!
+[03-30 19:09:17]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-30 19:09:17]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-30 19:09:17]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-30 19:09:17]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-30 19:09:18]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-30 19:10:27]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-30 19:10:27]: [INFO] MySQL setup finished
+[03-30 19:10:27]: [INFO] Hooked into PermissionsEx!
+[03-30 19:10:27]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-30 19:10:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-30 19:10:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-30 19:10:27]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-30 19:12:36]: [FINE] SteveGrKek logged in!
+[03-30 19:21:13]: [FINE] SteveGrKek logged in!
+[03-30 19:36:44]: [INFO] SteveGrKek logged out
+[03-30 19:36:52]: [FINE] SteveGrKek logged in!
+[03-30 19:36:54]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-30 19:37:14]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-30 19:37:15]: [INFO] MySQL setup finished
+[03-30 19:37:15]: [INFO] Hooked into PermissionsEx!
+[03-30 19:37:15]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-30 19:37:15]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-30 19:37:15]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-30 19:37:15]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-30 19:37:19]: [FINE] SteveGrKek logged in!
+[03-30 19:37:55]: [FINE] SteveGrKek logged in!
+[03-30 19:37:58]: [INFO] SteveGrKek logged out
+[03-30 19:44:05]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-30 19:44:24]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-30 19:44:24]: [INFO] MySQL setup finished
+[03-30 19:44:24]: [INFO] Hooked into PermissionsEx!
+[03-30 19:44:24]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-30 19:44:24]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-30 19:44:24]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-30 19:44:24]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-30 19:44:29]: [FINE] SteveGrKek logged in!
+[03-30 19:44:33]: [INFO] SteveGrKek logged out
+[03-30 19:45:07]: [FINE] SteveGrKek used the wrong password
+[03-30 19:45:11]: [FINE] SteveGrKek logged in!
+[03-30 19:47:42]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-31 15:00:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-31 15:00:20]: [INFO] MySQL setup finished
+[03-31 15:00:20]: [INFO] Hooked into PermissionsEx!
+[03-31 15:00:20]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-31 15:00:20]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-31 15:00:20]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-31 15:00:20]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-31 15:02:21]: [FINE] SteveGrKek logged in!
+[03-31 15:03:30]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-31 15:04:30]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-31 15:04:31]: [INFO] MySQL setup finished
+[03-31 15:04:31]: [INFO] Hooked into PermissionsEx!
+[03-31 15:04:31]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-31 15:04:31]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-31 15:04:31]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-31 15:04:31]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-31 15:04:33]: [FINE] SteveGrKek logged in!
+[03-31 15:06:04]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-31 15:06:26]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-31 15:06:27]: [INFO] MySQL setup finished
+[03-31 15:06:27]: [INFO] Hooked into PermissionsEx!
+[03-31 15:06:27]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-31 15:06:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-31 15:06:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-31 15:06:27]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-31 15:06:35]: [FINE] SteveGrKek logged in!
+[03-31 15:17:19]: [FINE] SteveGrKek logged in!
+[03-31 15:21:57]: [FINE] SteveGrKek logged in!
+[03-31 15:22:14]: [FINE] SteveGrKek logged in!
+[03-31 15:25:11]: [FINE] SteveGrKek logged in!
+[03-31 15:32:03]: [FINE] SteveGrKek logged in!
+[03-31 15:32:24]: [FINE] SteveGrKek logged in!
+[03-31 15:32:32]: [FINE] SteveGrKek logged in!
+[03-31 15:41:16]: [FINE] SteveGrKek logged in!
+[03-31 15:42:45]: [INFO] AuthMe 5.2-b1542 disabled!
+[03-31 15:43:32]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[03-31 15:43:32]: [INFO] MySQL setup finished
+[03-31 15:43:32]: [INFO] Hooked into PermissionsEx!
+[03-31 15:43:32]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[03-31 15:43:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[03-31 15:43:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[03-31 15:43:32]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[03-31 15:44:38]: [FINE] SteveGrKek logged in!
+[03-31 15:58:30]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-04 08:44:40]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-04 08:44:42]: [WARN] Could not create data source: [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[04-04 08:44:42]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[04-04 08:44:42]: [WARN] Aborting initialization of AuthMe: [IllegalStateException]: Error during initialization of data source
+[04-04 08:44:42]: java.lang.IllegalStateException: Error during initialization of data source
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:46)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	... 19 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[04-04 08:44:42]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[04-04 08:44:42]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-04 08:46:20]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-04 08:46:20]: [INFO] MySQL setup finished
+[04-04 08:46:20]: [INFO] Hooked into PermissionsEx!
+[04-04 08:46:20]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-04 08:46:20]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-04 08:46:20]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-04 08:46:20]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-04 08:46:40]: [FINE] SteveGrKek logged in!
+[04-04 08:50:05]: [FINE] SteveGrKek logged in!
+[04-04 08:51:13]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-04 08:52:24]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-04 08:52:24]: [INFO] MySQL setup finished
+[04-04 08:52:24]: [INFO] Hooked into PermissionsEx!
+[04-04 08:52:24]: [INFO] Hooked successfully into Essentials
+[04-04 08:52:24]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[04-04 08:52:24]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-04 08:52:24]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-04 08:52:24]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-04 08:52:24]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-04 08:52:45]: [FINE] SteveGrKek logged in!
+[04-04 09:03:19]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-04 09:03:44]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-04 09:03:45]: [INFO] MySQL setup finished
+[04-04 09:03:45]: [INFO] Hooked into PermissionsEx!
+[04-04 09:03:45]: [INFO] Hooked successfully into Essentials
+[04-04 09:03:45]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[04-04 09:03:45]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-04 09:03:45]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-04 09:03:45]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-04 09:03:45]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-04 09:03:56]: [FINE] SteveGrKek logged in!
+[04-04 09:19:19]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-04 09:19:33]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-04 09:19:34]: [INFO] MySQL setup finished
+[04-04 09:19:34]: [INFO] Hooked into PermissionsEx!
+[04-04 09:19:34]: [INFO] Hooked successfully into Essentials
+[04-04 09:19:34]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[04-04 09:19:34]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-04 09:19:34]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-04 09:19:34]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-04 09:19:34]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-04 09:19:51]: [FINE] SteveGrKek logged in!
+[04-04 09:31:21]: [FINE] SteveGrKek logged in!
+[04-04 10:12:42]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-05 09:40:40]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-05 09:40:40]: [INFO] MySQL setup finished
+[04-05 09:40:40]: [INFO] Hooked into PermissionsEx!
+[04-05 09:40:40]: [INFO] Hooked successfully into Essentials
+[04-05 09:40:40]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[04-05 09:40:40]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-05 09:40:41]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-05 09:40:41]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-05 09:40:41]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-05 09:41:35]: [FINE] SteveGrKek logged in!
+[04-05 10:02:33]: [INFO] AuthMe 5.2-b1542 disabled!
+[04-05 10:02:53]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[04-05 10:02:54]: [INFO] MySQL setup finished
+[04-05 10:02:54]: [INFO] Hooked into PermissionsEx!
+[04-05 10:02:54]: [INFO] Hooked successfully into Essentials
+[04-05 10:02:54]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[04-05 10:02:54]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[04-05 10:02:54]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[04-05 10:02:54]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[04-05 10:02:54]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[04-05 10:02:56]: [FINE] SteveGrKek logged in!
+[04-05 10:05:28]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-03 12:30:09]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-03 12:30:11]: [WARN] Could not create data source: [PoolInitializationException]: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[05-03 12:30:11]: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[05-03 12:30:11]: [WARN] Aborting initialization of AuthMe: [IllegalStateException]: Error during initialization of data source
+[05-03 12:30:11]: java.lang.IllegalStateException: Error during initialization of data source
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:46)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:24)
+	at fr.xephi.authme.libs.jalu.injector.handlers.provider.ProviderHandlerImpl$UninitializedProviderInstantiation.instantiateWith(ProviderHandlerImpl.java:138)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:184)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:162)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:51)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:219)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:139)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373)
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332)
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271)
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:512)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:105)
+	at fr.xephi.authme.libs.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:94)
+	at fr.xephi.authme.datasource.MySQL.getConnection(MySQL.java:151)
+	at fr.xephi.authme.datasource.MySQL.checkTablesAndColumns(MySQL.java:155)
+	at fr.xephi.authme.datasource.MySQL.<init>(MySQL.java:72)
+	at fr.xephi.authme.initialization.DataSourceProvider.createDataSource(DataSourceProvider.java:67)
+	at fr.xephi.authme.initialization.DataSourceProvider.get(DataSourceProvider.java:43)
+	... 19 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:983)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:339)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:95)
+	at fr.xephi.authme.libs.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:101)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:341)
+	at fr.xephi.authme.libs.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:506)
+	... 26 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	... 42 more
+
+[05-03 12:30:11]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[05-03 12:30:11]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-03 12:31:31]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-03 12:31:32]: [INFO] MySQL setup finished
+[05-03 12:31:32]: [INFO] Hooked into PermissionsEx!
+[05-03 12:31:32]: [INFO] Hooked successfully into Essentials
+[05-03 12:31:32]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[05-03 12:31:32]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[05-03 12:31:32]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[05-03 12:31:32]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[05-03 12:33:08]: [FINE] SteveGrKek logged in!
+[05-03 12:39:25]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-03 12:39:58]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-03 12:39:59]: [INFO] MySQL setup finished
+[05-03 12:39:59]: [INFO] Hooked into PermissionsEx!
+[05-03 12:39:59]: [INFO] Hooked successfully into Essentials
+[05-03 12:39:59]: [INFO] Hooked successfully into Multiverse-Core
+[05-03 12:39:59]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[05-03 12:39:59]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[05-03 12:39:59]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[05-03 12:39:59]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[05-03 12:39:59]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[05-03 12:40:02]: [FINE] SteveGrKek logged in!
+[05-03 12:40:54]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-05 10:19:52]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-05 10:19:53]: [INFO] MySQL setup finished
+[05-05 10:19:53]: [INFO] Hooked into PermissionsEx!
+[05-05 10:19:53]: [INFO] Hooked successfully into Essentials
+[05-05 10:19:53]: [INFO] Hooked successfully into Multiverse-Core
+[05-05 10:19:53]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[05-05 10:19:53]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[05-05 10:19:54]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[05-05 10:19:54]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[05-05 10:19:54]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[05-05 10:23:34]: [FINE] SteveGrKek logged in!
+[05-05 10:29:48]: [FINE] SteveGrKek logged in!
+[05-05 10:35:39]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-05 10:36:10]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-05 10:36:10]: [INFO] MySQL setup finished
+[05-05 10:36:10]: [INFO] Hooked into PermissionsEx!
+[05-05 10:36:10]: [INFO] Hooked successfully into Essentials
+[05-05 10:36:10]: [INFO] Hooked successfully into Multiverse-Core
+[05-05 10:36:10]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[05-05 10:36:10]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[05-05 10:36:11]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[05-05 10:36:11]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[05-05 10:36:11]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[05-05 10:36:57]: [FINE] SteveGrKek logged in!
+[05-05 10:39:20]: [FINE] SteveGrKek logged in!
+[05-05 10:42:19]: [FINE] SteveGrKek logged in!
+[05-05 10:46:37]: [FINE] SteveGrKek logged in!
+[05-05 10:53:50]: [INFO] AuthMe 5.2-b1542 disabled!
+[05-05 10:54:48]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[05-05 10:54:48]: [INFO] MySQL setup finished
+[05-05 10:54:48]: [INFO] Hooked into PermissionsEx!
+[05-05 10:54:48]: [INFO] Hooked successfully into Essentials
+[05-05 10:54:48]: [INFO] Hooked successfully into Multiverse-Core
+[05-05 10:54:48]: [INFO] Essentials spawn file not found: 'E:\games\Дети\Artem\Minecraft Servers\FineWorld\server1\plugins\Essentials\spawn.yml'
+[05-05 10:54:48]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[05-05 10:54:49]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[05-05 10:54:49]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[05-05 10:54:49]: [INFO] AuthMe 5.2 build n.1542 correctly enabled!
+[05-05 10:54:56]: [FINE] SteveGrKek logged in!
+[05-05 11:30:00]: [INFO] AuthMe 5.2-b1542 disabled!

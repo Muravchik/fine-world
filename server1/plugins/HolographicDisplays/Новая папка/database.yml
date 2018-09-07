@@ -1,0 +1,6 @@
+# 
+# shop_resources:
+welcome:
+  location: spawn, 0.500, 83.200, 4.500
+  lines:
+  - '&aДобро пожаловать на &c&lSurvival'

@@ -1,0 +1,1 @@
+Настраивать правила в plgugins/Essentials/rules.txt

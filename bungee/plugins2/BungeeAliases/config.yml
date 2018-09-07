@@ -1,0 +1,18 @@
+# Set messages to "" to disable them
+connectingMessage: "§aТелепортирование в %s."
+connectingNoPermission: "§cУ вас нет прав что бы телепортироваться в %s."
+alreadyConnectedMessage: "§aВы были перенаправлены в %s."
+# Aliases
+aliases:
+## Example
+#    server: 
+#        "/somealias":
+#            forward: false
+#        "/somealias2":
+#            forward: true
+#            permission: any.bungee.permission
+    Lobby:
+        "/lobby":
+            forward: true
+        "/hub":
+            forward: true

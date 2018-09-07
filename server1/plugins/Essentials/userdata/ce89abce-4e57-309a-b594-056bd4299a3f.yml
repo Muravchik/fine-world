@@ -1,0 +1,29 @@
+lastAccountName: EleforCreate
+timestamps:
+  login: 1529054205667
+  logout: 1529058499494
+  lastteleport: 1529058420335
+  kits:
+    firework: 1528872959116
+    color: 1528872616700
+    notch: 1528872607732
+    dtools: 1528872595069
+    tools: 1528872587522
+ipAddress: 127.0.0.1
+lastlocation:
+  world: spawn
+  x: 8.8008681869006
+  y: 86.8800881214508
+  z: -14.964973165890296
+  yaw: -173.93257
+  pitch: 18.824928
+logoutlocation:
+  world: spawn
+  x: 21.943172418833655
+  y: 95.23823928280615
+  z: 8.555016609309742
+  yaw: 30.00047
+  pitch: 1.2000384
+money: '9979999207.5'
+afk: false
+nickname: EleforCreate

@@ -1,0 +1,19 @@
+lastAccountName: Sato
+timestamps:
+  login: 1528974872363
+  logout: 1528974896477
+ipAddress: 25.32.139.191
+lastlocation:
+  world: spawn
+  x: 7.5
+  y: 77.0
+  z: -4.5
+  yaw: 1.6826472
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 80.0
+  z: 0.5
+  yaw: 0.0
+  pitch: -7.0

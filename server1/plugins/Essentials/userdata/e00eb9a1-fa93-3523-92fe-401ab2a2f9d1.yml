@@ -1,0 +1,25 @@
+lastAccountName: Frozentrone
+timestamps:
+  login: 1529058445273
+  lastteleport: 1528971274822
+  logout: 1529058504617
+  kits:
+    firework: 1528971696312
+    color: 1528872644866
+ipAddress: 25.45.245.197
+lastlocation:
+  world: spawn
+  x: -34.688043124547676
+  y: 81.00133597911214
+  z: 37.81873792093084
+  yaw: -333.38916
+  pitch: -22.621548
+logoutlocation:
+  world: spawn
+  x: -38.5
+  y: 89.0
+  z: -16.5
+  yaw: -8.512085
+  pitch: 13.130345
+money: '10000000007.5'
+afk: false

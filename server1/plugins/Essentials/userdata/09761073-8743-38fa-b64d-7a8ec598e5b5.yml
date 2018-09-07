@@ -1,0 +1,29 @@
+lastAccountName: Mum1a
+timestamps:
+  login: 1529056992049
+  lastteleport: 1529057049100
+  logout: 1529058026249
+  kits:
+    firework: 1528974181972
+    color: 1529052897681
+    notch: 1528974168682
+    dtools: 1528974154794
+    tools: 1528974147796
+ipAddress: 25.48.103.77
+lastlocation:
+  world: spawn
+  x: 35.69510377821301
+  y: 88.87378589669983
+  z: 50.698290169266926
+  yaw: 187.0506
+  pitch: -33.953266
+afk: false
+logoutlocation:
+  world: spawn
+  x: -34.77792739818675
+  y: 82.1744790034559
+  z: 33.67505731934493
+  yaw: 61.88269
+  pitch: 14.9486265
+money: '10000000000'
+nickname: Mum1a

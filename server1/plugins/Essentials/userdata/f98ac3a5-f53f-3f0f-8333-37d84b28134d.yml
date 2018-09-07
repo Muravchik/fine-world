@@ -1,0 +1,21 @@
+lastAccountName: Odmen
+timestamps:
+  login: 1502955494098
+  logout: 1502955671703
+  lastteleport: 1502955500113
+ipAddress: 127.0.0.1
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 81.80948674189209
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 616.5
+  y: 47.0
+  z: -9056.5
+  yaw: 247.94873
+  pitch: 23.249985
+godmode: true

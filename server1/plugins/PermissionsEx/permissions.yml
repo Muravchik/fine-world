@@ -1,0 +1,672 @@
+groups:
+  default:
+    permissions:
+    - essentials.help
+    - skinsrestorer.playercmds
+    - skinsrestorer.playercmds.*
+    - authme.player.*
+    - changeskin.command.setskin
+    - changeskin.command.skinupdate
+    - chairs.sit
+    - drugs.use
+    - dynpad.*
+    - essentials.delhome
+    - marry.default
+    - marry.offlinedivorce
+    - marry.marry
+    - marry.home
+    - marry.sethome
+    - marry.tp
+    - marry.gift
+    - marry.chat
+    - marry.user
+    - marry.list
+    - marry.chat.*
+    - marry.selfmarry
+    - marry.seen
+    - chatex.allowchat
+    - chatex.chat.global
+    - essentials.eco.loan
+    - essentials.balance
+    - essentials.build
+    - essentials.home
+    - essentials.sethome
+    - essentials.pay
+    - essentials.help.worldedit
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.warp
+    - essentials.motd
+    - essentials.balancetop
+    - essentials.online
+    - essentials.buy
+    - essentials.rules
+    - essentials.spawn
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.ignore
+    - essentials.signs.use.warp
+    - essentials.warp.list
+    - essentials.kit
+    - essentials.msg
+    - essentials.tpa
+    - essentials.sethome.multiple.default
+    - essentials.sell
+    - worldguard.region.info.*
+    - worldguard.region.list.own
+    - worldguard.region.wand
+    - worldguard.region.select.own.*
+    - worldedit.selection.hpos
+    - worldedit.selection.pos
+    - worldedit.wand
+    - worldedit.navigation.unstuck
+    - worldedit.selection.expand
+    - worldguard.region.claim
+    - worldguard.region.addmember.own
+    - worldguard.region.addmember.own.*
+    - worldguard.region.addowner.own
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.removeowner.own
+    - worldguard.region.removemember.own.*
+    - worldguard.region.removemember.own
+    - worldguard.region.remove.own.*
+    - worldguard.region.select.member.*
+    - worldguard.region.list.own.*
+    - worldguard.region.info.member.*
+    - worldguard.region.info.own.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.flag.flags.use.*
+    - worldguard.region.flag.flags.pvp.*
+    - worldguard.region.flag.flags.vehicle-place.*
+    - worldguard.region.flag.flags.vehicle-destroy.*]
+    - WClans.tag
+    - WClans.war
+    - WClans.ally
+    - WClans.stopally
+    - WClans.stopwar
+    - WClans.use
+    - WClans.clan
+    - WClans.list
+    - WClans.leave
+    - WClans.home
+    - WClans.top
+    - WClans.disband
+    - WClans.info
+    - WClans.online
+    - WClans.balance
+    - WClans.deposit
+    - WClans.msg
+    - WClans.pvp
+    - WClans.upgrade
+    - WClans.invite
+    - WClans.kick
+    - WClans.create
+    - WClans.leader
+    - WClans.sethome
+    - WClans.removehome
+    - WClans.take
+    - WClans.addmoder
+    - WClans.delmoder
+    - WClans.accept
+    - WClans.deny
+    - randomport.portself
+    - randomport.netherport
+    - essentials.ban.notify
+    - essentials.mute.notify
+    - essentials.kick.notify
+    - chestcommands.command.open
+    - chestcommands.open.*
+    - chestcommands.item.*
+    - worldedit.wand.toggle
+    - essentials.chat.url
+    - essentials.book
+    - essentials.book.title
+    - essentials.helpop
+    - essentials.worth
+    - essentials.kits.start
+    - essentials.kits.bonus
+    - essentials.kits.firework
+    - essentials.time
+    - essentials.balance.others
+    - essentials.info
+    - essentials.suicide
+    - customjoinitems.test
+    - essentials.worldessentials.world.world
+    - essentials.worldessentials.world.nether
+    - essentials.protect.alerts
+    - essentials.protect.ownerinfo
+    - essentials.signs.color
+    - essentials.signs.use.*
+    - essentials.afk.auto
+    - bukkit.broadcast
+    - -bukkit.*
+    - -essentials.list
+    - -bukkit.command.*
+    - -bukkit.command.help
+    - -minecraft.command.me
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    - bukkit.broadcast
+    - chatmanager.chat.global
+    - automessage.receive.regular
+    - customjoinitems.*
+    options:
+      weight: '100'
+      prefix: '&8[&6Игрок&8]&e'
+      suffix: ''
+      default: true
+  fly:
+    inheritance:
+    - default
+    permissions:
+    - join.vip
+    - authme.vip
+    - essentials.god
+    - essentials.speed
+    - essentials.fly
+    - essentials.fly.safelogin
+    - essentials.jump
+    - essentials.sethome.multiple.fly
+    options:
+      weight: '90'
+      prefix: '&7[&3Флай&7]&e'
+      suffix: ''
+      default: false
+  vip:
+    inheritance:
+    - fly
+    - default
+    permissions:
+    - authme.vip
+    - essentials.kits.donor
+    - essentials.god
+    - essentials.speed
+    - essentials.fly
+    - essentials.fly.safelogin
+    - essentials.jump
+    - essentials.sethome.multiple.vip
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.magic
+    - essentials.chat.question
+    - essentials.joinfullserver
+    - essentials.clearinventory
+    - essentials.workbench
+    - essentials.wb
+    - essentials.hat
+    - essentials.firework
+    - essentials.feed
+    - essentials.heal
+    - essentials.repair
+    - essentials.repair.armor
+    - essentials.me
+    - essentials.msg.color
+    - essentials.near
+    - WClans.warm.ignore
+    - worldguard.region.flag.flags.sleep.*
+    - worldguard.region.flag.flags.tnt.*
+    - worldguard.region.flag.flags.lighter.*
+    - worldguard.region.flag.flags.fire-spread.*
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '80'
+      prefix: '&7[&cVIP&7]&e'
+      suffix: ''
+      default: false
+  prem:
+    inheritance:
+    - default
+    - fly
+    - vip
+    permissions:
+    - WClans.free.create
+    - essentials.kits.prem
+    - essentials.enderchest
+    - essentials.back
+    - essentials.ptime
+    - essentials.fireball
+    - essentials.repair.enchanted
+    - essentials.compass
+    - essentials.broadcast
+    - essentials.hat
+    - essentials.back.ondeath
+    - essentials.sethome.multiple.prem
+    - essentials.top
+    - essentials.firework.fire
+    options:
+      weight: '70'
+      prefix: '&7[&5Премиум&7]&e'
+      suffix: ''
+      default: false
+  creat:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    permissions:
+    - essentials.kits.creat
+    - essentials.god
+    - essentials.time.set
+    - essentials.afk
+    - essentials.afk.kickexempt
+    - essentials.weather
+    - essentials.enchantments.*
+    - essentials.sethome.multiple.creat
+    - essentials.setwarp
+    - essentials.enchant
+    - essentials.enchant.*
+    - essentials.skull
+    - essentials.back
+    - -essentials.spawnmob.enderdragon
+    - -essentials.spawnmob.wither
+    - -essentials.spawnmob.endercrystal
+    - essentials.spawnmob
+    - essentials.spawnmob.*
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - worldguard.region.flag.flags.entry.*
+    - worldguard.region.flag.flags.invincible.*
+    - worldguard.region.flag.flags.exit.*
+    - worldguard.region.flag.flags.greeting.*
+    - worldguard.region.flag.flags.farewell.*
+    - worldguard.region.flag.flags.use.*
+    - worldguard.region.flag.flags.heal-delay.*
+    - worldguard.region.flag.flags.heal-amount.*
+    - worldguard.region.flag.flags.item-drop.*
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '60'
+      prefix: '&7[&dКреатив&7]&e'
+      suffix: ''
+      default: false
+  creat+:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    - creat
+    permissions:
+    - essentials.sethome.multiple.creatp
+    - CreativeLimiter.bypass
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '50'
+      prefix: '&7[&dКреатив+&7]&e'
+      suffix: ''
+      default: false
+  moder:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    - creat
+    - creat+
+    permissions:
+    - essentials.sethome.multiple.oper
+    - essentials.setwarp
+    - essentials.kits.moder
+    - essentials.sethome.multiple.moder
+    - essentials.give
+    - essentials.item
+    - essentials.getpos
+    - essentials.list.hidden
+    - essentials.spawner.giant
+    - essentials.spawner.squid
+    - essentials.home.others
+    - essentials.sethome.multiple.mvpp
+    - essentials.tppos
+    - essentials.protect.alerts.notrigger
+    - essentials.protect.exemptplacement
+    - essentials.kits.oper
+    - essentials.gamemode
+    - essentials.kits.admin
+    - essentials.time.set
+    - essentials.clearinventory
+    - essentials.sethome.multiple.lord
+    options:
+      weight: '40'
+      prefix: '&7[&2Модератор&7]&c'
+      suffix: ''
+      default: false
+  bog:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    - creat
+    - creat+
+    - moder
+    permissions:
+    - essentials.setwarp
+    - essentials.more
+    - essentials.lightning
+    - essentials.invsee
+    - essentials.feed
+    - essentials.god
+    - essentials.hat
+    - essentials.heal
+    - essentials.repair
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.getpos
+    - essentials.firework
+    - essentials.workbench
+    - essentials.near
+    - essentials.skull
+    - essentials.ptime
+    - essentials.tptoggle
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '35'
+      prefix: '&7[&bБог&7]&a'
+      suffix: ''
+      default: false
+  admin:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    - creat
+    - creat+
+    - moder
+    - bog
+    permissions:
+    - essentials.afk
+    - essentials.gamemode
+    - essentials.sethome.multiple.admin
+    - essentials.tphere
+    - essentials.tpohere
+    - essentials.vanish
+    - essentials.vanish.effect
+    - worldedit.region.set
+    - essentials.kill
+    - essentials.vanish.interact
+    - essentials.vanish.see
+    - worldedit.generation.sphere
+    - worldedit.generation.cylinder
+    - essentials.tp
+    - kill.allow
+    - fawe.worldguard
+    - worldedit.region.set
+    - worldedit.region.walls
+    - worldedit.region.faces
+    - worldedit.region.center
+    - worldedit.history.undo
+    - worldedit.history.redo
+    - essentials.pay
+    - wrg.worldguard
+    - worldedit.region.replace
+    - essentials.seen
+    - essentials.ping
+    - essentials.whois
+    - essentials.tptoggle
+    - essentials.eco
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '30'
+      prefix: '&7[&c&lАдмин&7]&a'
+      suffix: ''
+      default: false
+  gladmin:
+    inheritance:
+    - default
+    - fly
+    - vip
+    - prem
+    - creat
+    - creat+
+    - moder
+    - bog
+    - admin
+    permissions:
+    - kill.allow
+    - antirelog.bypass
+    - worldedit.drain
+    - worldedit.green
+    - worldedit.fill
+    - worldedit.extinguish
+    - worldedit.thaw
+    - worldedit.snow
+    - worldedit.tool.info
+    - worldedit.tool.lrbuild
+    - worldedit.tool.farwand
+    - worldedit.tool.deltree
+    - worldedit.tool.flood-fill
+    - worldedit.tool.replacer
+    - worldedit.tool.data-cycler
+    - worldedit.history.redo
+    - worldedit.history.undo
+    - worldedit.clipboard.copy
+    - worldedit.clipboard.paste
+    - worldedit.clipboard.cut
+    - worldedit.clipboard.rotate
+    - worldedit.region.walls
+    - worldedit.region.hollow
+    - worldedit.region.faces
+    - worldedit.selection.pos
+    - worldedit.selection.hpos
+    - worldedit.generation.pyramid
+    - worldedit.generation.sphere
+    - worldedit.generation.cylinder
+    - worldedit.navigation.ceiling
+    - worldedit.navigation.jumpto.command
+    - worldedit.navigation.descend
+    - worldedit.navigation.ascend
+    - worldedit.navigation.unstuck
+    - worldedit.navigation.thru.command
+    - worldguard.god
+    - worldguard.heal
+    - worldguard.slay
+    - worldguard.locate
+    - worldguard.stack
+    - worldguard.stack.illegitimate
+    - worldguard.stack.damaged
+    - worldguard.region.wand.*
+    - worldguard.region.claim.*
+    - worldguard.region.list.*
+    - worldguard.region.list.own.*
+    - worldguard.region.info.*
+    - worldguard.region.teleport.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.flag.regions.own.*
+    - worldguard.region.flag.flags.*
+    - essentials.enchant
+    - essentials.enchantments.allowunsafe
+    - essentials.enchantments.*
+    - essentials.exp
+    - essentials.exp.give
+    - essentials.exp.others
+    - essentials.exp.set
+    - essentials.broadcast
+    - essentials.feed
+    - essentials.god
+    - essentials.hat
+    - essentials.heal
+    - essentials.repair
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.getpos
+    - essentials.firework
+    - essentials.workbench
+    - essentials.near
+    - essentials.skull
+    - essentials.ptime
+    - essentials.repair.*
+    - essentials.skull.*
+    - essentials.afk
+    - essentials.compass
+    - essentials.feed.others
+    - essentials.firework.fire
+    - essentials.give
+    - essentials.oversizedstacks
+    - essentials.heal.cooldown.bypass
+    - essentials.heal.others
+    - essentials.kit
+    - essentials.kit.exemptdelay
+    - essentials.kits.*
+    - essentials.speed
+    - essentials.time
+    - essentials.time.set
+    - essentials.balancetop
+    - essentials.eco
+    - essentials.pay
+    - essentials.getpos.others
+    - essentials.itemdb
+    - essentials.list
+    - essentials.list.hidden
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg.*
+    - essentials.near.maxexempt
+    - essentials.near.others
+    - essentials.realname
+    - essentials.recipe
+    - essentials.seen
+    - essentials.seen.ipsearch
+    - essentials.suicide
+    - essentials.whois
+    - essentials.antioch
+    - essentials.burn
+    - essentials.clearinventory
+    - essentials.clearinventory.all
+    - essentials.enderchest
+    - essentials.enderchest.modify
+    - essentials.enderchest.others
+    - essentials.fireball
+    - essentials.gc
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.invsee.preventmodify
+    - essentials.kill
+    - essentials.lightning
+    - essentials.lightning.others
+    - essentials.ping
+    - essentials.socialspy
+    - essentials.socialspy.others
+    - essentials.vanish
+    - essentials.vanish.effect
+    - essentials.vanish.interact
+    - essentials.vanish.see
+    - essentials.weather
+    - essentials.spawn.others
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.delwarp
+    - essentials.jump
+    - essentials.sethome.multiple.unlimited
+    - essentials.setwarp
+    - essentials.warp.overwrite.*
+    - essentials.top
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tppos
+    - essentials.teleport.cooldown.bypass
+    - essentials.teleport.timer.bypass
+    - essentials.teleport.timer.move
+    - essentials.tptoggle
+    - essentials.warp.otherplayers
+    - essentials.chat.*
+    - essentials.repair.all
+    - essentials.repair.armor
+    - essentials.repair.enchanted
+    - essentials.skull.modify
+    - essentials.skull.others
+    - essentials.skull.spawn
+    - worldguard.region.redefine.own.*
+    - worldguard.region.remove.own.*
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.bypass.*
+    - -worldedit.limit
+    - -essentials.help.*
+    - -essentials.warp.overwrite.pvp
+    - -essentials.warp.overwrite.help
+    - -worldguard.region.flag.flags.game-mode
+    - -worldguard.region.flag.flags.game-mode.*
+    options:
+      weight: '20'
+      prefix: '&7(&b&lГл.Админ&7) &c'
+      suffix: ''
+  glav:
+    permissions:
+    - '*'
+    options:
+      weight: '10'
+      prefix: '&7[&4&lСоздатель&7] &2&l'
+      suffix: ''
+  builder:
+    permissions:
+    - '*'
+    options:
+      weight: '10'
+      prefix: '&8(&7Строитель&8) &3&l'
+      suffix: ''
+  glbuilder:
+    permissions:
+    - '*'
+    options:
+      weight: '10'
+      prefix: '&8(&e&lDezigner&8) &6&l'
+      suffix: '&f'
+  seksolog:
+    permissions:
+    - '*'
+    options:
+      weight: '10'
+      prefix: '&7(&d&lВсевластный сексолог&7)&c'
+      suffix: '&f'
+schema-version: 1
+users:
+  80063e32-660f-3040-aa72-a0e52f9efa9f:
+    permissions: []
+    group:
+    - glav
+    options:
+      name: SteveGrKek
+      prefix: '&c&lТехнарь&r'
+  8787a290-c8a7-3d07-8805-f3003bbdc0b5:
+    group:
+    - gladmin
+    options:
+      name: Annezlove
+  e00eb9a1-fa93-3523-92fe-401ab2a2f9d1:
+    group:
+    - gladmin
+    options:
+      name: Frozentrone
+      prefix: '&8(&dCe&ble&ast&bia&8)&f'
+  09761073-8743-38fa-b64d-7a8ec598e5b5:
+    group:
+    - gladmin
+    options:
+      name: Mum1a
+      prefix: '&8(&e&lБомж строитель&8) &6&l'
+  3ad49e4a-aa06-3352-9c3a-9ad66b1b9c89:
+    worlds:
+      сексолог&7)&c&l:
+        options:
+          prefix: '&7(&d&lВсевластный'
+    options:
+      name: mitiazavr
+    group:
+    - seksolog
+  e455d052-62bf-3084-868e-cb5a2d449f97:
+    options:
+      name: paradoxGrKek
+      prefix: '&d&lPidor&f'
+  27f1c6dc-9d8f-373f-bca3-f523df8d516c:
+    group:
+    - default

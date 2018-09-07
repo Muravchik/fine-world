@@ -1,0 +1,28 @@
+lastAccountName: MeraMiner
+timestamps:
+  login: 1509613182775
+  lastteleport: 1509549336965
+  logout: 1509613271846
+  kits:
+    color: 1509534137590
+    notch: 1509534124077
+    dtools: 1509534101008
+    tools: 1509534097158
+ipAddress: 127.0.0.1
+lastlocation:
+  world: spawn
+  x: -9.699999988079071
+  y: 82.0
+  z: 3.683427621836543
+  yaw: -287.54944
+  pitch: 29.100016
+afk: false
+godmode: false
+logoutlocation:
+  world: spawn
+  x: 24.920671848009142
+  y: 15.157110573155084
+  z: 33.70796733927412
+  yaw: 134.71994
+  pitch: -40.2678
+money: '15.0'

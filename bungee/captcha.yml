@@ -1,0 +1,12 @@
+Host: localhost
+Username: root
+Password: admin
+Database: fineworld
+Display-Captcha-Online: true
+Image-Generation-Threads: 2
+Log-Join: true
+Ping-Motd: BungeeCord 1.8
+Message-Timeout: '[§cCaptcha§f] Вы слишком долго вводили капчу'
+Message-Enter: '[§cCaptcha§f] Введите номер с картинки в чат, чтобы пройти проверку.
+  Открыть чат кнопкой "T" (английская)'
+Message-Invalid: '[§cCaptcha§f] Неверная капча, у вас осталось §e%d§f попытк%s'

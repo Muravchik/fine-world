@@ -1,0 +1,36 @@
+pvptime: 7
+apple-cd: 40
+ban-command: ban %player% BANNED
+disabled-worlds:
+- asdfhj
+Boolean:
+  pvp-mode: true
+  enable-apple-cooldown: true
+  enable-checks: true
+  kill-on-leave: true
+  kill-on-command: false
+  kill-on-kick: false
+  remove-death-message: true
+  remove-kick-message: true
+  remove-leave-message: true
+  remove-join-message: true
+  ban-on-leave: false
+  ban-on-kick: false
+Messages:
+  action: '&6&lВы находитесь в режиме &c&lPVP&6&l, не выходите из игры! %time%'
+  actionleave: '&e&lPVP окончено, Вы снова можете использовать команды и выходить
+    из игры!'
+  title: '&c&lВы вошли в PVP режим!'
+  titleleave: '&c&lВы вышли из режима PvP'
+  message: '&6&lAntiRelog  » &e&lВы вошли в режим &c&lPVP! &e&lНе выходите из игры
+    и не используйте команды!'
+  messageleave: '&6&lAntiRelog » &e&lВы вышли из режима &c&lPVP! &e&lВы снова можете
+    использовать команды и выходить из игры!'
+  nochat: '&e&lВы не можете использовать команды в &c&lPvP&e&l. %time%.'
+  apple: '&6&lAntiRelog » %time% перед следующим использованием золотого яблока!'
+  flyon: '&cВыключите флай для атаки игроков'
+  godon: '&cВыключите год для атаки игроков'
+  gamemodeon: '&cВыключите креатив для атаки игроков'
+  vanishon: '&cВыключите невидимость для атаки игроков'
+  pvpleave: '&e%player% &aПокинул игру во время ПВП и был наказан'
+  commandkill: '&aВы были убиты, т.к пытались использовать команду во время &cPVP'

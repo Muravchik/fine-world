@@ -1,0 +1,21 @@
+lastAccountName: Kysaka
+timestamps:
+  login: 1509529877532
+  lastteleport: 1509530096848
+  logout: 1509460161863
+ipAddress: 127.0.0.1
+lastlocation:
+  world: spawn_the_end
+  x: 83.97498760873209
+  y: -262.1249795133471
+  z: -3.952478884737326
+  yaw: 59.49005
+  pitch: -16.199982
+afk: false
+logoutlocation:
+  world: spawn
+  x: 10.269260510667895
+  y: 88.11740921236557
+  z: 35.45742277813707
+  yaw: -138.74992
+  pitch: 35.84999

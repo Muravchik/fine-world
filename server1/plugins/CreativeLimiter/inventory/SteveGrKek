@@ -1,0 +1,113 @@
+CREATIVE:
+  inv:
+  - ==: org.bukkit.inventory.ItemStack
+    type: WOOD_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - null
+  - null
+  - null
+  - null
+SURVIVAL:
+  inv:
+  - ==: org.bukkit.inventory.ItemStack
+    type: COMPASS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lМеню сервера §f- §aПКМ ЧТО БЫ ОТКРЫТЬ
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+    amount: 59
+  - ==: org.bukkit.inventory.ItemStack
+    type: SMOOTH_BRICK
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: ENDER_PEARL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lРандомная телепортация
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  armor:
+  - null
+  - null
+  - null
+  - null

@@ -1,0 +1,488 @@
+data:
+  properties:
+    type: 0
+    size: 0
+    gui: false
+  inventory:
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 8
+    - 9
+    - 10
+    - 11
+    - 13
+    - 18
+    - 27
+    - 28
+    - 29
+    items:
+    - ? type: COAL
+      : null
+    - ? type: COAL
+        damage: 1
+      : null
+    - ? type: IRON_INGOT
+      : null
+    - ? type: GOLD_INGOT
+      : null
+    - ? type: DIAMOND
+      : null
+    - ? type: FLINT
+      : null
+    - ? type: GLOWSTONE_DUST
+      : null
+    - ? type: STRING
+      : null
+    - ? type: SULPHUR
+      : null
+    - ? type: FEATHER
+      : null
+    - ? type: LEATHER
+      : null
+    - ? type: CLAY_BALL
+      : null
+    - ? type: SUGAR_CANE
+      : null
+    - ? type: INK_SACK
+        damage: 15
+      : null
+    - ? type: INK_SACK
+      : null
+    slotdata:
+      '0':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '1':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '2':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '3':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '4':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '5':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '6':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '7':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '8':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '9':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '10':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '11':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '12':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '13':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '14':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '15':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '16':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '17':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '18':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '19':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '20':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '21':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '22':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '23':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '24':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '25':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '26':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '27':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '28':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '29':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '30':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '31':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '32':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '33':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '34':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '35':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '36':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '37':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '38':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '39':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '40':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '41':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '42':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '43':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '44':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '45':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '46':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '47':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '48':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '49':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '50':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '51':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '52':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '53':
+        page: РЕСУРСЫ
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None

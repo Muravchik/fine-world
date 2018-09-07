@@ -1,0 +1,15 @@
+menu-item:
+  name: '&e&lМеню сервера &f- &aПКМ ЧТО БЫ ОТКРЫТЬ'
+  id: 345
+  slot: 1
+  lore: []
+  command: 'menu'
+  cooldown-seconds: 5
+  permission: 'customjoinitems.menu'
+random-tp-item:
+  name: '&e&lРандомная телепортация'
+  id: 368
+  lore: []
+  command: 'rp'
+  cooldown-seconds: 0
+  slot: 9

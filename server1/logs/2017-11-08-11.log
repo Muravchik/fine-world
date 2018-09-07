@@ -1,0 +1,1501 @@
+[15:56:27] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:56:27] [Server thread/INFO]: Loading properties
+[15:56:27] [Server thread/INFO]: Default game type: SURVIVAL
+[15:56:27] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-95dd097-305df90 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:56:27] [Server thread/INFO]: Debug logging is disabled
+[15:56:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:56:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:56:27] [Server thread/INFO]: Generating keypair
+[15:56:28] [Server thread/INFO]: Starting Minecraft server on *:23042
+[15:56:28] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:56:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.7-SNAPSHOT;
+[15:56:28] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:56:28] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[15:56:28] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
+[15:56:28] [Server thread/INFO]: [CreativeLimiter] Loading CreativeLimiter v1.0
+[15:56:28] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v1.4
+[15:56:28] [Server thread/INFO]: [DynPad] Loading DynPad v1.5
+[15:56:28] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[15:56:28] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[15:56:28] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.1.4
+[15:56:28] [Server thread/INFO]: [dtlCore] Loading dtlCore v1.1
+[15:56:28] [Server thread/INFO]: [OPSRegion] Loading OPSRegion v1.0
+[15:56:28] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:56:28] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:56:28] [Server thread/INFO]: [RandomPort] Loading RandomPort v2.0
+[15:56:28] [Server thread/INFO]: [WGExtender] Loading WGExtender v1.0
+[15:56:28] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[15:56:28] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, waiting for boot. (late-bind)
+[15:56:28] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[15:56:28] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.4.7
+[15:56:28] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:56:28] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b468
+[15:56:28] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
+[15:56:28] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
+[15:56:28] [Server thread/INFO]: [mcjobs] Loading mcjobs v3.2.0
+[15:56:28] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.16
+[15:56:28] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
+[15:56:28] [Server thread/INFO]: [ShoppingCartReloaded] Loading ShoppingCartReloaded v1.2u11
+[15:56:28] [Server thread/INFO]: [WClans] Loading WClans v1.0
+[15:56:28] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0-SNAPSHOT-b318
+[15:56:28] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[15:56:29] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
+[15:56:29] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[15:56:29] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[15:56:29] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[15:56:29] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
+[15:56:29] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[15:56:29] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.6
+[15:56:29] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.5.1
+[15:56:29] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[15:56:29] [Server thread/INFO]: [SystemBoard] Loading SystemBoard v1.0
+[15:56:29] [Server thread/INFO]: [dtlTraders] Loading dtlTraders v3.4.3
+[15:56:29] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v2.7.8
+[15:56:29] [Server thread/INFO]: [CreativeLimiter] Enabling CreativeLimiter v1.0
+[15:56:29] [Server thread/ERROR]: [CreativeLimiter] Plugin CreativeLimiter v1.0 has failed to register events for class creativeLimiter.misc.JoinGamemodeChanger because fr/xephi/authme/events/LoginEvent does not exist.
+[15:56:29] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:56:29] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:56:29] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:56:29] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:56:29] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:56:29] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:56:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
+[15:56:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0-SNAPSHOT-b318
+[15:56:29] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:56:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:56:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:56:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:56:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:56:29] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:56:29] [Server thread/INFO]: Preparing level "spawn"
+[15:56:29] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[15:56:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:29] [Server thread/INFO]: View Distance: 10
+[15:56:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:29] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:29] [Server thread/INFO]: Structure Info Saving: true
+[15:56:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:29] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:29] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:30] [Server thread/INFO]: -------- World Settings For [spawn_nether] --------
+[15:56:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:30] [Server thread/INFO]: View Distance: 10
+[15:56:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:30] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:30] [Server thread/INFO]: Structure Info Saving: true
+[15:56:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:30] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:30] [Server thread/INFO]: -------- World Settings For [spawn_the_end] --------
+[15:56:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:30] [Server thread/INFO]: View Distance: 10
+[15:56:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:30] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:30] [Server thread/INFO]: Structure Info Saving: true
+[15:56:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:30] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:30] [Server thread/INFO]: Preparing start region for level 0 (Seed: 410319177273859862)
+[15:56:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: 410319177273859862)
+[15:56:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: 410319177273859862)
+[15:56:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.7-SNAPSHOT;
+[15:56:31] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
+[15:56:31] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** Эта версия WorldEdit не полностью поддерживает вашу версию Bukkit.
+**
+** При работе с блоками или отмены, сундуки будут пустыми,
+** таблички будут пустыми и так далее. Не будет быть никакой поддержки с сущностями
+** и функциями, связанные с биом.
+**
+** Пожалуйста, смотрите http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[15:56:31] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:56:31] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
+[15:56:31] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:56:31] [Server thread/INFO]: git-Spigot-95dd097-305df90 (MC: 1.12.2)
+[15:56:31] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
+[15:56:31] [Server thread/INFO]: Using locale ru_RU
+[15:56:31] [Server thread/INFO]: Using locale ru_RU
+[15:56:31] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:56:31] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:56:31] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:56:31] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[15:56:31] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:56:31] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:56:31] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:56:31] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:56:31] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
+[15:56:31] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
+[15:56:31] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v1.4
+[15:56:31] [Server thread/INFO]: [0;36;1m_________[0;35;1mAntiRelog++[0;36;1m_________[m
+[15:56:31] [Server thread/INFO]: [0;33;1mUsing Essentials: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mEnable apple cooldown: [0;32;1mtrue [0;31;1mCooldown: [0;32;1m40[m
+[15:56:31] [Server thread/INFO]: [0;33;1mChecks enabled: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mRemove death message: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mRemove kick message: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mRemove leave message: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mRemove join message: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mKill on leave: [0;32;1mtrue[m
+[15:56:31] [Server thread/INFO]: [0;33;1mKill on command: [0;31;1mfalse[m
+[15:56:31] [Server thread/INFO]: [0;36;1m_____________________________[m
+[15:56:31] [Server thread/INFO]: [DynPad] Enabling DynPad v1.5
+[15:56:31] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn) All fire spread is disabled.
+[15:56:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_nether) TNT ignition is PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lighters are PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lava fire is blocked.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_nether) All fire spread is disabled.
+[15:56:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_nether'
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_the_end) TNT ignition is PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lighters are PERMITTED.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lava fire is blocked.
+[15:56:32] [Server thread/INFO]: [WorldGuard] (spawn_the_end) All fire spread is disabled.
+[15:56:32] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_the_end'
+[15:56:32] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:56:32] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[15:56:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:56:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:32] [Server thread/INFO]: View Distance: 10
+[15:56:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:32] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:32] [Server thread/INFO]: Structure Info Saving: true
+[15:56:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:32] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:32] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:32] [Server thread/INFO]: Preparing start region for level 3 (Seed: 8570623197069426260)
+[15:56:32] [Thread-7/INFO]: [ClearLag] No updates found!
+[15:56:33] [Server thread/INFO]: Preparing spawn area for world, 61%
+[15:56:33] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:56:33] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:56:33] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[15:56:33] [Server thread/INFO]: [WorldGuard] (world) All fire spread is disabled.
+[15:56:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:56:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:56:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:33] [Server thread/INFO]: View Distance: 10
+[15:56:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:33] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:33] [Server thread/INFO]: Structure Info Saving: true
+[15:56:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:33] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:33] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:33] [Server thread/INFO]: Preparing start region for level 4 (Seed: -3298942280613799380)
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
+[15:56:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:56:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:56:34] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:56:34] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:56:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:56:34] [Server thread/INFO]: View Distance: 10
+[15:56:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:56:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:56:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:56:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:56:34] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:56:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:56:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:56:34] [Server thread/INFO]: Random Lighting Updates: false
+[15:56:34] [Server thread/INFO]: Structure Info Saving: true
+[15:56:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:56:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:56:34] [Server thread/INFO]: Max TNT Explosions: 100
+[15:56:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:56:34] [Server thread/INFO]: Mob Spawn Range: 4
+[15:56:34] [Server thread/INFO]: Preparing start region for level 5 (Seed: -3298942280613799380)
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[15:56:34] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
+[15:56:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:56:34] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[15:56:34] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.1.4
+[15:56:34] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[m
+[15:56:34] [Server thread/INFO]: [dtlCore] Enabling dtlCore v1.1
+[15:56:34] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Loading config files[m
+[15:56:34] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Registering attributes and flags...[m
+[15:56:34] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Enabled[m
+[15:56:34] [Server thread/INFO]: [OPSRegion] Enabling OPSRegion v1.0
+[15:56:34] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[15:56:34] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:56:34] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:56:34] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[15:56:34] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:56:34] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:56:34] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:56:34] [Server thread/INFO]: [RandomPort] Enabling RandomPort v2.0
+[15:56:34] [Server thread/INFO]: [RandomPort v2.0]  has been enabled.
+[15:56:34] [Server thread/INFO]: [RandomPort] has successfully loaded setup from the configuration file!
+[15:56:34] [Server thread/INFO]: [RandomPort]is avoiding Block Id's [7, 8, 9, 10, 11]
+[15:56:34] [Server thread/INFO]: [WGExtender] Enabling WGExtender v1.0
+[15:56:34] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[15:56:34] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[15:56:34] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.4.7
+[15:56:34] [Server thread/INFO]: [MineResetLite] MRL is managed and developed by Boomclaw under the Apache 2.0 license.
+[15:56:34] [Server thread/INFO]: [MineResetLite] For any issues or suggestions, use the Spigot discussion thread. Do not PM any of the developers.
+[15:56:34] [Server thread/INFO]: [MineResetLite] Loading mine from file 'mine.mine.yml'...
+[15:56:34] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b468
+[15:56:34] [Server thread/WARN]: §4Версии не совпадают! Обнови все компоненты Essentials до актуальной версии.
+[15:56:34] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
+[15:56:35] [Server thread/INFO]: [mcjobs] Enabling mcjobs v3.2.0
+[15:56:35] [Server thread/INFO]: [mcjobs] Using builtin logging methods.
+[15:56:35] [Server thread/INFO]: [mcjobs] WorldGuard found.  Enabling WorldGuard protections.
+[15:56:35] [Server thread/INFO]: [mcjobs] Found Vault 1.5.6-b49
+[15:56:35] [Server thread/ERROR]: Error occurred while enabling mcjobs v3.2.0 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+	at com.dmgkz.mcjobs.localization.GetLanguage.loadLanguage(GetLanguage.java:333) ~[?:?]
+	at com.dmgkz.mcjobs.McJobs.mcloadconf(McJobs.java:200) ~[?:?]
+	at com.dmgkz.mcjobs.McJobs.onEnable(McJobs.java:135) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:384) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:333) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:56:35] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.16
+[15:56:35] [Server thread/INFO]: [Marriage] Loading config...
+[15:56:35] [Server thread/INFO]: [Marriage] Hooked with PermissionsEx using Vault!
+[15:56:35] [Server thread/INFO]: [Marriage] Loading dependencies...
+[15:56:35] [Server thread/INFO]: [Marriage] Loading commands...
+[15:56:35] [Server thread/INFO]: [Marriage] Loading listeners...
+[15:56:35] [Server thread/INFO]: [Marriage] Loading database...
+[15:56:35] [Server thread/INFO]: [Marriage] Loading updater...
+[15:56:35] [Server thread/INFO]: [Marriage] Loading converter...
+[15:56:35] [Server thread/INFO]: [Marriage] Completed plugin load stage.
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Enabling ShoppingCartReloaded v1.2u11
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Checking for libraries...
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] scala-library-2.11.0.jar is already installed
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-core-4.48.jar is already installed
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-jdbc-4.48.jar is already installed
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] gson-2.1.jar is already installed
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/games/Дети/Artem/Minecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/scala-library-2.11.0.jar into ClassLoader
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/games/Дети/Artem/Minecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/ormlite-core-4.48.jar into ClassLoader
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/games/Дети/Artem/Minecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/ormlite-jdbc-4.48.jar into ClassLoader
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/games/Дети/Artem/Minecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/gson-2.1.jar into ClassLoader
+[15:56:35] [Server thread/INFO]: [ShoppingCartReloaded] Using PermissionEx
+[15:56:35] [Server thread/ERROR]: Error occurred while enabling ShoppingCartReloaded v1.2u11 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadYamlAndMerge(ShoppingCartReloaded.scala:167) ~[?:?]
+	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadMessages(ShoppingCartReloaded.scala:57) ~[?:?]
+	at me.limito.bukkit.shopcart.ShoppingCartReloaded.reload(ShoppingCartReloaded.scala:45) ~[?:?]
+	at me.limito.bukkit.shopcart.ShoppingCartReloaded.onEnable(ShoppingCartReloaded.scala:29) ~[?:?]
+	at me.limito.bukkit.shopcart.PluginPreloader.onEnable(PluginPreloader.java:67) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:384) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:333) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:56:35] [Server thread/INFO]: [WClans] Enabling WClans v1.0
+[15:56:35] [Server thread/INFO]: [0;32;1m[WClans] Соединение с базой данных успешно установлено.[m
+[15:56:35] [Server thread/INFO]: [0;32;1m[WClans] База кланов загружена.[m
+[15:56:35] [Server thread/INFO]: [0;32;1m[WClans] [0;32;1mПлагин включен (17 ms).[m
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
+[15:56:35] [Server thread/WARN]: [NoCheatPlus] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:56:35] [Server thread/WARN]: [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+[15:56:35] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[15:56:35] [Server thread/WARN]: [NoCheatPlus] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+[15:56:36] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+[15:56:36] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
+[15:56:36] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[15:56:36] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[15:56:36] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.6
+[15:56:36] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
+[15:56:36] [Server thread/INFO]: [ChatEx] Loading updater-config...
+[15:56:36] [Server thread/INFO]: [ChatEx] Done!
+[15:56:36] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
+[15:56:36] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
+[15:56:36] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
+[15:56:36] [Server thread/INFO]: [ChatEx] is now enabled!
+[15:56:36] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.5.1
+[15:56:36] [Server thread/INFO]: [ServerSigns] Version 4.5.1 is now enabled.
+[15:56:36] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[15:56:36] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[15:56:36] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[15:56:36] [Server thread/INFO]: [SystemBoard] Enabling SystemBoard v1.0
+[15:56:36] [Server thread/INFO]: [0;32;1m[SystemBoard] Соединение с базой данных успешно установлено.[m
+[15:56:36] [Server thread/INFO]: {stevegrkek2=ru.jampire.systemboard.Stat@57b3cf0a, stevegrkek1=ru.jampire.systemboard.Stat@4adf1ae1, stevegrkek=ru.jampire.systemboard.Stat@690e4545, kysaka=ru.jampire.systemboard.Stat@15c2ffc, odmen=ru.jampire.systemboard.Stat@48de6b42, meraminer=ru.jampire.systemboard.Stat@7ae468aa}
+[15:56:36] [Server thread/INFO]: [0;32;1m[SystemBoard] База статистики загружена. (6)[m
+[15:56:36] [Server thread/INFO]: [0;32;1m[SystemBoard] Запуск в пакетном режиме ProtocolLib.[m
+[15:56:36] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин включен. ([0;33;1m14 ms[0;32;1m)[m
+[15:56:36] [Server thread/INFO]: [dtlTraders] Enabling dtlTraders v3.4.3
+[15:56:36] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Economy plugin: [0;33;1mEssentials Economy[m
+[15:56:36] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
+[15:56:36] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registered types: [0;37;1m[[0;33;1mserver[m[0;37;1m][m
+[15:56:36] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Permission plugin: [0;33;1mPermissionsEx[m
+[15:56:36] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Enabled[m
+[15:56:36] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v2.7.8
+[15:56:36] [Server thread/INFO]: [0;36;1m[ItemFixer] [0;32;1mItemFixer enabled[m
+[15:56:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:56:37] [Thread-15/INFO]: [0;36;1m[ItemFixer] [0;31;1mНайдено новое обновление! [0;37;22m// [0;31;1mNew update found[m
+[15:56:37] [Server thread/INFO]: Done (7,373s)! For help, type "help" or "?"
+[15:56:37] [Server thread/INFO]: Using default channel type
+[15:56:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[15:56:37] [Craft Scheduler Thread - 10/INFO]: [Marriage] Purged 0 player entries in 1ms
+[15:56:37] [Craft Scheduler Thread - 11/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[15:56:37] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+[15:56:37] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    | SkinsRestorer |[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;36;1m    Current version: [0;31;1m13.1.4[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;31;1m    A new version is available! Download it at:[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;33;1m    https://www.spigotmc.org/resources/skinsrestorer.2124/[m
+[15:56:37] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
+[15:56:38] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:56:39] [Server thread/INFO]: [Citizens] Loaded 7 NPCs.
+[15:56:39] [Craft Scheduler Thread - 9/INFO]: [Vault] Checking for Updates ... 
+[15:56:39] [Craft Scheduler Thread - 9/INFO]: [Vault] No new version available
+[15:56:41] [Server thread/INFO]: [ChatEx] There is no new version available. You are up-to-date!
+[15:56:49] [Netty Server IO #1/WARN]: Failed to initialize a channel. Closing: [id: 0x631e40cf, L:/127.0.0.1:23042 - R:/127.0.0.1:51352]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:56:49] [Netty Server IO #1/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:56:49] [Netty Server IO #2/WARN]: Failed to initialize a channel. Closing: [id: 0x5defa56e, L:/127.0.0.1:23042 - R:/127.0.0.1:51356]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:56:49] [Netty Server IO #2/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:00] [Craft Scheduler Thread - 5/INFO]: [Metrics] Connection timed out: connect
+[15:57:22] [Netty Server IO #3/WARN]: Failed to initialize a channel. Closing: [id: 0x3c2a6f8a, L:/127.0.0.1:23042 - R:/127.0.0.1:51415]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:22] [Netty Server IO #3/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:22] [Netty Server IO #0/WARN]: Failed to initialize a channel. Closing: [id: 0xc1beb26f, L:/127.0.0.1:23042 - R:/127.0.0.1:51418]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register(AbstractChannel.java:476) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:80) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:74) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.MultithreadEventLoopGroup.register(MultithreadEventLoopGroup.java:86) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(ServerBootstrap.java:255) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$3.channelRead(ProtocolInjector.java:171) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.AbstractNioMessageChannel$NioMessageUnsafe.read(AbstractNioMessageChannel.java:93) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:22] [Netty Server IO #0/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:25] [Netty Server IO #1/WARN]: Failed to initialize a channel. Closing: [id: 0x92942d3f, L:/127.0.0.1:23042 - R:/127.0.0.1:51420]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:25] [Netty Server IO #1/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:25] [Netty Server IO #2/WARN]: Failed to initialize a channel. Closing: [id: 0x8d530ff2, L:/127.0.0.1:23042 - R:/127.0.0.1:51422]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:25] [Netty Server IO #2/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:31] [Netty Server IO #3/WARN]: Failed to initialize a channel. Closing: [id: 0x3e91f743, L:/127.0.0.1:23042 - R:/127.0.0.1:51426]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:31] [Netty Server IO #3/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:32] [Netty Server IO #0/WARN]: Failed to initialize a channel. Closing: [id: 0x73a05408, L:/127.0.0.1:23042 - R:/127.0.0.1:51430]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register(AbstractChannel.java:476) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:80) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:74) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.MultithreadEventLoopGroup.register(MultithreadEventLoopGroup.java:86) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(ServerBootstrap.java:255) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$3.channelRead(ProtocolInjector.java:171) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.AbstractNioMessageChannel$NioMessageUnsafe.read(AbstractNioMessageChannel.java:93) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:57:32] [Netty Server IO #0/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:17] [Netty Server IO #1/WARN]: Failed to initialize a channel. Closing: [id: 0xa64fde93, L:/127.0.0.1:23042 - R:/127.0.0.1:51464]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:17] [Netty Server IO #1/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:17] [Netty Server IO #2/WARN]: Failed to initialize a channel. Closing: [id: 0x49a8b8e8, L:/127.0.0.1:23042 - R:/127.0.0.1:51469]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:17] [Netty Server IO #2/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:19] [Netty Server IO #3/WARN]: Failed to initialize a channel. Closing: [id: 0x100835d2, L:/127.0.0.1:23042 - R:/127.0.0.1:51471]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:19] [Netty Server IO #3/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:19] [Netty Server IO #0/WARN]: Failed to initialize a channel. Closing: [id: 0x7f72902d, L:/127.0.0.1:23042 - R:/127.0.0.1:51475]
+java.lang.NoSuchMethodError: com.google.common.base.Objects.toStringHelper(Ljava/lang/Object;)Lcom/google/common/base/Objects$ToStringHelper;
+	at com.comphenix.protocol.events.ListeningWhitelist.toString(ListeningWhitelist.java:241) ~[?:?]
+	at java.lang.String.valueOf(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.StringBuilder.append(Unknown Source) ~[?:1.8.0_121]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:273) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:251) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:285) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:257) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printIterables(PrettyPrinter.java:144) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printValue(PrettyPrinter.java:277) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:246) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:124) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:102) ~[?:?]
+	at com.comphenix.protocol.reflect.PrettyPrinter.printObject(PrettyPrinter.java:89) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.getStringDescription(DetailedErrorReporter.java:480) ~[?:?]
+	at com.comphenix.protocol.error.DetailedErrorReporter.reportDetailed(DetailedErrorReporter.java:369) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:63) ~[?:?]
+	at com.comphenix.protocol.error.DelegatedErrorReporter.reportDetailed(DelegatedErrorReporter.java:87) ~[?:?]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$1.initChannel(ProtocolInjector.java:149) ~[?:?]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:235) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:401) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.addLast(DefaultChannelPipeline.java:388) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$2.initChannel(ProtocolInjector.java:159) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register(AbstractChannel.java:476) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:80) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.SingleThreadEventLoop.register(SingleThreadEventLoop.java:74) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.MultithreadEventLoopGroup.register(MultithreadEventLoopGroup.java:86) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor.channelRead(ServerBootstrap.java:255) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at com.comphenix.protocol.injector.netty.ProtocolInjector$3.channelRead(ProtocolInjector.java:171) [ProtocolLib.jar:4.1.0-SNAPSHOT-b318]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.AbstractNioMessageChannel$NioMessageUnsafe.read(AbstractNioMessageChannel.java:93) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[15:58:19] [Netty Server IO #0/WARN]: An exception 'java.lang.NullPointerException' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+java.lang.NullPointerException: null
+	at net.minecraft.server.v1_12_R1.NetworkManager.close(NetworkManager.java:250) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.NetworkManager.channelInactive(NetworkManager.java:106) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:75) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[16:03:19] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m

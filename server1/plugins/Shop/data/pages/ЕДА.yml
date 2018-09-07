@@ -1,0 +1,469 @@
+data:
+  properties:
+    type: 0
+    size: 0
+    gui: false
+  inventory:
+    slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    items:
+    - ? type: APPLE
+      : null
+    - ? type: BREAD
+      : null
+    - ? type: GRILLED_PORK
+      : null
+    - ? type: COOKED_BEEF
+      : null
+    - ? type: COOKED_FISH
+      : null
+    - ? type: COOKED_FISH
+        damage: 1
+      : null
+    - ? type: COOKED_CHICKEN
+      : null
+    - ? type: COOKED_RABBIT
+      : null
+    - ? type: COOKED_MUTTON
+      : null
+    slotdata:
+      '0':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '1':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '2':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '3':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '4':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '5':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '6':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '7':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '8':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '9':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '10':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '11':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '12':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '13':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '14':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '15':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '16':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '17':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '18':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '19':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '20':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '21':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '22':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '23':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '24':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '25':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '26':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '27':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '28':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '29':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '30':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '31':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '32':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '33':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '34':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '35':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '36':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '37':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '38':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '39':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '40':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '41':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '42':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '43':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '44':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '45':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '46':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '47':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '48':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '49':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '50':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '51':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '52':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None
+      '53':
+        page: ЕДА
+        cost: 0.0
+        sell: 0.0
+        cooldown: 0
+        visibility: Visible
+        function: None
+        guifunction: None

@@ -1,0 +1,168 @@
+[22:13:15] [Server thread/INFO]: Loading properties
+[22:13:16] [Server thread/INFO]: Default game type: ADVENTURE
+[22:13:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-95dd097-305df90 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:13:18] [Server thread/INFO]: Debug logging is disabled
+[22:13:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:13:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:13:18] [Server thread/INFO]: Generating keypair
+[22:13:19] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:21071
+[22:13:19] [Server thread/INFO]: Using default channel type
+[22:13:23] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:13:25] [Server thread/INFO]: [INFO][NoCheatPlus] Tue Sep 04 22:13:25 NOVT 2018
+[22:13:25] [Server thread/INFO]: Player instances are stored for efficiency.
+[22:13:25] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[22:13:25] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
+[22:13:26] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
+[22:13:26] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[22:13:26] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[22:13:27] [Server thread/INFO]: [Hide-Players] Loading Hide-Players v1.0
+[22:13:27] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[22:13:27] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
+[22:13:29] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[22:13:29] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[22:13:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
+[22:13:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[22:13:29] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:13:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:29] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:29] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[22:13:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:29] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:13:29] [Server thread/INFO]: Preparing level "world"
+[22:13:30] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:13:30] [Server thread/INFO]: Item Despawn Rate: 1
+[22:13:30] [Server thread/INFO]: Item Merge Radius: 0.0
+[22:13:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:13:30] [Server thread/INFO]: Experience Merge Radius: 0.0
+[22:13:30] [Server thread/INFO]: View Distance: 2
+[22:13:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:13:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:13:30] [Server thread/INFO]: Arrow Despawn Rate: 1
+[22:13:30] [Server thread/INFO]: Random Lighting Updates: false
+[22:13:30] [Server thread/INFO]: Entity Tracking Range: Pl 0 / An 0 / Mo 0 / Mi 0 / Other 0
+[22:13:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:13:30] [Server thread/INFO]: Mob Spawn Range: 0
+[22:13:30] [Server thread/INFO]: Structure Info Saving: false
+[22:13:30] [Server thread/INFO]: *** WARNING *** You have selected to NOT save structure info. This may cause structures such as fortresses to not spawn mobs!
+[22:13:30] [Server thread/INFO]: *** WARNING *** Please use this option with caution, SpigotMC is not responsible for any issues this option may cause in the future!
+[22:13:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:13:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:13:30] [Server thread/INFO]: Entity Activation Range: An 0 / Mo 0 / Mi 0
+[22:13:30] [Server thread/INFO]: Tile Max Tick Time: 8ms Entity max Tick Time: 16ms
+[22:13:30] [Server thread/INFO]: Max TNT Explosions: 100
+[22:13:33] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7142173314759866001)
+[22:13:34] [Server thread/INFO]: Preparing spawn area: 0%
+[22:13:35] [Server thread/INFO]: Preparing spawn area: 9%
+[22:13:36] [Server thread/INFO]: Preparing spawn area: 33%
+[22:13:37] [Server thread/INFO]: Preparing spawn area: 52%
+[22:13:39] [Server thread/INFO]: Preparing spawn area: 66%
+[22:13:40] [Server thread/INFO]: Preparing spawn area: 96%
+[22:13:40] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[22:13:40] [Server thread/INFO]: [Hide-Players] Enabling Hide-Players v1.0
+[22:13:40] [Server thread/INFO]: [Hide-Players] Server by Slavik123123123 Enabled!
+[22:13:40] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[22:13:40] [Server thread/WARN]: [NoCheatPlus] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+[22:13:40] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.5-1.8.8|? / CB-Reflect
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[22:13:41] [Server thread/WARN]: [NoCheatPlus] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[22:13:41] [Server thread/INFO]: [NoCheatPlus] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+[22:13:41] [Server thread/WARN]: Could not register alias login because it contains commands that do not exist: l
+[22:13:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:13:41] [Server thread/INFO]: Done (12,132s)! For help, type "help" or "?"
+[22:13:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[22:13:42] [Craft Scheduler Thread - 1/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[22:13:42] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 198(END_ROD) 
+* MISSING 199(CHORUS_PLANT) 
+* MISSING 200(CHORUS_FLOWER) 
+* MISSING 201(PURPUR_BLOCK / SOLID+GROUND) 
+* MISSING 202(PURPUR_PILLAR / SOLID+GROUND) 
+* MISSING 203(PURPUR_STAIRS / SOLID+GROUND) 
+* MISSING 204(PURPUR_DOUBLE_SLAB / SOLID+GROUND) 
+* MISSING 205(PURPUR_SLAB / SOLID+GROUND) 
+* MISSING 206(END_BRICKS / SOLID+GROUND) 
+* MISSING 207(BEETROOT_BLOCK) 
+* MISSING 208(GRASS_PATH / SOLID+GROUND) 
+* MISSING 209(END_GATEWAY) 
+* MISSING 210(COMMAND_REPEATING / SOLID+GROUND) 
+* MISSING 211(COMMAND_CHAIN / SOLID+GROUND) 
+* MISSING 212(FROSTED_ICE / SOLID+GROUND) 
+* MISSING 213(MAGMA / SOLID+GROUND) 
+* MISSING 214(NETHER_WART_BLOCK / SOLID+GROUND) 
+* MISSING 215(RED_NETHER_BRICK / SOLID+GROUND) 
+* MISSING 216(BONE_BLOCK / SOLID+GROUND) 
+* MISSING 217(STRUCTURE_VOID) 
+* MISSING 218(OBSERVER / SOLID+GROUND) 
+* MISSING 219(WHITE_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 220(ORANGE_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 221(MAGENTA_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 222(LIGHT_BLUE_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 223(YELLOW_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 224(LIME_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 225(PINK_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 226(GRAY_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 227(SILVER_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 228(CYAN_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 229(PURPLE_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 230(BLUE_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 231(BROWN_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 232(GREEN_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 233(RED_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 234(BLACK_SHULKER_BOX / SOLID+GROUND) 
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+* MISSING 255(STRUCTURE_BLOCK / SOLID+GROUND) 
+[22:13:42] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[22:13:42] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[22:13:54] [Server thread/WARN]: [ViaVersion] There is a newer version available: 1.5.0, you're on: 1.3.0
+[22:17:46] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[22:19:33] [User Authenticator #1/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
+[22:19:34] [Server thread/INFO]: SteveGrKek[/127.0.0.1:13157] logged in with entity id 0 at ([world]-1.5, 89.0, 67.5)
+[22:20:16] [Server thread/INFO]: SteveGrKek lost connection: Disconnected
+[22:20:17] [Server thread/INFO]: SteveGrKek left the game
+[23:47:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[23:47:18] [Server thread/INFO]: Stopping the server
+[23:47:18] [Server thread/INFO]: Stopping server
+[23:47:18] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[23:47:18] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[23:47:18] [Server thread/INFO]: Version 3.13.7-RC-sMD5NET-b925 is disabled.
+[23:47:18] [Server thread/INFO]: [Hide-Players] Disabling Hide-Players v1.0
+[23:47:18] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
+[23:47:18] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v2.3.1
+[23:47:18] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
+[23:47:18] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[23:47:18] [Server thread/INFO]: Saving players
+[23:47:18] [Server thread/INFO]: Saving worlds
+[23:47:18] [Server thread/INFO]: Saving chunks for level 'world'/overworld

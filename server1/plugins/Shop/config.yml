@@ -1,0 +1,32 @@
+Misc:
+  MAIN_PAGE: ''
+  UPDATE_CHECK: true
+  COMMAND_PLACEHOLD: false
+Purchase:
+  PURCHASE_GUI: ''
+  COST_PREFIX: '&aCost&7: &2'
+  SHOP_PURCHASE:
+  - '&aYou have purchased &b%quantity% &r%item% &afor &2%cost%'
+  - '&cA total of &4%failed% &cfailed to purchase.'
+  - '&eYour new balance is &2%balance%'
+Sell:
+  SELL_GUI: ''
+  SELL_PREFIX: '&bSell&7: &3'
+  SELL_COMPLETE: '&aYou earned &2%worth%'
+  SHOP_SELL:
+  - '&aYou have sold &b%quantity% &r%item% &afor &2%cost%'
+  - '&eYour new balance is &2%balance%'
+Trade:
+  TRADE_GUI: ''
+Messages:
+  BLACKLIST_ERROR: '&cYou can''t use the shop in this world'
+  PERMISSION_ERROR: '&cYou don''t have permission to use this command'
+  COST_CANNOT_AFFORD: '&cYou can''t afford this item'
+  TRADE_NEED_SPACE: '&cYou need space in your inventory to complete this trade'
+Auto:
+  AUTOSAVE: true
+  AUTOBACKUP: true
+  AUTOSAVE_DELAY: 20
+Sign:
+  SIGN_TAG: '[Shop]'
+  SIGN_ENABLED: false

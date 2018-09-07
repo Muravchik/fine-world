@@ -1,0 +1,26 @@
+remove-invalid-enchants: false
+check-enchants: true
+ignore-worlds:
+- random_mir_228
+nbt:
+- Items
+- ActiveEffects
+- Command
+- CustomName
+- AttributeModifiers
+- Unbreakable
+- CustomPotionEffects
+spawneggs:
+- Fuse
+- CustomName
+- powered
+- ActiveEffects
+- ExplosionPower
+- Size
+armorstand:
+- EntityTag
+writtenbook:
+- ClickEvent
+- run_command
+inventory:
+- BlockEntityTag
