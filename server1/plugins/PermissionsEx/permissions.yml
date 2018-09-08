@@ -1,5 +1,10 @@
 groups:
-  
+  default:
+    default: true
+    options:
+      weight: '1'
+      prefix: '&8(&6Игрок&8)&f &7'
+      suffix: '&r'
   glav:
     permissions:
     - '*'
