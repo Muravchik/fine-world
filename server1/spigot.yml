@@ -12,6 +12,19 @@
 
 config-version: 11
 settings:
+  debug: true
+  save-user-cache-on-stop-only: false
+  player-shuffle: 0
+  netty-threads: 4
+  bungeecord: false
+  item-dirty-ticks: 20
+  int-cache-limit: 1024
+  late-bind: true
+  sample-count: 12
+  user-cache-size: 1000
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.bat
   attribute:
     maxHealth:
       max: 2048.0
@@ -19,43 +32,30 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  int-cache-limit: 1024
-  item-dirty-ticks: 20
-  player-shuffle: 0
-  netty-threads: 4
-  bungeecord: false
-  sample-count: 12
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.bat
-  late-bind: true
-  user-cache-size: 1000
+  moved-too-quickly-multiplier: 10.0
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  debug: true
-  save-user-cache-on-stop-only: false
 commands:
+  tab-complete: 0
+  log: true
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
-  tab-complete: 0
-stats:
-  disable-saving: false
-  forced-stats: {}
 messages:
-  restart: Сервер перезагружается
   whitelist: Тех. Работы!
   unknown-command: Неизвестная команда. введите "/help" для просмотра списка команд.
   server-full: Сервер переполнен!
   outdated-client: §eКлиент устарел!
   outdated-server: Чето мы устарели, ну и ладно, всёравно скоро обновимся)
+  restart: Сервер перезагружается
+stats:
+  disable-saving: false
+  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
