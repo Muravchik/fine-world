@@ -12,6 +12,12 @@
 
 config-version: 11
 settings:
+  debug: true
+  save-user-cache-on-stop-only: false
+  bungeecord: false
+  sample-count: 12
+  user-cache-size: 1000
+  late-bind: true
   attribute:
     maxHealth:
       max: 2048.0
@@ -19,43 +25,37 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  int-cache-limit: 1024
   item-dirty-ticks: 20
-  player-shuffle: 0
-  netty-threads: 4
-  bungeecord: false
-  sample-count: 12
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.bat
-  late-bind: true
-  user-cache-size: 1000
+  int-cache-limit: 1024
+  netty-threads: 4
+  player-shuffle: 0
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-  debug: true
-  save-user-cache-on-stop-only: false
 commands:
+  tab-complete: 0
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-  log: true
   spam-exclusions:
   - /skill
+  log: true
   silent-commandblock-console: false
-  tab-complete: 0
-stats:
-  disable-saving: false
-  forced-stats: {}
 messages:
-  restart: Сервер перезагружается
   whitelist: Тех. Работы!
   unknown-command: Неизвестная команда. введите "/help" для просмотра списка команд.
   server-full: Сервер переполнен!
   outdated-client: §eКлиент устарел!
   outdated-server: Чето мы устарели, ну и ладно, всёравно скоро обновимся)
+  restart: Сервер перезагружается
+stats:
+  disable-saving: false
+  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
@@ -63,26 +63,17 @@ advancements:
 world-settings:
   default:
     verbose: true
-    view-distance: 10
-    nerf-spawner-mobs: false
-    zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
     merge-radius:
       exp: 3.0
       item: 2.5
+    nerf-spawner-mobs: false
+    wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
-    max-tnt-per-tick: 100
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    max-tick-time:
-      tile: 50
-      entity: 50
+    arrow-despawn-rate: 1200
+    view-distance: 10
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -91,6 +82,27 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
+    random-light-updates: false
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: 987234911
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
+    ticks-per:
+      hopper-transfer: 8
+      hopper-check: 1
+    hopper-amount: 1
+    mob-spawn-range: 4
+    save-structure-info: true
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -106,17 +118,5 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    save-structure-info: true
-    random-light-updates: false
-    ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
-    hopper-amount: 1
-    seed-village: 10387312
-    seed-feature: 14357617
-    seed-monument: 10387313
-    seed-slime: 987234911
-    mob-spawn-range: 4
     dragon-death-sound-radius: 0
-    arrow-despawn-rate: 1200
     max-entity-collisions: 8

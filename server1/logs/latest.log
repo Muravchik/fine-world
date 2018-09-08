@@ -1,732 +1,665 @@
-[01:29:44] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[01:29:44] [Server thread/INFO]: Loading properties
-[01:29:44] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:45] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-95dd097-305df90 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[01:29:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:29:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:29:46] [Server thread/INFO]: Debug logging is enabled
-[01:29:46] [Server thread/INFO]: Generating keypair
-[01:29:47] [Server thread/INFO]: Starting Minecraft server on *:23042
-[01:29:48] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[01:29:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;88df431
-[01:29:53] [Server thread/INFO]: [KeepItems] Loading KeepItems v1.3.2
-[01:29:53] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[01:29:53] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
-[01:29:53] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
-[01:29:53] [Server thread/INFO]: [CreativeLimiter] Loading CreativeLimiter v1.0
-[01:29:53] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v1.4
-[01:29:53] [Server thread/INFO]: [DynPad] Loading DynPad v1.5
-[01:29:53] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
-[01:29:53] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
-[01:29:53] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.3
-[01:29:53] [Server thread/INFO]: [dtlCore] Loading dtlCore v1.1
-[01:29:53] [Server thread/INFO]: [OPSRegion] Loading OPSRegion v1.0
-[01:29:53] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[01:29:53] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[01:29:53] [Server thread/INFO]: [RandomPort] Loading RandomPort v2.0
-[01:29:53] [Server thread/INFO]: [WGExtender] Loading WGExtender v1.0
-[01:29:53] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
-[01:29:53] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, waiting for boot. (late-bind)
-[01:29:53] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
-[01:29:53] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.4.7
-[01:29:53] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[01:29:53] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b468
-[01:29:53] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
-[01:29:53] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
-[01:29:53] [Server thread/INFO]: [Jobs] Loading Jobs v4.5.3
-[01:29:53] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.18
-[01:29:53] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
-[01:29:53] [Server thread/INFO]: [ShoppingCartReloaded] Loading ShoppingCartReloaded v1.2u11
-[01:29:53] [Server thread/INFO]: [WClans] Loading WClans v1.0
-[01:29:53] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
-[01:29:53] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
-[01:29:54] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[01:29:54] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
-[01:29:55] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
-[01:29:55] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
-[01:29:55] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
-[01:29:55] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
-[01:29:55] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.6
-[01:29:55] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.5.1
-[01:29:55] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
-[01:29:55] [Server thread/INFO]: [SystemBoard] Loading SystemBoard v1.0
-[01:29:55] [Server thread/INFO]: [dtlTraders] Loading dtlTraders v3.5.4
-[01:29:55] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v2.7.8
-[01:29:55] [Server thread/INFO]: [CreativeLimiter] Enabling CreativeLimiter v1.0
-[01:29:56] [Server thread/ERROR]: [CreativeLimiter] Plugin CreativeLimiter v1.0 has failed to register events for class creativeLimiter.misc.JoinGamemodeChanger because fr/xephi/authme/events/LoginEvent does not exist.
-[01:29:56] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[01:29:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[01:29:56] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[01:29:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[01:29:56] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[01:29:56] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[01:29:56] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
-[01:29:58] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
-[01:29:58] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[01:29:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:29:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:29:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:29:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:29:58] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[01:29:58] [Server thread/INFO]: Preparing level "spawn"
-[01:29:58] [Server thread/INFO]: -------- World Settings For [spawn] --------
-[01:29:58] [Server thread/INFO]: View Distance: 10
-[01:29:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:29:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:29:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:29:58] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:29:58] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:29:58] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:29:58] [Server thread/INFO]: Max TNT Explosions: 100
-[01:29:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:29:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:29:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:29:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:29:58] [Server thread/INFO]: Structure Info Saving: true
-[01:29:58] [Server thread/INFO]: Random Lighting Updates: false
-[01:29:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:29:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:29:58] [Server thread/INFO]: Mob Spawn Range: 4
-[01:29:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:02] [Server thread/INFO]: -------- World Settings For [spawn_nether] --------
-[01:30:02] [Server thread/INFO]: View Distance: 10
-[01:30:02] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:30:02] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:30:02] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:30:02] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:30:02] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:30:02] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:30:02] [Server thread/INFO]: Max TNT Explosions: 100
-[01:30:02] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:30:02] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:30:02] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:30:02] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:30:02] [Server thread/INFO]: Structure Info Saving: true
-[01:30:02] [Server thread/INFO]: Random Lighting Updates: false
-[01:30:02] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:30:02] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:30:02] [Server thread/INFO]: Mob Spawn Range: 4
-[01:30:02] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:03] [Server thread/INFO]: -------- World Settings For [spawn_the_end] --------
-[01:30:03] [Server thread/INFO]: View Distance: 10
-[01:30:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:30:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:30:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:30:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:30:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:30:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:30:03] [Server thread/INFO]: Max TNT Explosions: 100
-[01:30:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:30:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:30:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:30:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:30:03] [Server thread/INFO]: Structure Info Saving: true
-[01:30:03] [Server thread/INFO]: Random Lighting Updates: false
-[01:30:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:30:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:30:03] [Server thread/INFO]: Mob Spawn Range: 4
-[01:30:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: 410319177273859862)
-[01:30:05] [Server thread/INFO]: Preparing spawn area: 33%
-[01:30:06] [Server thread/INFO]: Preparing spawn area: 72%
-[01:30:06] [Server thread/INFO]: Preparing start region for level 1 (Seed: 410319177273859862)
-[01:30:07] [Server thread/INFO]: Preparing spawn area: 17%
-[01:30:08] [Server thread/INFO]: Preparing spawn area: 41%
-[01:30:09] [Server thread/INFO]: Preparing spawn area: 71%
-[01:30:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: 410319177273859862)
-[01:30:11] [Server thread/INFO]: Preparing spawn area: 65%
-[01:30:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;88df431
-[01:30:12] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
-[01:30:12] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
-[01:30:13] [Server thread/INFO]: [KeepItems] Enabling KeepItems v1.3.2
-[01:30:13] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[01:30:13] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
-[01:30:13] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[01:30:13] [Server thread/INFO]: git-Spigot-95dd097-305df90 (MC: 1.12.2)
-[01:30:13] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
-[01:30:13] [Server thread/TRACE]: Aborting ItemSpawnBL read, itemDB not yet loaded.
-[01:30:13] [Server thread/INFO]: Using locale ru_RU
-[01:30:14] [Server thread/INFO]: Using locale ru_RU
-[01:30:14] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[01:30:14] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[01:30:14] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[01:30:14] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
-[01:30:15] [Server thread/INFO]: [ClearLag] Loading modules...
-[01:30:15] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[01:30:15] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[01:30:15] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[01:30:15] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
-[01:30:15] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
-[01:30:15] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v1.4
-[01:30:15] [Server thread/INFO]: [0;36;1m_________[0;35;1mAntiRelog++[0;36;1m_________[m
-[01:30:15] [Server thread/INFO]: [0;33;1mUsing Essentials: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mEnable apple cooldown: [0;32;1mtrue [0;31;1mCooldown: [0;32;1m40[m
-[01:30:15] [Server thread/INFO]: [0;33;1mChecks enabled: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mRemove death message: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mRemove kick message: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mRemove leave message: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mRemove join message: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mKill on leave: [0;32;1mtrue[m
-[01:30:15] [Server thread/INFO]: [0;33;1mKill on command: [0;31;1mfalse[m
-[01:30:15] [Server thread/INFO]: [0;36;1m_____________________________[m
-[01:30:15] [Server thread/INFO]: [DynPad] Enabling DynPad v1.5
-[01:30:15] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn) All fire spread is disabled.
-[01:30:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_nether) TNT ignition is PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lighters are PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lava fire is blocked.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_nether) All fire spread is disabled.
-[01:30:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_nether'
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_the_end) TNT ignition is PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lighters are PERMITTED.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lava fire is blocked.
-[01:30:18] [Server thread/INFO]: [WorldGuard] (spawn_the_end) All fire spread is disabled.
-[01:30:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_the_end'
-[01:30:18] [Server thread/INFO]: [WorldGuard] Loading region data...
-[01:30:19] [Thread-7/INFO]: [ClearLag] No updates found!
-[01:30:20] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
-[01:30:21] [Server thread/INFO]: -------- World Settings For [world] --------
-[01:30:21] [Server thread/INFO]: View Distance: 10
-[01:30:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:30:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:30:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:30:21] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:30:21] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:30:21] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:30:21] [Server thread/INFO]: Max TNT Explosions: 100
-[01:30:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:30:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:30:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:30:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:30:21] [Server thread/INFO]: Structure Info Saving: true
-[01:30:21] [Server thread/INFO]: Random Lighting Updates: false
-[01:30:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:30:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:30:21] [Server thread/INFO]: Mob Spawn Range: 4
-[01:30:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:24] [Server thread/INFO]: Preparing start region for level 3 (Seed: 8570623197069426260)
-[01:30:25] [Server thread/INFO]: Preparing spawn area for world, 0%
-[01:30:26] [Server thread/INFO]: Preparing spawn area for world, 12%
-[01:30:27] [Server thread/INFO]: Preparing spawn area for world, 52%
-[01:30:28] [Server thread/INFO]: Preparing spawn area for world, 73%
-[01:30:29] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[01:30:29] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[01:30:29] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[01:30:29] [Server thread/INFO]: [WorldGuard] (world) All fire spread is disabled.
-[01:30:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[01:30:29] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[01:30:29] [Server thread/INFO]: View Distance: 10
-[01:30:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:30:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:30:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:30:29] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:30:29] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:30:29] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:30:29] [Server thread/INFO]: Max TNT Explosions: 100
-[01:30:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:30:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:30:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:30:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:30:29] [Server thread/INFO]: Structure Info Saving: true
-[01:30:29] [Server thread/INFO]: Random Lighting Updates: false
-[01:30:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:30:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:30:29] [Server thread/INFO]: Mob Spawn Range: 4
-[01:30:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:31] [Server thread/INFO]: Preparing start region for level 4 (Seed: -3298942280613799380)
-[01:30:32] [Server thread/INFO]: Preparing spawn area for world_nether, 24%
-[01:30:33] [Server thread/INFO]: Preparing spawn area for world_nether, 56%
-[01:30:34] [Server thread/INFO]: Preparing spawn area for world_nether, 93%
-[01:30:34] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[01:30:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[01:30:34] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[01:30:34] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
-[01:30:34] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[01:30:34] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[01:30:34] [Server thread/INFO]: View Distance: 10
-[01:30:34] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:30:34] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:30:34] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:30:34] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:30:34] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:30:34] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:30:34] [Server thread/INFO]: Max TNT Explosions: 100
-[01:30:34] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:30:34] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:30:34] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[01:30:34] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:30:34] [Server thread/INFO]: Structure Info Saving: true
-[01:30:34] [Server thread/INFO]: Random Lighting Updates: false
-[01:30:34] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:30:34] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:30:34] [Server thread/INFO]: Mob Spawn Range: 4
-[01:30:34] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:30:35] [Server thread/INFO]: Preparing start region for level 5 (Seed: -3298942280613799380)
-[01:30:36] [Server thread/INFO]: Preparing spawn area for world_the_end, 81%
-[01:30:36] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[01:30:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[01:30:36] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[01:30:36] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
-[01:30:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[01:30:36] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
-[01:30:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.3
-[01:30:36] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
-[01:30:37] [Server thread/INFO]: [dtlCore] Enabling dtlCore v1.1
-[01:30:37] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Loading config files[m
-[01:30:37] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Registering attributes and flags...[m
-[01:30:37] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Enabled[m
-[01:30:37] [Server thread/INFO]: [OPSRegion] Enabling OPSRegion v1.0
-[01:30:37] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[01:30:37] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[01:30:37] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[01:30:37] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[01:30:37] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[01:30:37] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[01:30:37] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[01:30:37] [Server thread/INFO]: [RandomPort] Enabling RandomPort v2.0
-[01:30:37] [Server thread/INFO]: [RandomPort v2.0]  has been enabled.
-[01:30:38] [Server thread/INFO]: [RandomPort] has successfully loaded setup from the configuration file!
-[01:30:38] [Server thread/INFO]: [RandomPort]is avoiding Block Id's [7, 8, 9, 10, 11]
-[01:30:38] [Server thread/INFO]: [WGExtender] Enabling WGExtender v1.0
-[01:30:38] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
-[01:30:38] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
-[01:30:38] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.4.7
-[01:30:38] [Server thread/INFO]: [MineResetLite] MRL is managed and developed by Boomclaw under the Apache 2.0 license.
-[01:30:38] [Server thread/INFO]: [MineResetLite] For any issues or suggestions, use the Spigot discussion thread. Do not PM any of the developers.
-[01:30:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b468
-[01:30:38] [Server thread/WARN]: §4Версии не совпадают! Обнови все компоненты Essentials до актуальной версии.
-[01:30:38] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
-[01:30:42] [Server thread/INFO]: [Jobs] Enabling Jobs v4.5.3
-[01:30:43] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
-[01:30:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
-[01:30:44] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: PigZombie!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: CaveSpider!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: LavaSlime!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: EnderDragon!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: WitherBoss!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: MushroomCow!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: Ozelot!
-[01:30:47] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: VillagerGolem!
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 10 jobs![m
-[01:30:47] [Server thread/INFO]: [0;33;22m[Jobs] Explorer jobs manager are not enabled![m
-[01:30:47] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
-[01:30:48] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
-[01:30:48] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
-[01:30:48] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 15 players data in 0.07[m
-[01:30:48] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
-[01:30:48] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 furnaces and 0 brewing stands for reassigning[m
-[01:30:48] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled succesfully.[m
-[01:30:48] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.18
-[01:30:48] [Server thread/INFO]: [Marriage] Loading config...
-[01:30:48] [Server thread/INFO]: [Marriage] Hooked with PermissionsEx using Vault!
-[01:30:48] [Server thread/INFO]: [Marriage] Loading dependencies...
-[01:30:48] [Server thread/INFO]: [Marriage] Loading commands...
-[01:30:48] [Server thread/INFO]: [Marriage] Loading database...
-[01:30:48] [Server thread/INFO]: [Marriage] Loading listeners...
-[01:30:49] [Server thread/INFO]: [Marriage] Loading updater...
-[01:30:49] [Server thread/INFO]: [Marriage] Loading converter...
-[01:30:49] [Server thread/INFO]: [Marriage] Completed plugin load stage.
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Enabling ShoppingCartReloaded v1.2u11
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Checking for libraries...
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] scala-library-2.11.0.jar is already installed
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-core-4.48.jar is already installed
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-jdbc-4.48.jar is already installed
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] gson-2.1.jar is already installed
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/scala-library-2.11.0.jar into ClassLoader
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/ormlite-core-4.48.jar into ClassLoader
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/ormlite-jdbc-4.48.jar into ClassLoader
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/FineWorld/server1/plugins/ShoppingCartReloaded/lib/gson-2.1.jar into ClassLoader
-[01:30:49] [Server thread/INFO]: [ShoppingCartReloaded] Using PermissionEx
-[01:30:49] [Server thread/ERROR]: Error occurred while enabling ShoppingCartReloaded v1.2u11 (Is it up to date?)
-java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
-	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadYamlAndMerge(ShoppingCartReloaded.scala:167) ~[?:?]
-	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadMessages(ShoppingCartReloaded.scala:57) ~[?:?]
-	at me.limito.bukkit.shopcart.ShoppingCartReloaded.reload(ShoppingCartReloaded.scala:45) ~[?:?]
-	at me.limito.bukkit.shopcart.ShoppingCartReloaded.onEnable(ShoppingCartReloaded.scala:29) ~[?:?]
-	at me.limito.bukkit.shopcart.PluginPreloader.onEnable(PluginPreloader.java:67) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:384) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:333) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:33] [Netty Server IO #3/DEBUG]: Timed out
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:38:35] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:35] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:35] [Server thread/INFO]: SteveGrKek lost connection: Timed out
+[00:38:35] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:36] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:38:37] [Netty Server IO #3/DEBUG]: Internal Exception: java.nio.channels.ClosedChannelException
+java.nio.channels.ClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(...)(Unknown Source) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:40:09] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:40:49] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:41:10] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:46:15] [Craft Scheduler Thread - 21/INFO]: [Metrics] Connection timed out: connect
+[00:47:55] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:48:35] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:48:55] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:50:51] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@71de6c5c to net.minecraft.server.v1_12_R1.HandshakeListener@4218c7d6
+[00:50:51] [Netty Server IO #0/DEBUG]: Enabled auto read
+[00:50:51] [Netty Server IO #0/DEBUG]: Enabled auto read
+[00:50:51] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@71de6c5c to net.minecraft.server.v1_12_R1.PacketStatusListener@10efea0e
+[00:50:53] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@41374e19 to net.minecraft.server.v1_12_R1.HandshakeListener@7560a257
+[00:50:53] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:50:53] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:50:53] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@41374e19 to net.minecraft.server.v1_12_R1.LoginListener@31fc1c63
+[00:50:53] [User Authenticator #2/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
+[00:50:54] [Server thread/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@41374e19 to net.minecraft.server.v1_12_R1.PlayerConnection@407d169e
+[00:50:54] [Server thread/DEBUG]: Disabled auto read
+[00:50:54] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:50:55] [Server thread/INFO]: SteveGrKek[/127.0.0.1:5668] logged in with entity id 243 at ([spawn]22.306155483798676, 127.34925930112779, -28.661010528016682)
+[00:50:55] [Craft Scheduler Thread - 17/WARN]: [Essentials] Plugin Essentials vTeamCity generated an exception while executing task 591
+java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75) ~[?:?]
+	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[01:30:49] [Server thread/INFO]: [WClans] Enabling WClans v1.0
-[01:30:50] [Server thread/INFO]: [0;32;1m[WClans] Соединение с базой данных успешно установлено.[m
-[01:30:50] [Server thread/INFO]: [0;32;1m[WClans] База кланов загружена.[m
-[01:30:50] [Server thread/INFO]: [0;32;1m[WClans] [0;32;1mПлагин включен (192 ms).[m
-[01:30:50] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[01:30:50] [Server thread/WARN]: [NoCheatPlus] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
-[01:30:50] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.5-1.11|? / CB-Reflect
-[01:30:50] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
-[01:30:51] [Server thread/WARN]: [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
-[01:30:51] [Server thread/WARN]: [NoCheatPlus] The following configuration default values have changed:
-Changed with build 1057: strings.nofall
-(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
-[01:30:51] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
-[01:30:52] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[01:30:52] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
-[01:30:53] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
-[01:30:54] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.6
-[01:30:55] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
-[01:30:55] [Server thread/INFO]: [ChatEx] Loading updater-config...
-[01:30:55] [Server thread/INFO]: [ChatEx] Done!
-[01:30:55] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
-[01:30:55] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
-[01:30:55] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
-[01:30:55] [Server thread/INFO]: [ChatEx] is now enabled!
-[01:30:55] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.5.1
-[01:30:55] [Server thread/INFO]: [ServerSigns] Version 4.5.1 is now enabled.
-[01:30:55] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
-[01:30:55] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
-[01:30:56] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
-[01:30:56] [Server thread/INFO]: [SystemBoard] Enabling SystemBoard v1.0
-[01:30:56] [Server thread/INFO]: [0;32;1m[SystemBoard] Соединение с базой данных успешно установлено.[m
-[01:30:56] [Server thread/INFO]: {stevegrkek2=ru.jampire.systemboard.Stat@49776a82, stevegrkek1=ru.jampire.systemboard.Stat@1c0e83a8, stevegrkek=ru.jampire.systemboard.Stat@ab3f427, mum1a=ru.jampire.systemboard.Stat@7b10a812, kysaka=ru.jampire.systemboard.Stat@9c1fe88, annezlove=ru.jampire.systemboard.Stat@61ba3fdb, odmen=ru.jampire.systemboard.Stat@743dfd07, paradoxgrkek=ru.jampire.systemboard.Stat@a939baa, mumla=ru.jampire.systemboard.Stat@c2001ce, darcq=ru.jampire.systemboard.Stat@3c54a376, meraminer=ru.jampire.systemboard.Stat@271ab43e, frozentrone=ru.jampire.systemboard.Stat@314225bc, eleforcreate=ru.jampire.systemboard.Stat@3d606c2b, sato_godofsurf=ru.jampire.systemboard.Stat@24b627e2, sato=ru.jampire.systemboard.Stat@567fdc0e, mitiazavr=ru.jampire.systemboard.Stat@76b07cb8}
-[01:30:56] [Server thread/INFO]: [0;32;1m[SystemBoard] База статистики загружена. (16)[m
-[01:30:56] [Server thread/INFO]: [0;32;1m[SystemBoard] Запуск в пакетном режиме ProtocolLib.[m
-[01:30:56] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин включен. ([0;33;1m136 ms[0;32;1m)[m
-[01:30:56] [Server thread/INFO]: [dtlTraders] Enabling dtlTraders v3.5.4
-[01:30:56] [Server thread/INFO]: [dtlTraders] dtlTraders is managed by 4Creation. Our website: www.4Creation.pro
-[01:30:56] [Server thread/INFO]: [0;31;1mDtlCore is implemented with DtlTraders and is now ONE plugin :)[m
-[01:30:56] [Server thread/INFO]: [dtlCore] Disabling dtlCore v1.1
-[01:30:56] [Server thread/INFO]: [0;31;1mDtlCore has been found and is disabled.[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registering attributes and flags...[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Economy plugin: [0;33;1mEssentials Economy[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registered types: [0;37;1m[[0;33;1mserver[m[0;37;1m][m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Permission plugin: [0;33;1mPermissionsEx[m
-[01:30:56] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Enabled[m
-[01:30:56] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v2.7.8
-[01:30:56] [Server thread/INFO]: [0;36;1m[ItemFixer] [0;32;1mItemFixer enabled[m
-[01:30:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:30:58] [Thread-15/INFO]: [0;36;1m[ItemFixer] [0;31;22mНе удалось проверить обновление [0;33;1m:( [0;37;22m// [0;31;22mCan't check update[m
-[01:30:58] [Thread-15/WARN]: [ItemFixer] Ошибка: 
-java.net.ConnectException: Connection refused: connect
-	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:?]
-	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[?:?]
-	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source) ~[?:?]
-	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source) ~[?:?]
-	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:?]
-	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:?]
-	at java.net.Socket.connect(Unknown Source) ~[?:?]
-	at java.net.Socket.connect(Unknown Source) ~[?:?]
-	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:?]
-	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:?]
-	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:?]
-	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source) ~[?:?]
-	at java.net.URL.openStream(Unknown Source) ~[?:?]
-	at ru.xtime.nbtfix.Main.checkUpdate(Main.java:75) [ItemFixer.jar:?]
-	at ru.xtime.nbtfix.Main$1.run(Main.java:36) [ItemFixer.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-[01:30:58] [Server thread/INFO]: Done (60,230s)! For help, type "help" or "?"
-[01:30:58] [Server thread/INFO]: Using default channel type
-[01:31:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
-[01:31:01] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
-[01:31:01] [Craft Scheduler Thread - 9/INFO]: [Marriage] Purged 0 player entries in 8ms
-[01:31:01] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
-[01:31:01] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
---- Missing entries -------------------------------
-* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
-* MISSING 251(CONCRETE / SOLID+GROUND) 
-* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
-[01:31:01] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
-[01:31:07] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
-[01:31:07] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.3.0
-[01:31:07] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
-[01:31:07] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
-[01:31:07] [Server thread/INFO]: [Citizens] Loaded 7 NPCs.
-[01:31:07] [Craft Scheduler Thread - 9/INFO]: [Vault] Checking for Updates ... 
-[01:31:07] [Server thread/WARN]: [ViaVersion] There is a newer version available: 1.5.0, you're on: 1.3.0
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.3[m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
-[01:31:08] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[01:31:08] [Craft Scheduler Thread - 9/INFO]: [Vault] No new version available
-[01:31:10] [Server thread/WARN]: [HolographicDisplays] Unable to get a stacktrace element, please inform the developer. You will only see this error once to avoid spam.
-java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
-	at java.lang.Class.getDeclaredMethod(Unknown Source) ~[?:?]
-	at com.gmail.filoghost.holographicdisplays.util.ReflectionUtils.getStackTraceElement(ReflectionUtils.java:44) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.nms.v1_12_R1.EntityNMSArmorStand.getId(EntityNMSArmorStand.java:139) [HolographicDisplays.jar:?]
-	at net.minecraft.server.v1_12_R1.PacketPlayOutEntityTeleport.<init>(SourceFile:22) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at com.gmail.filoghost.holographicdisplays.nms.v1_12_R1.EntityNMSArmorStand.setLocationNMS(EntityNMSArmorStand.java:202) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.nms.v1_12_R1.NmsManagerImpl.spawnNMSArmorStand(NmsManagerImpl.java:106) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.object.line.CraftTextLine.spawn(CraftTextLine.java:75) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.object.CraftHologram.spawnEntities(CraftHologram.java:300) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.object.CraftHologram.refreshAll(CraftHologram.java:247) [HolographicDisplays.jar:?]
-	at com.gmail.filoghost.holographicdisplays.task.StartupLoadHologramsTask.run(StartupLoadHologramsTask.java:11) [HolographicDisplays.jar:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:353) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+[00:51:02] [Craft Scheduler Thread - 21/INFO]: [SkinsRestorer] Switching to proxy to get skin property.
+[00:51:02] [Craft Scheduler Thread - 21/INFO]: [SkinsRestorer] Proxy list is empty. Getting one.
+[00:55:48] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:56:31] [Craft Scheduler Thread - 48/INFO]: [Metrics] Connection timed out: connect
+[00:56:32] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:56:53] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:02:45] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:02:50] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:03:00] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:03:03] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:03:09] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:03:25] [Server thread/INFO]: SteveGrKek issued server command: /book
+[01:03:44] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:04:00] [Server thread/INFO]: SteveGrKek issued server command: /compass
+[01:04:02] [Server thread/INFO]: SteveGrKek issued server command: /compass
+[01:04:04] [Server thread/INFO]: SteveGrKek issued server command: /compass
+[01:04:25] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:04:30] [Server thread/INFO]: SteveGrKek issued server command: /customtext
+[01:04:45] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:06:48] [Craft Scheduler Thread - 52/INFO]: [Metrics] Connection timed out: connect
+[01:08:29] [Server thread/INFO]: SteveGrKek issued server command: /customtext
+[01:08:32] [Server thread/INFO]: SteveGrKek issued server command: /customtext 2
+[01:08:37] [Server thread/INFO]: SteveGrKek issued server command: /customtext мщеу
+[01:08:40] [Server thread/INFO]: SteveGrKek issued server command: /customtext vote
+[01:08:45] [Server thread/INFO]: SteveGrKek issued server command: /vote
+[01:10:04] [Server thread/INFO]: SteveGrKek issued server command: /info
+[01:10:13] [Server thread/INFO]: SteveGrKek issued server command: /essentials:info
+[01:11:18] [Server thread/INFO]: SteveGrKek issued server command: /list
+[01:11:27] [Server thread/INFO]: SteveGrKek issued server command: /mail
+[01:11:37] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:12:19] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:12:29] [Server thread/INFO]: SteveGrKek issued server command: /me
+[01:12:31] [Server thread/INFO]: SteveGrKek issued server command: /me sd
+[01:12:40] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:12:53] [Server thread/INFO]: SteveGrKek issued server command: /me sad
+[01:12:56] [Server thread/INFO]: SteveGrKek issued server command: /me :(
+[01:12:58] [Server thread/INFO]: SteveGrKek issued server command: /me :-(
+[01:13:19] [Server thread/INFO]: SteveGrKek issued server command: /motd
+[01:17:15] [Craft Scheduler Thread - 67/INFO]: [Metrics] Connection timed out: connect
+[01:19:41] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:20:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:20:43] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:22:05] [Server thread/INFO]: SteveGrKek issued server command: /antioch
+[01:22:08] [Server thread/INFO]: SteveGrKek issued server command: /antioch
+[01:22:09] [Server thread/INFO]: SteveGrKek issued server command: /antioch
+[01:22:15] [Server thread/INFO]: SteveGrKek issued server command: /antioch
+[01:27:20] [Craft Scheduler Thread - 83/INFO]: [Marriage] Purged 0 player entries in 12ms
+[01:27:40] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:27:41] [Craft Scheduler Thread - 86/INFO]: [Metrics] Connection timed out: connect
+[01:28:21] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:28:42] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:29:43] [Server thread/INFO]: SteveGrKek issued server command: /xmpp
+[01:29:59] [Server thread/INFO]: SteveGrKek issued server command: /help xmpp
+[01:31:56] [Server thread/INFO]: SteveGrKek issued server command: /pex reload
+[01:32:01] [Server thread/INFO]: [0;31;1mFailed to reload permissions! Check configuration!
+[0;31;1mError (see console for full): Error loading permissions file![m
+[01:32:01] [Server thread/WARN]: [PermissionsEx] Failed to reload permissions when CONSOLE ran `pex reload`
+ru.tehkode.permissions.exceptions.PermissionBackendException: Error loading permissions file!
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:321) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.PermissionManager.reset(PermissionManager.java:657) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.PermissionManager.reset(PermissionManager.java:645) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.bukkit.commands.UtilityCommands.reload(UtilityCommands.java:58) [PermissionsEx-1.23.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at ru.tehkode.permissions.commands.CommandsManager$CommandBinding.call(CommandsManager.java:248) [PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.commands.CommandsManager.execute(CommandsManager.java:110) [PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:315) [PermissionsEx-1.23.4.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:651) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchServerCommand(CraftServer.java:637) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.aP(DedicatedServer.java:444) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:407) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[01:31:17] [Server thread/INFO]: [ChatEx] There is no new version available. You are up-to-date!
-[01:31:28] [Craft Scheduler Thread - 8/INFO]: [Metrics] Connection timed out: connect
-[01:31:34] [Server thread/INFO]: CONSOLE issued server command: /help 
-[01:31:34] [Server thread/INFO]: Для просмотра помощи из консоли введите ?.[m
-[01:31:37] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@f6c87dc to net.minecraft.server.v1_12_R1.HandshakeListener@6f0b3ca7
-[01:31:37] [Netty Server IO #1/DEBUG]: Enabled auto read
-[01:31:38] [Netty Server IO #1/DEBUG]: Enabled auto read
-[01:31:38] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@f6c87dc to net.minecraft.server.v1_12_R1.PacketStatusListener@4edc1075
-[01:33:00] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@6c975d50 to net.minecraft.server.v1_12_R1.HandshakeListener@148129f7
-[01:33:00] [Netty Server IO #2/DEBUG]: Enabled auto read
-[01:33:00] [Netty Server IO #2/DEBUG]: Enabled auto read
-[01:33:00] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@6c975d50 to net.minecraft.server.v1_12_R1.PacketStatusListener@1412a788
-[01:38:12] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[01:38:52] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[01:38:57] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@2f5ffdb4 to net.minecraft.server.v1_12_R1.HandshakeListener@7f22f3a3
-[01:38:57] [Netty Server IO #3/DEBUG]: Enabled auto read
-[01:38:57] [Netty Server IO #3/DEBUG]: Enabled auto read
-[01:38:57] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@2f5ffdb4 to net.minecraft.server.v1_12_R1.LoginListener@96f0f80
-[01:38:57] [User Authenticator #1/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
-[01:38:58] [Server thread/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@2f5ffdb4 to net.minecraft.server.v1_12_R1.PlayerConnection@2cb27ca9
-[01:38:58] [Server thread/DEBUG]: Disabled auto read
-[01:38:58] [Netty Server IO #3/DEBUG]: Enabled auto read
-[01:39:05] [Server thread/INFO]: SteveGrKek[/127.0.0.1:23454] logged in with entity id 237 at ([spawn]-4.651181256766176, 82.53292827534491, 20.763339510372155)
-[01:39:05] [Craft Scheduler Thread - 15/WARN]: [Essentials] Plugin Essentials vTeamCity generated an exception while executing task 91
-java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75) ~[?:?]
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
+Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 4, column 6:
+        -	essentials.balance
+         ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[?:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[?:?]
+	... 19 more
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 4, column 6:
+        -	essentials.balance
+         ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:421) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:531) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:157) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:147) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:200) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:152) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:140) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[?:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[?:?]
+	... 19 more
+[01:32:48] [Server thread/INFO]: [0;31;1mFailed to reload permissions! Check configuration!
+[0;31;1mError (see console for full): Error loading permissions file![m
+[01:32:48] [Server thread/WARN]: [PermissionsEx] Failed to reload permissions when CONSOLE ran `pex reload`
+ru.tehkode.permissions.exceptions.PermissionBackendException: Error loading permissions file!
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:321) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.PermissionManager.reset(PermissionManager.java:657) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.PermissionManager.reset(PermissionManager.java:645) ~[PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.bukkit.commands.UtilityCommands.reload(UtilityCommands.java:58) [PermissionsEx-1.23.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at ru.tehkode.permissions.commands.CommandsManager$CommandBinding.call(CommandsManager.java:248) [PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.commands.CommandsManager.execute(CommandsManager.java:110) [PermissionsEx-1.23.4.jar:?]
+	at ru.tehkode.permissions.bukkit.PermissionsEx.onCommand(PermissionsEx.java:315) [PermissionsEx-1.23.4.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:651) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchServerCommand(CraftServer.java:637) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.aP(DedicatedServer.java:444) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:407) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[01:39:24] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[01:42:13] [Craft Scheduler Thread - 14/INFO]: [Metrics] Connection timed out: connect
-[01:46:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[01:47:05] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[01:47:26] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[01:48:44] [Server thread/INFO]: SteveGrKek lost connection: Disconnected
-[01:48:46] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@23aaa05a to net.minecraft.server.v1_12_R1.HandshakeListener@2ac04c9f
-[01:48:46] [Netty Server IO #0/DEBUG]: Enabled auto read
-[01:48:46] [Netty Server IO #0/DEBUG]: Enabled auto read
-[01:48:46] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@23aaa05a to net.minecraft.server.v1_12_R1.PacketStatusListener@30e99abd
-[01:49:03] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@32a35bc9 to net.minecraft.server.v1_12_R1.HandshakeListener@2f447ca4
-[01:49:03] [Netty Server IO #1/DEBUG]: Enabled auto read
-[01:49:03] [Netty Server IO #1/DEBUG]: Enabled auto read
-[01:49:03] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@32a35bc9 to net.minecraft.server.v1_12_R1.PacketStatusListener@2d527189
-[01:49:05] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@46337d17 to net.minecraft.server.v1_12_R1.HandshakeListener@7b6256de
-[01:49:05] [Netty Server IO #2/DEBUG]: Enabled auto read
-[01:49:05] [Netty Server IO #2/DEBUG]: Enabled auto read
-[01:49:05] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@46337d17 to net.minecraft.server.v1_12_R1.LoginListener@448ff07f
-[01:49:05] [User Authenticator #2/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
-[01:49:06] [Server thread/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@46337d17 to net.minecraft.server.v1_12_R1.PlayerConnection@74f91cf9
-[01:49:06] [Server thread/DEBUG]: Disabled auto read
-[01:49:06] [Netty Server IO #2/DEBUG]: Enabled auto read
-[01:49:06] [Server thread/INFO]: SteveGrKek[/127.0.0.1:23564] logged in with entity id 238 at ([spawn]-50.67901282313339, 113.64659897646607, -17.739600431409283)
-[01:49:07] [Craft Scheduler Thread - 33/WARN]: [Essentials] Plugin Essentials vTeamCity generated an exception while executing task 486
-java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75) ~[?:?]
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-[01:49:12] [Server thread/INFO]: SteveGrKek issued server command: //sel
-[01:49:20] [Async Chat Thread - #0/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;36;1mfine[0;33;1mworld[m
-[01:49:30] [Async Chat Thread - #0/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;33;1mfine[0;36;1mworld[m
-[01:49:44] [Async Chat Thread - #0/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;33;1m[21mfine[0;36;1m[21mworld[m
-[01:52:20] [Craft Scheduler Thread - 35/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[01:54:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[01:55:04] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[01:55:25] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:02:30] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[02:03:12] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[02:03:12] [Craft Scheduler Thread - 54/INFO]: [Metrics] Connection timed out: connect
-[02:03:32] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:04:25] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;1m[21mfine[0;33;1m[21mworld[m
-[02:04:29] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21mfine[0;33;1m[21mworld[m
-[02:04:34] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21mfine[0;33;22m[21mworld[m
-[02:10:37] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[02:11:18] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[02:11:39] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:13:45] [Craft Scheduler Thread - 58/INFO]: [Metrics] Connection timed out: connect
-[02:18:36] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[02:19:20] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[02:19:41] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:24:19] [Craft Scheduler Thread - 64/INFO]: [Metrics] Connection timed out: connect
-[02:26:49] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[02:27:29] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[02:27:50] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:34:42] [Craft Scheduler Thread - 78/INFO]: [Marriage] Purged 0 player entries in 474ms
-[02:35:02] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[02:35:03] [Craft Scheduler Thread - 81/INFO]: [Metrics] Connection timed out: connect
-[02:35:43] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[02:36:04] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[02:37:50] [Server thread/INFO]: Stopping the server
-[02:37:50] [Server thread/INFO]: Stopping server
-[02:37:50] [Server thread/INFO]: [ItemFixer] Disabling ItemFixer v2.7.8
-[02:37:50] [Server thread/INFO]: [dtlTraders] Disabling dtlTraders v3.5.4
-[02:37:50] [Server thread/INFO]: [SystemBoard] Disabling SystemBoard v1.0
-[02:37:50] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин выключен.[m
-[02:37:50] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
-[02:37:50] [Server thread/INFO]: [ServerSigns] Disabling ServerSigns v4.5.1
-[02:37:50] [Server thread/INFO]: [ServerSigns] ServerSigns is now disabled.
-[02:37:50] [Server thread/INFO]: [ChatEx] Disabling ChatEx v1.6
-[02:37:50] [Server thread/INFO]: [ChatEx] is now disabled!
-[02:37:50] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
-[02:37:50] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[02:37:50] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[02:37:50] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
-[02:37:50] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is disabled.
-[02:37:50] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
-[02:37:50] [Server thread/INFO]: [WClans] Disabling WClans v1.0
-[02:37:50] [Server thread/INFO]: [0;32;1m[WClans] &aПлагин выключен.[m
-[02:37:50] [Server thread/INFO]: [ShoppingCartReloaded] Disabling ShoppingCartReloaded v1.2u11
-[02:37:50] [Server thread/INFO]: [Marriage] Disabling Marriage v2.0.18
-[02:37:50] [Server thread/INFO]: [Marriage] Loading database...
-[02:37:50] [Server thread/INFO]: [Marriage] Plugin has been completely disabled.
-[02:37:50] [Server thread/INFO]: [Jobs] Disabling Jobs v4.5.3
-[02:37:50] [Server thread/INFO]: [Jobs] Saving blocks
-[02:37:50] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
-[02:37:50] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
-[02:37:50] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
-[02:37:50] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.0.6
-[02:37:50] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v2.3.1
-[02:37:51] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b468
-[02:37:51] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[02:37:51] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v0.4.7
-[02:37:51] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
-[02:37:51] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
-[02:37:51] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
-[02:37:51] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[02:37:51] [Server thread/INFO]: [WGExtender] Disabling WGExtender v1.0
-[02:37:51] [Server thread/INFO]: [RandomPort] Disabling RandomPort v2.0
-[02:37:51] [Server thread/INFO]: RandomPort has been disabled.
-[02:37:51] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[02:37:51] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[02:37:51] [Server thread/INFO]: [OPSRegion] Disabling OPSRegion v1.0
-[02:37:51] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[02:37:51] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[02:37:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.3
-[02:37:51] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[02:37:51] [Server thread/INFO]: [MultiWorld] Disabled.
-[02:37:51] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
-[02:37:51] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[02:37:51] [Server thread/INFO]: [DynPad] Disabling DynPad v1.5
-[02:37:51] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v1.4
-[02:37:51] [Server thread/INFO]: [CreativeLimiter] Disabling CreativeLimiter v1.0
-[02:37:51] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
-[02:37:51] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
-[02:37:51] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[02:37:51] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[02:37:51] [Server thread/INFO]: [KeepItems] Disabling KeepItems v1.3.2
-[02:37:51] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;88df431
-[02:37:51] [Server thread/INFO]: Saving players
-[02:37:51] [Server thread/INFO]: SteveGrKek lost connection: Перезапуск сервера
-[02:37:51] [Server thread/INFO]: SteveGrKek left the game
-[02:37:51] [Server thread/INFO]: Saving worlds
-[02:37:51] [Server thread/INFO]: Saving chunks for level 'spawn'/overworld
-[02:37:53] [Server thread/INFO]: Saving chunks for level 'spawn_nether'/the_nether
-[02:37:53] [Server thread/INFO]: Saving chunks for level 'spawn_the_end'/the_end
-[02:37:53] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[02:37:53] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[02:37:53] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+Caused by: org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 4, column 6:
+        -	essentials.balance
+         ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[?:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[?:?]
+	... 19 more
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 4, column 6:
+        -	essentials.balance
+         ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:421) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:226) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntry.produce(ParserImpl.java:531) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:157) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:147) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:200) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:152) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:249) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:240) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:228) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:154) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:140) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.loadFromString(FileConfig.java:68) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:130) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
+	at ru.tehkode.permissions.backends.file.FileConfig.load(FileConfig.java:38) ~[?:?]
+	at ru.tehkode.permissions.backends.file.FileBackend.reload(FileBackend.java:309) ~[?:?]
+	... 19 more
+[01:34:46] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[01:34:46] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[01:34:55] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[01:34:55] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[01:35:39] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:36:20] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:36:41] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:38:04] [Craft Scheduler Thread - 92/INFO]: [Metrics] Connection timed out: connect

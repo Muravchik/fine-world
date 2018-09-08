@@ -1,16 +1,16 @@
 lastAccountName: SteveGrKek
 timestamps:
-  login: 1536346147515
-  logout: 1536346122231
+  login: 1536429055239
+  logout: 1536428314190
   lastteleport: 1536149988567
 ipAddress: 127.0.0.1
 logoutlocation:
   world: spawn
-  x: -50.67901282313339
-  y: 113.64659897646607
-  z: -17.739600431409283
-  yaw: -72.18275
-  pitch: 3.1734867
+  x: 22.306155483798676
+  y: 127.34925930112779
+  z: -28.661010528016682
+  yaw: 133.49164
+  pitch: 39.0
 lastlocation:
   world: spawn
   x: -9.065980808478722
@@ -27,5 +27,10 @@ homes:
     yaw: 0.0
     pitch: 1.0
 godmode: true
-afk: true
+afk: false
 money: '1000007.5'
+socialspy: true
+powertools:
+  '258':
+  - say help
+powertoolsenabled: false

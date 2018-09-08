@@ -1,10 +1,60 @@
 groups:
   default:
-    default: true
+    permissions:
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.pay.multiple
+    - essentials.help
+    - essentials.ignore
+    - essentials.list
+    - essentials.motd
+    - essentials.msg
+    - essentials.afk.auto
+    - essentials.compass
+    - essentials.motd
+    - essentials.msg
+    - essentials.suicide
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tptoggle
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.signs.use.*
     options:
-      weight: '1'
+      weight: '100'
       prefix: '&8(&6Игрок&8)&f &7'
       suffix: '&r'
+      default: true
+  fly:
+    inheritance:
+    - default
+    permissions:
+    - essentials.fly
+    - essentials.fly.safelogin
+
+    options:
+      weight: '95'
+      prefix: '&8(&5Летатель&8)&7'
+      suffix: '&7'
+  vip:
+    inheritance:
+    - default
+    - fly
+    permissions:
+    - essentials.god
+    - essentials.kits.vip
+    options:
+      weight: '90'
+      prefix: '&8(&eВиАйПи&8)&7'
+      suffix: '&7'
+      default: false
+  
   glav:
     permissions:
     - '*'
