@@ -37,7 +37,8 @@ groups:
     permissions:
     - essentials.fly
     - essentials.fly.safelogin
-
+    - essentials.speed
+    - essentials.speed.fly
     options:
       weight: '95'
       prefix: '&8(&5Летатель&8)&7'
@@ -54,7 +55,6 @@ groups:
       prefix: '&8(&eВиАйПи&8)&7'
       suffix: '&7'
       default: false
-  
   glav:
     permissions:
     - '*'

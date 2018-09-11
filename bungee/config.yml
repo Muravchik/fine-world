@@ -10,7 +10,7 @@ groups:
   - admin
 servers:
   Auth:
-    motd: '&c&l✤ &b&lｆｉｎｅ&e&lＷｏｒｌｄ &c&l✤'
+    motd: '&5&l✤ &9&lｆｉｎｅ&6&lＷｏｒｌｄ &5&l✤'
     address: 127.0.0.1:21071
     restricted: false
   survival:
