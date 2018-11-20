@@ -8,6 +8,6 @@
 # opsrg listmine
 # opsrg listmine number
 regions:
-- zenit
+- spawn
 regionsmine:
 - zenit2

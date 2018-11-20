@@ -138,6 +138,13 @@ command:
       args: '[playername]'
     output:
       reseted: '&ePayment limits have been reset for: &2%playername%'
+  resetquest:
+    help:
+      info: Resets players quest
+      args: '[playername] (job)'
+    output:
+      reseted: '&eQuest have been reset for: &2%playername%'
+      noQuests: '&eCan''t find any quests'
   points:
     help:
       info: Shows how much points player have.
@@ -287,6 +294,9 @@ command:
       craft:
         info: Craft
         none: '%jobname% does not get money from crafting.'
+      drink:
+        info: '&eDrink'
+        none: '%jobname% does not get money for drinking.'
       smelt:
         info: Smelt
         none: '%jobname% does not get money from smelting.'
@@ -336,6 +346,7 @@ command:
       fullslots: You cannot join the job %jobname%, there are no slots available.
       maxjobs: You have already joined too many jobs.
       rejoin: '&cCan''t rejoin this job. Wait [time]'
+    rejoin: '&aClick to rejoin this job: '
     success: You have joined the job %jobname%.
     confirm: '&2Click to confirm join action for &7[jobname] &2job.'
   leave:
@@ -367,7 +378,16 @@ command:
       penalty: ' &4Penalty: &c[amount]%'
       bonus: ' &2Bonus: &a[amount]%'
       newHeader: '&2========== [amount] Available Jobs ========='
+      description: '[description]'
       list: '    &8[place]. &7[jobname]'
+      console:
+        newHeader: '&2========== [amount] Available Jobs ========='
+        description: '[description]'
+        totalWorkers: ' &7Workers: &e[amount]'
+        penalty: ' &4Penalty: &c[amount]%'
+        bonus: ' &2Bonus: &a[amount]%'
+        list: ' &6[jobname]'
+        newMax: ' &eMax level: &f[max]'
       click: '&bClick on the job to see more info about it!'
       detailed: '&bClick to see more detailed list on job actions'
       jobHeader: '&2========== [jobname] ========='

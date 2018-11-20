@@ -1,0 +1,21 @@
+lastAccountName: MoneyGod
+timestamps:
+  login: 1536757860060
+  lastteleport: 1536758017897
+  logout: 1536763212249
+ipAddress: 25.27.128.2
+lastlocation:
+  world: spawn
+  x: 1.3184274688429904
+  y: 99.38019026410561
+  z: -19.453921089890276
+  yaw: 108.984924
+  pitch: 41.699936
+afk: false
+logoutlocation:
+  world: spawn
+  x: -42.650792921209295
+  y: 106.67987287826448
+  z: 26.63646023333125
+  yaw: -305.58023
+  pitch: 39.449924

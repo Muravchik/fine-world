@@ -1,407 +1,405 @@
-[16:57:54] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[16:57:54] [Server thread/INFO]: Loading properties
-[16:57:55] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-95dd097-305df90 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[16:57:57] [Server thread/INFO]: Debug logging is enabled
-[16:57:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:57:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:57:57] [Server thread/INFO]: Generating keypair
-[16:57:57] [Server thread/INFO]: Starting Minecraft server on *:23042
-[16:58:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:58:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;88df431
-[16:58:06] [Server thread/INFO]: [KeepItems] Loading KeepItems v1.3.2
-[16:58:06] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[16:58:06] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
-[16:58:06] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
-[16:58:06] [Server thread/INFO]: [CreativeLimiter] Loading CreativeLimiter v1.0
-[16:58:06] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v1.4
-[16:58:06] [Server thread/INFO]: [DynPad] Loading DynPad v1.5
-[16:58:06] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
-[16:58:06] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
-[16:58:06] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.3
-[16:58:06] [Server thread/INFO]: [dtlCore] Loading dtlCore v1.1
-[16:58:06] [Server thread/INFO]: [OPSRegion] Loading OPSRegion v1.0
-[16:58:06] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[16:58:06] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
-[16:58:06] [Server thread/INFO]: [RandomPort] Loading RandomPort v2.0
-[16:58:06] [Server thread/INFO]: [WGExtender] Loading WGExtender v1.0
-[16:58:06] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
-[16:58:06] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, waiting for boot. (late-bind)
-[16:58:06] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
-[16:58:06] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.4.7
-[16:58:06] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[16:58:06] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b468
-[16:58:06] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
-[16:58:06] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
-[16:58:06] [Server thread/INFO]: [Jobs] Loading Jobs v4.5.3
-[16:58:06] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.18
-[16:58:06] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
-[16:58:06] [Server thread/INFO]: [ShoppingCartReloaded] Loading ShoppingCartReloaded v1.2u11
-[16:58:06] [Server thread/INFO]: [WClans] Loading WClans v1.0
-[16:58:06] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
-[16:58:06] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
-[16:58:07] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[16:58:07] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
-[16:58:08] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
-[16:58:08] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
-[16:58:08] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
-[16:58:08] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
-[16:58:08] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.6
-[16:58:08] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.5.1
-[16:58:08] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
-[16:58:08] [Server thread/INFO]: [SystemBoard] Loading SystemBoard v1.0
-[16:58:08] [Server thread/INFO]: [dtlTraders] Loading dtlTraders v3.5.4
-[16:58:08] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v2.7.8
-[16:58:08] [Server thread/INFO]: [CreativeLimiter] Enabling CreativeLimiter v1.0
-[16:58:08] [Server thread/ERROR]: [CreativeLimiter] Plugin CreativeLimiter v1.0 has failed to register events for class creativeLimiter.misc.JoinGamemodeChanger because fr/xephi/authme/events/LoginEvent does not exist.
-[16:58:08] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[16:58:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[16:58:08] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[16:58:09] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[16:58:09] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[16:58:09] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[16:58:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
-[16:58:10] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
-[16:58:10] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[16:58:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:58:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:58:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:58:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:58:10] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:58:10] [Server thread/INFO]: Preparing level "spawn"
-[16:58:11] [Server thread/INFO]: -------- World Settings For [spawn] --------
-[16:58:11] [Server thread/INFO]: View Distance: 10
-[16:58:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:11] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:11] [Server thread/INFO]: Structure Info Saving: true
-[16:58:11] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:11] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:13] [Server thread/INFO]: -------- World Settings For [spawn_nether] --------
-[16:58:13] [Server thread/INFO]: View Distance: 10
-[16:58:13] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:13] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:13] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:13] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:13] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:13] [Server thread/INFO]: Structure Info Saving: true
-[16:58:13] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:13] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:14] [Server thread/INFO]: -------- World Settings For [spawn_the_end] --------
-[16:58:14] [Server thread/INFO]: View Distance: 10
-[16:58:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:14] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:14] [Server thread/INFO]: Structure Info Saving: true
-[16:58:14] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:14] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:14] [Server thread/INFO]: Preparing start region for level 0 (Seed: 410319177273859862)
-[16:58:15] [Server thread/INFO]: Preparing spawn area: 37%
-[16:58:16] [Server thread/INFO]: Preparing spawn area: 79%
-[16:58:16] [Server thread/INFO]: Preparing start region for level 1 (Seed: 410319177273859862)
-[16:58:17] [Server thread/INFO]: Preparing spawn area: 18%
-[16:58:18] [Server thread/INFO]: Preparing spawn area: 53%
-[16:58:19] [Server thread/INFO]: Preparing start region for level 2 (Seed: 410319177273859862)
-[16:58:20] [Server thread/INFO]: Preparing spawn area: 50%
-[16:58:21] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;88df431
-[16:58:22] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
-[16:58:23] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
-[16:58:23] [Server thread/INFO]: [KeepItems] Enabling KeepItems v1.3.2
-[16:58:23] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[16:58:23] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
-[16:58:23] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[16:58:23] [Server thread/INFO]: git-Spigot-95dd097-305df90 (MC: 1.12.2)
-[16:58:23] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
-[16:58:23] [Server thread/TRACE]: Aborting ItemSpawnBL read, itemDB not yet loaded.
-[16:58:23] [Server thread/INFO]: Using locale ru
-[16:58:24] [Server thread/INFO]: Using locale ru
-[16:58:25] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[16:58:25] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[16:58:25] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[16:58:25] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
-[16:58:25] [Server thread/INFO]: [ClearLag] Loading modules...
-[16:58:25] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[16:58:25] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[16:58:25] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[16:58:25] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
-[16:58:25] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
-[16:58:25] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v1.4
-[16:58:26] [Server thread/INFO]: [0;36;1m_________[0;35;1mAntiRelog++[0;36;1m_________[m
-[16:58:26] [Server thread/INFO]: [0;33;1mUsing Essentials: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mEnable apple cooldown: [0;32;1mtrue [0;31;1mCooldown: [0;32;1m40[m
-[16:58:26] [Server thread/INFO]: [0;33;1mChecks enabled: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mRemove death message: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mRemove kick message: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mRemove leave message: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mRemove join message: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mKill on leave: [0;32;1mtrue[m
-[16:58:26] [Server thread/INFO]: [0;33;1mKill on command: [0;31;1mfalse[m
-[16:58:26] [Server thread/INFO]: [0;36;1m_____________________________[m
-[16:58:26] [Server thread/INFO]: [DynPad] Enabling DynPad v1.5
-[16:58:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn) All fire spread is disabled.
-[16:58:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_nether) TNT ignition is PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lighters are PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lava fire is blocked.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_nether) All fire spread is disabled.
-[16:58:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_nether'
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_the_end) TNT ignition is PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lighters are PERMITTED.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lava fire is blocked.
-[16:58:27] [Server thread/INFO]: [WorldGuard] (spawn_the_end) All fire spread is disabled.
-[16:58:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_the_end'
-[16:58:27] [Server thread/INFO]: [WorldGuard] Loading region data...
-[16:58:29] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
-[16:58:29] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:58:29] [Server thread/INFO]: View Distance: 10
-[16:58:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:29] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:29] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:29] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:29] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:29] [Server thread/INFO]: Structure Info Saving: true
-[16:58:29] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:29] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:31] [Thread-7/INFO]: [ClearLag] No updates found!
-[16:58:31] [Server thread/INFO]: Preparing start region for level 3 (Seed: 8570623197069426260)
-[16:58:33] [Server thread/INFO]: Preparing spawn area for world, 0%
-[16:58:34] [Server thread/INFO]: Preparing spawn area for world, 12%
-[16:58:35] [Server thread/INFO]: Preparing spawn area for world, 36%
-[16:58:36] [Server thread/INFO]: Preparing spawn area for world, 57%
-[16:58:37] [Server thread/INFO]: Preparing spawn area for world, 77%
-[16:58:38] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[16:58:38] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[16:58:38] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[16:58:38] [Server thread/INFO]: [WorldGuard] (world) All fire spread is disabled.
-[16:58:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[16:58:38] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:58:38] [Server thread/INFO]: View Distance: 10
-[16:58:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:38] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:38] [Server thread/INFO]: Structure Info Saving: true
-[16:58:38] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:38] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:39] [Server thread/INFO]: Preparing start region for level 4 (Seed: -3298942280613799380)
-[16:58:40] [Server thread/INFO]: Preparing spawn area for world_nether, 3%
-[16:58:41] [Server thread/INFO]: Preparing spawn area for world_nether, 36%
-[16:58:42] [Server thread/INFO]: Preparing spawn area for world_nether, 65%
-[16:58:43] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[16:58:43] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[16:58:43] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[16:58:43] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
-[16:58:43] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[16:58:43] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:58:43] [Server thread/INFO]: View Distance: 10
-[16:58:43] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:58:43] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:58:43] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:58:43] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:58:43] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:58:43] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:58:43] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:58:43] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:58:43] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:58:43] [Server thread/INFO]: Random Lighting Updates: false
-[16:58:43] [Server thread/INFO]: Structure Info Saving: true
-[16:58:43] [Server thread/INFO]: Mob Spawn Range: 4
-[16:58:43] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:58:43] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:58:43] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:58:43] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[16:58:43] [Server thread/INFO]: Max TNT Explosions: 100
-[16:58:44] [Server thread/INFO]: Preparing start region for level 5 (Seed: -3298942280613799380)
-[16:58:45] [Server thread/INFO]: Preparing spawn area for world_the_end, 52%
-[16:58:46] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[16:58:46] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[16:58:46] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[16:58:46] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
-[16:58:46] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[16:58:46] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
-[16:58:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.3
-[16:58:47] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
-[16:58:47] [Server thread/INFO]: [dtlCore] Enabling dtlCore v1.1
-[16:58:47] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Loading config files[m
-[16:58:47] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Registering attributes and flags...[m
-[16:58:47] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Enabled[m
-[16:58:47] [Server thread/INFO]: [OPSRegion] Enabling OPSRegion v1.0
-[16:58:47] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:58:47] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:58:47] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:58:47] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[16:58:47] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[16:58:47] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[16:58:48] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[16:58:48] [Server thread/INFO]: [RandomPort] Enabling RandomPort v2.0
-[16:58:48] [Server thread/INFO]: [RandomPort v2.0]  has been enabled.
-[16:58:48] [Server thread/INFO]: [RandomPort] has successfully loaded setup from the configuration file!
-[16:58:48] [Server thread/INFO]: [RandomPort]is avoiding Block Id's [7, 8, 9, 10, 11]
-[16:58:48] [Server thread/INFO]: [WGExtender] Enabling WGExtender v1.0
-[16:58:48] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
-[16:58:48] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
-[16:58:48] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.4.7
-[16:58:48] [Server thread/INFO]: [MineResetLite] MRL is managed and developed by Boomclaw under the Apache 2.0 license.
-[16:58:48] [Server thread/INFO]: [MineResetLite] For any issues or suggestions, use the Spigot discussion thread. Do not PM any of the developers.
-[16:58:48] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b468
-[16:58:48] [Server thread/WARN]: §4Версии не совпадают! Обнови все компоненты Essentials до актуальной версии.
-[16:58:49] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
-[16:58:55] [Server thread/INFO]: [Jobs] Enabling Jobs v4.5.3
-[16:58:56] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
-[16:58:56] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
-[16:58:57] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: PigZombie!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: CaveSpider!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: LavaSlime!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: EnderDragon!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: WitherBoss!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: MushroomCow!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: Ozelot!
-[16:59:01] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: VillagerGolem!
-[16:59:01] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 10 jobs![m
-[16:59:01] [Server thread/INFO]: [0;33;22m[Jobs] Explorer jobs manager are not enabled![m
-[16:59:02] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
-[16:59:02] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
-[16:59:02] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
-[16:59:02] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 15 players data in 0.04[m
-[16:59:02] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
-[16:59:02] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 furnaces and 0 brewing stands for reassigning[m
-[16:59:02] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled succesfully.[m
-[16:59:02] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.18
-[16:59:02] [Server thread/INFO]: [Marriage] Loading config...
-[16:59:02] [Server thread/INFO]: [Marriage] Hooked with PermissionsEx using Vault!
-[16:59:02] [Server thread/INFO]: [Marriage] Loading dependencies...
-[16:59:02] [Server thread/INFO]: [Marriage] Loading listeners...
-[16:59:03] [Server thread/INFO]: [Marriage] Loading database...
-[16:59:03] [Server thread/INFO]: [Marriage] Loading commands...
-[16:59:03] [Server thread/INFO]: [Marriage] Loading updater...
-[16:59:03] [Server thread/INFO]: [Marriage] Loading converter...
-[16:59:03] [Server thread/INFO]: [Marriage] Completed plugin load stage.
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Enabling ShoppingCartReloaded v1.2u11
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Checking for libraries...
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] scala-library-2.11.0.jar is already installed
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-core-4.48.jar is already installed
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-jdbc-4.48.jar is already installed
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] gson-2.1.jar is already installed
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/scala-library-2.11.0.jar into ClassLoader
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/ormlite-core-4.48.jar into ClassLoader
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/ormlite-jdbc-4.48.jar into ClassLoader
-[16:59:03] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/gson-2.1.jar into ClassLoader
-[16:59:04] [Server thread/INFO]: [ShoppingCartReloaded] Using PermissionEx
-[16:59:04] [Server thread/ERROR]: Error occurred while enabling ShoppingCartReloaded v1.2u11 (Is it up to date?)
+[00:18:17] [Server thread/INFO]: Loading properties
+[00:18:18] [Server thread/INFO]: Default game type: SURVIVAL
+[00:18:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-95dd097-305df90 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[00:18:20] [Server thread/INFO]: Debug logging is enabled
+[00:18:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:18:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:18:20] [Server thread/INFO]: Generating keypair
+[00:18:21] [Server thread/INFO]: Starting Minecraft server on *:23042
+[00:18:27] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[00:18:30] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9-SNAPSHOT;88df431
+[00:18:30] [Server thread/INFO]: [KeepItems] Loading KeepItems v1.3.2
+[00:18:30] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[00:18:30] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
+[00:18:30] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.5
+[00:18:30] [Server thread/INFO]: [CreativeLimiter] Loading CreativeLimiter v1.0
+[00:18:30] [Server thread/INFO]: [AntiRelog] Loading AntiRelog v1.4
+[00:18:30] [Server thread/INFO]: [DynPad] Loading DynPad v1.5
+[00:18:30] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[00:18:30] [Server thread/INFO]: [MultiWorld] Loading MultiWorld v5.2.8
+[00:18:30] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.5-SNAPSHOT
+[00:18:30] [Server thread/INFO]: [dtlCore] Loading dtlCore v1.1
+[00:18:30] [Server thread/INFO]: [OPSRegion] Loading OPSRegion v1.0
+[00:18:30] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[00:18:30] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[00:18:30] [Server thread/INFO]: [RandomPort] Loading RandomPort v2.0
+[00:18:30] [Server thread/INFO]: [WGExtender] Loading WGExtender v1.0
+[00:18:30] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[00:18:31] [Server thread/INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, waiting for boot. (late-bind)
+[00:18:31] [Server thread/INFO]: [CustomJoinItems] Loading CustomJoinItems v1.5.2
+[00:18:31] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.4.7
+[00:18:31] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[00:18:31] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b468
+[00:18:31] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v2.3.1
+[00:18:31] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
+[00:18:31] [Server thread/INFO]: [Jobs] Loading Jobs v4.9.1
+[00:18:31] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.18
+[00:18:31] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
+[00:18:31] [Server thread/INFO]: [ShoppingCartReloaded] Loading ShoppingCartReloaded v1.2u11
+[00:18:31] [Server thread/INFO]: [WClans] Loading WClans v1.0
+[00:18:31] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[00:18:31] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[00:18:32] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
+[00:18:32] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[00:18:33] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[00:18:33] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[00:18:33] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1487)
+[00:18:33] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[00:18:33] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.6
+[00:18:33] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v4.5.1
+[00:18:33] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[00:18:33] [Server thread/INFO]: [SystemBoard] Loading SystemBoard v1.0
+[00:18:33] [Server thread/INFO]: [dtlTraders] Loading dtlTraders v3.5.4
+[00:18:33] [Server thread/INFO]: [ItemFixer] Loading ItemFixer v2.7.8
+[00:18:33] [Server thread/INFO]: [CreativeLimiter] Enabling CreativeLimiter v1.0
+[00:18:33] [Server thread/ERROR]: [CreativeLimiter] Plugin CreativeLimiter v1.0 has failed to register events for class creativeLimiter.misc.JoinGamemodeChanger because fr/xephi/authme/events/LoginEvent does not exist.
+[00:18:33] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[00:18:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:18:33] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[00:18:33] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:18:33] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[00:18:33] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[00:18:33] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v2.3.1
+[00:18:35] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[00:18:35] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[00:18:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:18:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:18:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:18:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:18:35] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:18:35] [Server thread/INFO]: Preparing level "spawn"
+[00:18:35] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[00:18:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:35] [Server thread/INFO]: View Distance: 10
+[00:18:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:35] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:35] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:18:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:35] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:18:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:18:35] [Server thread/INFO]: Structure Info Saving: true
+[00:18:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:35] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:38] [Server thread/INFO]: -------- World Settings For [spawn_nether] --------
+[00:18:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:38] [Server thread/INFO]: View Distance: 10
+[00:18:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:38] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:38] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:38] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:38] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:18:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:38] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:18:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:18:38] [Server thread/INFO]: Structure Info Saving: true
+[00:18:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:38] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:39] [Server thread/INFO]: -------- World Settings For [spawn_the_end] --------
+[00:18:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:39] [Server thread/INFO]: View Distance: 10
+[00:18:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:39] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:18:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:39] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:18:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:18:39] [Server thread/INFO]: Structure Info Saving: true
+[00:18:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:39] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:39] [Server thread/INFO]: Preparing start region for level 0 (Seed: 410319177273859862)
+[00:18:40] [Server thread/INFO]: Preparing spawn area: 37%
+[00:18:41] [Server thread/INFO]: Preparing spawn area: 70%
+[00:18:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: 410319177273859862)
+[00:18:42] [Server thread/INFO]: Preparing spawn area: 24%
+[00:18:43] [Server thread/INFO]: Preparing spawn area: 70%
+[00:18:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: 410319177273859862)
+[00:18:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9-SNAPSHOT;88df431
+[00:18:46] [Server thread/INFO]: WEPIF: Использование Bukkit Permissions API.
+[00:18:46] [Server thread/INFO]: [WorldEdit] Использую com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 для Bukkit адаптеров
+[00:18:46] [Server thread/INFO]: [KeepItems] Enabling KeepItems v1.3.2
+[00:18:46] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[00:18:46] [Server thread/WARN]: §4Version mismatch! Please update EssentialsSpawn to the same version.
+[00:18:46] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[00:18:46] [Server thread/INFO]: git-Spigot-95dd097-305df90 (MC: 1.12.2)
+[00:18:46] [Server thread/INFO]: 1.12.2-R0.1-SNAPSHOT
+[00:18:46] [Server thread/TRACE]: Aborting ItemSpawnBL read, itemDB not yet loaded.
+[00:18:46] [Server thread/INFO]: Using locale ru
+[00:18:47] [Server thread/INFO]: Using locale ru
+[00:18:47] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[00:18:47] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[00:18:47] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[00:18:47] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[00:18:48] [Server thread/INFO]: [ClearLag] Loading modules...
+[00:18:48] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[00:18:48] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[00:18:48] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[00:18:48] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.5
+[00:18:48] [Thread-7/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.12]...
+[00:18:48] [Server thread/INFO]: [AntiRelog] Enabling AntiRelog v1.4
+[00:18:48] [Server thread/INFO]: [0;36;1m_________[0;35;1mAntiRelog++[0;36;1m_________[m
+[00:18:48] [Server thread/INFO]: [0;33;1mUsing Essentials: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mEnable apple cooldown: [0;32;1mtrue [0;31;1mCooldown: [0;32;1m40[m
+[00:18:48] [Server thread/INFO]: [0;33;1mChecks enabled: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mRemove death message: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mRemove kick message: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mRemove leave message: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mRemove join message: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mKill on leave: [0;32;1mtrue[m
+[00:18:48] [Server thread/INFO]: [0;33;1mKill on command: [0;31;1mfalse[m
+[00:18:48] [Server thread/INFO]: [0;36;1m_____________________________[m
+[00:18:48] [Server thread/INFO]: [DynPad] Enabling DynPad v1.5
+[00:18:48] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn) All fire spread is disabled.
+[00:18:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_nether) TNT ignition is PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lighters are PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_nether) Lava fire is blocked.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_nether) All fire spread is disabled.
+[00:18:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_nether'
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_the_end) TNT ignition is PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lighters are PERMITTED.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_the_end) Lava fire is blocked.
+[00:18:49] [Server thread/INFO]: [WorldGuard] (spawn_the_end) All fire spread is disabled.
+[00:18:49] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn_the_end'
+[00:18:49] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:18:51] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v5.2.8
+[00:18:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:18:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:51] [Server thread/INFO]: View Distance: 10
+[00:18:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:51] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:18:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:51] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:18:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:18:51] [Server thread/INFO]: Structure Info Saving: true
+[00:18:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:51] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:53] [Server thread/INFO]: Preparing start region for level 3 (Seed: 8570623197069426260)
+[00:18:53] [Thread-7/INFO]: [ClearLag] No updates found!
+[00:18:55] [Server thread/INFO]: Preparing spawn area for world, 0%
+[00:18:56] [Server thread/INFO]: Preparing spawn area for world, 36%
+[00:18:57] [Server thread/INFO]: Preparing spawn area for world, 73%
+[00:18:58] [Server thread/INFO]: Preparing spawn area for world, 97%
+[00:18:58] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:18:58] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:18:58] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[00:18:58] [Server thread/INFO]: [WorldGuard] (world) All fire spread is disabled.
+[00:18:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:18:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:18:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:18:58] [Server thread/INFO]: View Distance: 10
+[00:18:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:18:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:18:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:18:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:18:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:18:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:18:58] [Server thread/INFO]: Mob Spawn Range: 4
+[00:18:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:18:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:18:58] [Server thread/INFO]: Random Lighting Updates: false
+[00:18:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:18:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:18:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:18:58] [Server thread/INFO]: Structure Info Saving: true
+[00:18:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:18:58] [Server thread/INFO]: Max TNT Explosions: 100
+[00:18:59] [Server thread/INFO]: Preparing start region for level 4 (Seed: -3298942280613799380)
+[00:19:00] [Server thread/INFO]: Preparing spawn area for world_nether, 12%
+[00:19:01] [Server thread/INFO]: Preparing spawn area for world_nether, 48%
+[00:19:02] [Server thread/INFO]: Preparing spawn area for world_nether, 77%
+[00:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[00:19:03] [Server thread/INFO]: [WorldGuard] (world_nether) All fire spread is disabled.
+[00:19:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:19:03] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:19:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:19:03] [Server thread/INFO]: View Distance: 10
+[00:19:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:19:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:19:03] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:19:03] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:19:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:19:03] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:19:03] [Server thread/INFO]: Mob Spawn Range: 4
+[00:19:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:19:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[00:19:03] [Server thread/INFO]: Random Lighting Updates: false
+[00:19:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:19:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:19:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:19:03] [Server thread/INFO]: Structure Info Saving: true
+[00:19:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:19:03] [Server thread/INFO]: Max TNT Explosions: 100
+[00:19:04] [Server thread/INFO]: Preparing start region for level 5 (Seed: -3298942280613799380)
+[00:19:05] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:19:05] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:19:05] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[00:19:05] [Server thread/INFO]: [WorldGuard] (world_the_end) All fire spread is disabled.
+[00:19:05] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:19:05] [Server thread/INFO]: [MultiWorld] v5.2.8 enabled.
+[00:19:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.5-SNAPSHOT
+[00:19:05] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_12_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[00:19:05] [Server thread/INFO]: [dtlCore] Enabling dtlCore v1.1
+[00:19:05] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Loading config files[m
+[00:19:05] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Registering attributes and flags...[m
+[00:19:05] [Server thread/INFO]: [dtlCore][0;37;1m[INFO] Enabled[m
+[00:19:05] [Server thread/INFO]: [OPSRegion] Enabling OPSRegion v1.0
+[00:19:05] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[00:19:06] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[00:19:06] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:19:06] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[00:19:06] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[00:19:06] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[00:19:06] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[00:19:06] [Server thread/INFO]: [RandomPort] Enabling RandomPort v2.0
+[00:19:06] [Server thread/INFO]: [RandomPort v2.0]  has been enabled.
+[00:19:06] [Server thread/INFO]: [RandomPort] has successfully loaded setup from the configuration file!
+[00:19:06] [Server thread/INFO]: [RandomPort]is avoiding Block Id's [7, 8, 9, 10, 11]
+[00:19:06] [Server thread/INFO]: [WGExtender] Enabling WGExtender v1.0
+[00:19:06] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[00:19:06] [Server thread/INFO]: [CustomJoinItems] Enabling CustomJoinItems v1.5.2
+[00:19:06] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.4.7
+[00:19:06] [Server thread/INFO]: [MineResetLite] MRL is managed and developed by Boomclaw under the Apache 2.0 license.
+[00:19:06] [Server thread/INFO]: [MineResetLite] For any issues or suggestions, use the Spigot discussion thread. Do not PM any of the developers.
+[00:19:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b468
+[00:19:07] [Server thread/WARN]: §4Версии не совпадают! Обнови все компоненты Essentials до актуальной версии.
+[00:19:07] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
+[00:19:11] [Server thread/INFO]: [Jobs] Enabling Jobs v4.9.1
+[00:19:13] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[00:19:13] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 48 protected blocks timers![m
+[00:19:16] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 441 custom item names![m
+[00:19:16] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 51 custom entity names![m
+[00:19:16] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 34 custom enchant names![m
+[00:19:16] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[00:19:16] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[00:19:17] [Server thread/WARN]: [Jobs] Job Дровосек has an invalid Break type property: WOOD!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Дровосек has an invalid Place type property: WOOD!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Строитель has an invalid Place type property: WOOD!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Строитель has an invalid Place type property: BRICK (BRICK)! Material must be a block!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Строитель has an invalid Place type property: DOUBLE_STEP!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: 54-1!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: 68-1!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: 51-1!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: LavaSlime!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: WitherBoss!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: Ozelot!
+[00:19:17] [Server thread/WARN]: [Jobs] Job Охотник has an invalid Kill type property: VillagerGolem!
+[00:19:17] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 10 jobs![m
+[00:19:17] [Server thread/INFO]: [0;33;22m[Jobs] Explorer jobs manager are not enabled![m
+[00:19:17] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[00:19:17] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[00:19:17] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 16 players data in 0.02[m
+[00:19:17] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[00:19:17] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 furnaces and 0 brewing stands for reassigning[m
+[00:19:17] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[00:19:17] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.18
+[00:19:17] [Server thread/INFO]: [Marriage] Loading config...
+[00:19:17] [Server thread/INFO]: [Marriage] Hooked with PermissionsEx using Vault!
+[00:19:17] [Server thread/INFO]: [Marriage] Loading dependencies...
+[00:19:17] [Server thread/INFO]: [Marriage] Loading listeners...
+[00:19:18] [Server thread/INFO]: [Marriage] Loading commands...
+[00:19:18] [Server thread/INFO]: [Marriage] Loading database...
+[00:19:18] [Server thread/INFO]: [Marriage] Loading updater...
+[00:19:18] [Server thread/INFO]: [Marriage] Loading converter...
+[00:19:18] [Server thread/INFO]: [Marriage] Completed plugin load stage.
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Enabling ShoppingCartReloaded v1.2u11
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Checking for libraries...
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] scala-library-2.11.0.jar is already installed
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-core-4.48.jar is already installed
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] ormlite-jdbc-4.48.jar is already installed
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] gson-2.1.jar is already installed
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/scala-library-2.11.0.jar into ClassLoader
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/ormlite-core-4.48.jar into ClassLoader
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/ormlite-jdbc-4.48.jar into ClassLoader
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Injected file:/E:/Artyom/MInecraft%20Servers/fine-world/server1/plugins/ShoppingCartReloaded/lib/gson-2.1.jar into ClassLoader
+[00:19:18] [Server thread/INFO]: [ShoppingCartReloaded] Using PermissionEx
+[00:19:19] [Server thread/ERROR]: Error occurred while enabling ShoppingCartReloaded v1.2u11 (Is it up to date?)
 java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
 	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadYamlAndMerge(ShoppingCartReloaded.scala:167) ~[?:?]
 	at me.limito.bukkit.shopcart.ShoppingCartReloaded.loadMessages(ShoppingCartReloaded.scala:57) ~[?:?]
@@ -419,68 +417,68 @@ java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loa
 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[16:59:04] [Server thread/INFO]: [WClans] Enabling WClans v1.0
-[16:59:04] [Server thread/INFO]: [0;32;1m[WClans] Соединение с базой данных успешно установлено.[m
-[16:59:04] [Server thread/INFO]: [0;32;1m[WClans] База кланов загружена.[m
-[16:59:04] [Server thread/INFO]: [0;32;1m[WClans] [0;32;1mПлагин включен (445 ms).[m
-[16:59:04] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[16:59:05] [Server thread/WARN]: [NoCheatPlus] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.5-1.11|? / CB-Reflect
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
-[16:59:05] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
-[16:59:06] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
-[16:59:06] [Server thread/WARN]: [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
-[16:59:06] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
-[16:59:06] [Server thread/WARN]: [NoCheatPlus] The following configuration default values have changed:
+[00:19:19] [Server thread/INFO]: [WClans] Enabling WClans v1.0
+[00:19:19] [Server thread/INFO]: [0;32;1m[WClans] Соединение с базой данных успешно установлено.[m
+[00:19:19] [Server thread/INFO]: [0;32;1m[WClans] База кланов загружена.[m
+[00:19:19] [Server thread/INFO]: [0;32;1m[WClans] [0;32;1mПлагин включен (241 ms).[m
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
+[00:19:19] [Server thread/WARN]: [NoCheatPlus] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[00:19:19] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[00:19:20] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[00:19:20] [Server thread/WARN]: [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+[00:19:20] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[00:19:20] [Server thread/WARN]: [NoCheatPlus] The following configuration default values have changed:
 Changed with build 1057: strings.nofall
 (Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
-[16:59:06] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
-[16:59:06] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[16:59:07] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
-[16:59:08] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
-[16:59:10] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.6
-[16:59:11] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
-[16:59:11] [Server thread/INFO]: [ChatEx] Loading updater-config...
-[16:59:11] [Server thread/INFO]: [ChatEx] Done!
-[16:59:11] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
-[16:59:11] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
-[16:59:11] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
-[16:59:11] [Server thread/INFO]: [ChatEx] is now enabled!
-[16:59:11] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.5.1
-[16:59:11] [Server thread/INFO]: [ServerSigns] Version 4.5.1 is now enabled.
-[16:59:11] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
-[16:59:12] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
-[16:59:12] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
-[16:59:12] [Server thread/INFO]: [SystemBoard] Enabling SystemBoard v1.0
-[16:59:12] [Server thread/INFO]: [0;32;1m[SystemBoard] Соединение с базой данных успешно установлено.[m
-[16:59:12] [Server thread/INFO]: {stevegrkek2=ru.jampire.systemboard.Stat@3db3f6a6, stevegrkek1=ru.jampire.systemboard.Stat@19aecb9c, stevegrkek=ru.jampire.systemboard.Stat@7c0aecf2, mum1a=ru.jampire.systemboard.Stat@d3dc644, kysaka=ru.jampire.systemboard.Stat@2f190783, annezlove=ru.jampire.systemboard.Stat@4004dbd7, odmen=ru.jampire.systemboard.Stat@6b42d259, paradoxgrkek=ru.jampire.systemboard.Stat@8ae2693, mumla=ru.jampire.systemboard.Stat@6f6c1d1a, darcq=ru.jampire.systemboard.Stat@950b943, meraminer=ru.jampire.systemboard.Stat@747d722a, frozentrone=ru.jampire.systemboard.Stat@d9e4888, eleforcreate=ru.jampire.systemboard.Stat@29510ec, sato_godofsurf=ru.jampire.systemboard.Stat@e832b5c, sato=ru.jampire.systemboard.Stat@1170f484, mitiazavr=ru.jampire.systemboard.Stat@6ed5342a}
-[16:59:12] [Server thread/INFO]: [0;32;1m[SystemBoard] База статистики загружена. (16)[m
-[16:59:12] [Server thread/INFO]: [0;32;1m[SystemBoard] Запуск в пакетном режиме ProtocolLib.[m
-[16:59:12] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин включен. ([0;33;1m170 ms[0;32;1m)[m
-[16:59:12] [Server thread/INFO]: [dtlTraders] Enabling dtlTraders v3.5.4
-[16:59:12] [Server thread/INFO]: [dtlTraders] dtlTraders is managed by 4Creation. Our website: www.4Creation.pro
-[16:59:12] [Server thread/INFO]: [0;31;1mDtlCore is implemented with DtlTraders and is now ONE plugin :)[m
-[16:59:12] [Server thread/INFO]: [dtlCore] Disabling dtlCore v1.1
-[16:59:12] [Server thread/INFO]: [0;31;1mDtlCore has been found and is disabled.[m
-[16:59:12] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
-[16:59:12] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registering attributes and flags...[m
-[16:59:12] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Economy plugin: [0;33;1mEssentials Economy[m
-[16:59:12] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
-[16:59:13] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registered types: [0;37;1m[[0;33;1mserver[m[0;37;1m][m
-[16:59:13] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Permission plugin: [0;33;1mPermissionsEx[m
-[16:59:13] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Enabled[m
-[16:59:13] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v2.7.8
-[16:59:13] [Server thread/INFO]: [0;36;1m[ItemFixer] [0;32;1mItemFixer enabled[m
-[16:59:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:59:14] [Server thread/INFO]: Done (63,624s)! For help, type "help" or "?"
-[16:59:14] [Server thread/INFO]: Using default channel type
-[16:59:14] [Thread-15/INFO]: [0;36;1m[ItemFixer] [0;31;22mНе удалось проверить обновление [0;33;1m:( [0;37;22m// [0;31;22mCan't check update[m
-[16:59:14] [Thread-15/WARN]: [ItemFixer] Ошибка: 
+[00:19:20] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+[00:19:20] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1487)
+[00:19:20] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[00:19:21] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[00:19:22] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.6
+[00:19:22] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
+[00:19:22] [Server thread/INFO]: [ChatEx] Loading updater-config...
+[00:19:22] [Server thread/INFO]: [ChatEx] Done!
+[00:19:22] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
+[00:19:22] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
+[00:19:22] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
+[00:19:22] [Server thread/INFO]: [ChatEx] is now enabled!
+[00:19:22] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v4.5.1
+[00:19:23] [Server thread/INFO]: [ServerSigns] Version 4.5.1 is now enabled.
+[00:19:23] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[00:19:23] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[00:19:23] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[00:19:23] [Server thread/INFO]: [SystemBoard] Enabling SystemBoard v1.0
+[00:19:23] [Server thread/INFO]: [0;32;1m[SystemBoard] Соединение с базой данных успешно установлено.[m
+[00:19:23] [Server thread/INFO]: {stevegrkek2=ru.jampire.systemboard.Stat@4eea2696, stevegrkek1=ru.jampire.systemboard.Stat@1f63d959, stevegrkek=ru.jampire.systemboard.Stat@714b673e, mum1a=ru.jampire.systemboard.Stat@1e14da7a, kysaka=ru.jampire.systemboard.Stat@1d591b8, annezlove=ru.jampire.systemboard.Stat@fd29ca, odmen=ru.jampire.systemboard.Stat@2aa5dc7c, paradoxgrkek=ru.jampire.systemboard.Stat@12da0458, mumla=ru.jampire.systemboard.Stat@3f2f0fea, moneygod=ru.jampire.systemboard.Stat@56f5d2bc, darcq=ru.jampire.systemboard.Stat@5237b222, meraminer=ru.jampire.systemboard.Stat@100d84f8, frozentrone=ru.jampire.systemboard.Stat@579a994c, eleforcreate=ru.jampire.systemboard.Stat@2f82c131, sato_godofsurf=ru.jampire.systemboard.Stat@40cbc041, sato=ru.jampire.systemboard.Stat@3c1db6e4, mitiazavr=ru.jampire.systemboard.Stat@3fce18d2}
+[00:19:23] [Server thread/INFO]: [0;32;1m[SystemBoard] База статистики загружена. (17)[m
+[00:19:23] [Server thread/INFO]: [0;32;1m[SystemBoard] Запуск в пакетном режиме ProtocolLib.[m
+[00:19:23] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин включен. ([0;33;1m99 ms[0;32;1m)[m
+[00:19:23] [Server thread/INFO]: [dtlTraders] Enabling dtlTraders v3.5.4
+[00:19:23] [Server thread/INFO]: [dtlTraders] dtlTraders is managed by 4Creation. Our website: www.4Creation.pro
+[00:19:23] [Server thread/INFO]: [0;31;1mDtlCore is implemented with DtlTraders and is now ONE plugin :)[m
+[00:19:23] [Server thread/INFO]: [dtlCore] Disabling dtlCore v1.1
+[00:19:23] [Server thread/INFO]: [0;31;1mDtlCore has been found and is disabled.[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registering attributes and flags...[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Economy plugin: [0;33;1mEssentials Economy[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Loading config files[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Registered types: [0;37;1m[[0;33;1mserver[m[0;37;1m][m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Permission plugin: [0;33;1mPermissionsEx[m
+[00:19:24] [Server thread/INFO]: [dtlTraders][0;37;1m[INFO] Enabled[m
+[00:19:24] [Server thread/INFO]: [ItemFixer] Enabling ItemFixer v2.7.8
+[00:19:24] [Server thread/INFO]: [0;36;1m[ItemFixer] [0;32;1mItemFixer enabled[m
+[00:19:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:19:25] [Server thread/INFO]: Done (50,274s)! For help, type "help" or "?"
+[00:19:25] [Server thread/INFO]: Using default channel type
+[00:19:25] [Thread-15/INFO]: [0;36;1m[ItemFixer] [0;31;22mНе удалось проверить обновление [0;33;1m:( [0;37;22m// [0;31;22mCan't check update[m
+[00:19:25] [Thread-15/WARN]: [ItemFixer] Ошибка: 
 java.net.ConnectException: Connection refused: connect
 	at java.net.DualStackPlainSocketImpl.connect0(Native Method) ~[?:?]
 	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source) ~[?:?]
@@ -506,11 +504,11 @@ java.net.ConnectException: Connection refused: connect
 	at ru.xtime.nbtfix.Main.checkUpdate(Main.java:75) [ItemFixer.jar:?]
 	at ru.xtime.nbtfix.Main$1.run(Main.java:36) [ItemFixer.jar:?]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[16:59:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
-[16:59:16] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
-[16:59:16] [Craft Scheduler Thread - 9/INFO]: [Marriage] Purged 0 player entries in 5ms
-[16:59:16] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
-[16:59:16] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+[00:19:27] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.12.2(340)
+[00:19:27] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[00:19:27] [Craft Scheduler Thread - 9/INFO]: [Marriage] Purged 0 player entries in 9ms
+[00:19:27] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[00:19:27] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
 --- Missing entries -------------------------------
 * MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
 * MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
@@ -530,24 +528,26 @@ java.net.ConnectException: Connection refused: connect
 * MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
 * MISSING 251(CONCRETE / SOLID+GROUND) 
 * MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
-[16:59:16] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
-[16:59:21] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
-[16:59:21] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.3.0
-[16:59:21] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
-[16:59:21] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
-[16:59:21] [Server thread/INFO]: [Citizens] Loaded 7 NPCs.
-[16:59:21] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
-[16:59:22] [Server thread/WARN]: [ViaVersion] There is a newer version available: 1.5.0, you're on: 1.3.0
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.3[m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
-[16:59:22] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
-[16:59:22] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
-[16:59:24] [Server thread/WARN]: [HolographicDisplays] Unable to get a stacktrace element, please inform the developer. You will only see this error once to avoid spam.
+[00:19:27] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[00:19:32] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[00:19:32] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.3.1
+[00:19:32] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[00:19:32] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[00:19:33] [Server thread/INFO]: [Citizens] Loaded 7 NPCs.
+[00:19:33] [Craft Scheduler Thread - 10/INFO]: [Vault] Checking for Updates ... 
+[00:19:33] [Server thread/WARN]: [ViaVersion] There is a newer version available: 1.6.0, you're on: 1.3.0
+[00:19:34] [Craft Scheduler Thread - 9/WARN]: [SpigetUpdate] Invalid SemVer versions specified [135-SNAPSHOT] [1351]
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.5-SNAPSHOT[m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[00:19:34] [Craft Scheduler Thread - 9/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[00:19:34] [Craft Scheduler Thread - 10/WARN]: [Vault] Stable Version: 1.7.1 is out! You are still running version: 1.5.6
+[00:19:34] [Craft Scheduler Thread - 10/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[00:19:36] [Server thread/WARN]: [HolographicDisplays] Unable to get a stacktrace element, please inform the developer. You will only see this error once to avoid spam.
 java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
 	at java.lang.Class.getDeclaredMethod(Unknown Source) ~[?:?]
 	at com.gmail.filoghost.holographicdisplays.util.ReflectionUtils.getStackTraceElement(ReflectionUtils.java:44) [HolographicDisplays.jar:?]
@@ -566,291 +566,165 @@ java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
 	at java.lang.Thread.run(Unknown Source) [?:?]
-[16:59:28] [Server thread/INFO]: [ChatEx] There is no new version available. You are up-to-date!
-[17:00:19] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@1a871264 to net.minecraft.server.v1_12_R1.HandshakeListener@5a8bba7a
-[17:00:20] [Netty Server IO #1/DEBUG]: Enabled auto read
-[17:00:21] [Netty Server IO #1/DEBUG]: Enabled auto read
-[17:00:21] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@1a871264 to net.minecraft.server.v1_12_R1.PacketStatusListener@6b613698
-[17:00:30] [Craft Scheduler Thread - 10/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[17:06:25] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:07:05] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:07:26] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:08:55] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@901ed96 to net.minecraft.server.v1_12_R1.HandshakeListener@133a2405
-[17:08:55] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:08:55] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:08:55] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@901ed96 to net.minecraft.server.v1_12_R1.PacketStatusListener@7103b4c4
-[17:10:29] [Craft Scheduler Thread - 8/INFO]: [Metrics] Read timed out
-[17:14:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:15:04] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:15:25] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:15:40] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@589bacec to net.minecraft.server.v1_12_R1.HandshakeListener@4be8c74f
-[17:15:40] [Netty Server IO #3/DEBUG]: Enabled auto read
-[17:15:40] [Netty Server IO #3/DEBUG]: Enabled auto read
-[17:15:40] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@589bacec to net.minecraft.server.v1_12_R1.PacketStatusListener@20412f85
-[17:16:23] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@7423c9a9 to net.minecraft.server.v1_12_R1.HandshakeListener@571cdc5c
-[17:16:23] [Netty Server IO #0/DEBUG]: Enabled auto read
-[17:16:23] [Netty Server IO #0/DEBUG]: Enabled auto read
-[17:16:23] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@7423c9a9 to net.minecraft.server.v1_12_R1.LoginListener@139cb969
-[17:16:23] [User Authenticator #1/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
-[17:16:25] [Server thread/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@7423c9a9 to net.minecraft.server.v1_12_R1.PlayerConnection@6eae9255
-[17:16:25] [Server thread/DEBUG]: Disabled auto read
-[17:16:25] [Netty Server IO #0/DEBUG]: Enabled auto read
-[17:16:29] [Server thread/INFO]: SteveGrKek[/127.0.0.1:9702] logged in with entity id 243 at ([spawn]41.34998968730721, 102.0, -28.30000001192093)
-[17:16:32] [Craft Scheduler Thread - 32/WARN]: [Essentials] Plugin Essentials vTeamCity generated an exception while executing task 92
-java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75) ~[?:?]
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-[17:17:48] [Server thread/INFO]: SteveGrKek issued server command: /tool repl 1
-[17:17:55] [Server thread/INFO]: SteveGrKek issued server command: /tool none
-[17:18:07] [Async Chat Thread - #0/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;31;1m[21m✤ [0;36;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;31;1m[21m✤[m
-[17:19:37] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;31;1m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;31;1m[21m✤[m
-[17:19:49] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;1m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;35;1m[21m✤[m
-[17:20:02] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;31;22m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;31;22m[21m✤[m
-[17:20:12] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;35;22m[21m✤[m
-[17:21:04] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;35;22m[21m✤[m
-[17:21:08] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22mＷｏｒｌｄ [0;35;22m[21m✤[m
-[17:21:14] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m[21m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;35;22m✤[m
-[17:21:20] [Async Chat Thread - #1/INFO]: [0;33;1mⓁ  [0;31;1m[21mТехнарь[m SteveGrKek [0;31;22m➠  [0;35;22m✤ [0;34;1m[21mｆｉｎｅ[0;33;22m[21mＷｏｒｌｄ [0;35;22m✤[m
-[17:21:23] [Server thread/INFO]: SteveGrKek lost connection: Disconnected
-[17:21:25] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@267a6ac to net.minecraft.server.v1_12_R1.HandshakeListener@1cd3cce3
-[17:21:25] [Netty Server IO #1/DEBUG]: Enabled auto read
-[17:21:25] [Netty Server IO #1/DEBUG]: Enabled auto read
-[17:21:25] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@267a6ac to net.minecraft.server.v1_12_R1.PacketStatusListener@d53a970
-[17:21:38] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@441d164f to net.minecraft.server.v1_12_R1.HandshakeListener@10974b7f
-[17:21:38] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:21:38] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:21:38] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@441d164f to net.minecraft.server.v1_12_R1.LoginListener@496acfa5
-[17:21:38] [User Authenticator #2/INFO]: UUID of player SteveGrKek is 80063e32-660f-3040-aa72-a0e52f9efa9f
-[17:21:38] [Server thread/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@441d164f to net.minecraft.server.v1_12_R1.PlayerConnection@23144b78
-[17:21:38] [Server thread/DEBUG]: Disabled auto read
-[17:21:38] [Server thread/DEBUG]: Disabled auto read
-[17:21:38] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:21:38] [Netty Server IO #2/DEBUG]: Enabled auto read
-[17:21:39] [Server thread/INFO]: SteveGrKek[/127.0.0.1:9827] logged in with entity id 245 at ([spawn]-14.665852440556943, 125.72732762153683, -35.04051898468705)
-[17:21:39] [Craft Scheduler Thread - 35/WARN]: [Essentials] Plugin Essentials vTeamCity generated an exception while executing task 300
-java.lang.NoSuchMethodError: com.earth2me.essentials.ISettings.getSpawnOnJoinGroups()Ljava/util/List;
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener.delayedJoin(EssentialsSpawnPlayerListener.java:75) ~[?:?]
-	at com.earth2me.essentials.spawn.EssentialsSpawnPlayerListener$1.run(EssentialsSpawnPlayerListener.java:67) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [spigot-1.12.2.jar:git-Spigot-95dd097-305df90]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-[17:21:51] [Craft Scheduler Thread - 21/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[17:22:40] [Server thread/INFO]: SteveGrKek issued server command: /tool repl 1
-[17:22:49] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:23:30] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:23:51] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:30:54] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:31:36] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:31:37] [Craft Scheduler Thread - 54/INFO]: [Metrics] Connection timed out: connect
-[17:31:56] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:38:51] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:39:32] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:39:52] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:41:55] [Craft Scheduler Thread - 52/INFO]: [Metrics] Connection timed out: connect
-[17:46:38] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:47:18] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:47:38] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[17:52:03] [Craft Scheduler Thread - 63/INFO]: [Metrics] Connection timed out: connect
-[17:54:24] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[17:55:04] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[17:55:24] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:01:50] [Craft Scheduler Thread - 78/INFO]: [Marriage] Purged 0 player entries in 172ms
-[18:02:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:02:11] [Craft Scheduler Thread - 80/INFO]: [Metrics] Connection timed out: connect
-[18:02:51] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:03:11] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:09:57] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:10:38] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:10:58] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:12:20] [Craft Scheduler Thread - 79/INFO]: [Metrics] Connection timed out: connect
-[18:17:43] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:18:24] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:18:44] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:22:22] [Craft Scheduler Thread - 94/INFO]: [Metrics] Connection reset
-[18:25:30] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:26:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:26:31] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:32:45] [Craft Scheduler Thread - 107/INFO]: [Metrics] Connection timed out: connect
-[18:33:17] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:33:57] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:34:17] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:41:03] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:41:43] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:42:04] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:42:46] [Craft Scheduler Thread - 79/INFO]: [Metrics] Connection timed out: connect
-[18:48:54] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:49:35] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:49:55] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:53:44] [Craft Scheduler Thread - 120/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[18:56:47] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[18:57:28] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[18:57:49] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[18:58:07] [Server thread/INFO]: SteveGrKek issued server command: /spawn
-[19:02:59] [Craft Scheduler Thread - 132/INFO]: [Marriage] Purged 0 player entries in 4ms
-[19:03:20] [Craft Scheduler Thread - 135/INFO]: [Metrics] Connection timed out: connect
-[19:04:41] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:04:53] [Server thread/INFO]: SteveGrKek issued server command: /tps
-[19:04:55] [Server thread/INFO]: SteveGrKek issued server command: /tps
-[19:05:22] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:05:42] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:12:40] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:13:21] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:13:42] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:14:25] [Craft Scheduler Thread - 120/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[19:20:35] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:21:17] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:21:37] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:24:02] [Craft Scheduler Thread - 154/INFO]: [Metrics] Connection timed out: connect
-[19:28:33] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:29:14] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:29:34] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:34:06] [Craft Scheduler Thread - 169/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[19:36:28] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:37:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:37:31] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:44:24] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:44:29] [Craft Scheduler Thread - 167/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[19:45:05] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:45:25] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:52:15] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[19:52:55] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[19:53:16] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[19:55:01] [Craft Scheduler Thread - 183/INFO]: [Metrics] Connection timed out: connect
-[20:00:13] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:00:55] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:01:16] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:05:06] [Craft Scheduler Thread - 199/INFO]: [Marriage] Purged 0 player entries in 20ms
-[20:06:15] [Craft Scheduler Thread - 196/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[20:08:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:08:54] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:08:56] [Server thread/INFO]: SteveGrKek lost connection: Disconnected
-[20:09:02] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@68605f57 to net.minecraft.server.v1_12_R1.HandshakeListener@7f310c30
-[20:09:02] [Netty Server IO #3/DEBUG]: Enabled auto read
-[20:09:02] [Netty Server IO #3/DEBUG]: Enabled auto read
-[20:09:02] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@68605f57 to net.minecraft.server.v1_12_R1.PacketStatusListener@29822d17
-[20:09:16] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:15:26] [Craft Scheduler Thread - 207/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[20:16:06] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:16:46] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:17:07] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:23:55] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:24:36] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:24:56] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:25:38] [Craft Scheduler Thread - 208/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[20:31:43] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:32:25] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:32:46] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:36:17] [Craft Scheduler Thread - 227/INFO]: [Metrics] Connection timed out: connect
-[20:39:42] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:40:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:40:45] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:46:55] [Craft Scheduler Thread - 219/INFO]: [Metrics] Connection timed out: connect
-[20:47:57] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:48:40] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:49:00] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:56:01] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[20:56:42] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[20:57:03] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[20:57:24] [Craft Scheduler Thread - 245/INFO]: [Metrics] Connection timed out: connect
-[21:03:58] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:04:40] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:05:01] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:07:25] [Craft Scheduler Thread - 257/INFO]: [Marriage] Purged 0 player entries in 7ms
-[21:07:47] [Craft Scheduler Thread - 260/INFO]: [Metrics] Connection timed out: connect
-[21:11:56] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:12:39] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:13:01] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:17:57] [Craft Scheduler Thread - 266/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
-[21:19:59] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:20:39] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:21:00] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:27:52] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:28:33] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:28:53] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:29:22] [Craft Scheduler Thread - 269/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
-[21:35:42] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:36:23] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:36:43] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:38:47] [Craft Scheduler Thread - 287/INFO]: [Metrics] Connection timed out: connect
-[21:43:35] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
-[21:44:15] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
-[21:44:35] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
-[21:49:04] [Craft Scheduler Thread - 258/INFO]: [Metrics] Connection timed out: connect
-[21:50:38] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@70b7b37 to net.minecraft.server.v1_12_R1.HandshakeListener@6fd6f8f4
-[21:50:38] [Netty Server IO #0/DEBUG]: Enabled auto read
-[21:50:38] [Netty Server IO #0/DEBUG]: Enabled auto read
-[21:50:38] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@70b7b37 to net.minecraft.server.v1_12_R1.PacketStatusListener@148e43a3
-[21:51:03] [Server thread/INFO]: Stopping the server
-[21:51:03] [Server thread/INFO]: Stopping server
-[21:51:03] [Server thread/INFO]: [ItemFixer] Disabling ItemFixer v2.7.8
-[21:51:03] [Server thread/INFO]: [dtlTraders] Disabling dtlTraders v3.5.4
-[21:51:03] [Server thread/INFO]: [SystemBoard] Disabling SystemBoard v1.0
-[21:51:03] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин выключен.[m
-[21:51:03] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
-[21:51:03] [Server thread/INFO]: [ServerSigns] Disabling ServerSigns v4.5.1
-[21:51:03] [Server thread/INFO]: [ServerSigns] ServerSigns is now disabled.
-[21:51:03] [Server thread/INFO]: [ChatEx] Disabling ChatEx v1.6
-[21:51:03] [Server thread/INFO]: [ChatEx] is now disabled!
-[21:51:03] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
-[21:51:03] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.22-SNAPSHOT (build 1487)
-[21:51:03] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
-[21:51:03] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
-[21:51:03] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is disabled.
-[21:51:03] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
-[21:51:03] [Server thread/INFO]: [WClans] Disabling WClans v1.0
-[21:51:03] [Server thread/INFO]: [0;32;1m[WClans] &aПлагин выключен.[m
-[21:51:03] [Server thread/INFO]: [ShoppingCartReloaded] Disabling ShoppingCartReloaded v1.2u11
-[21:51:03] [Server thread/INFO]: [Marriage] Disabling Marriage v2.0.18
-[21:51:03] [Server thread/INFO]: [Marriage] Loading database...
-[21:51:03] [Server thread/INFO]: [Marriage] Plugin has been completely disabled.
-[21:51:03] [Server thread/INFO]: [Jobs] Disabling Jobs v4.5.3
-[21:51:03] [Server thread/INFO]: [Jobs] Saving blocks
-[21:51:03] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
-[21:51:03] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
-[21:51:03] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
-[21:51:03] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.0.6
-[21:51:03] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v2.3.1
-[21:51:03] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b468
-[21:51:03] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[21:51:03] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v0.4.7
-[21:51:03] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
-[21:51:03] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
-[21:51:03] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
-[21:51:03] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[21:51:03] [Server thread/INFO]: [WGExtender] Disabling WGExtender v1.0
-[21:51:03] [Server thread/INFO]: [RandomPort] Disabling RandomPort v2.0
-[21:51:03] [Server thread/INFO]: RandomPort has been disabled.
-[21:51:03] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[21:51:03] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
-[21:51:03] [Server thread/INFO]: [OPSRegion] Disabling OPSRegion v1.0
-[21:51:03] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[21:51:03] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[21:51:03] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.3
-[21:51:03] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
-[21:51:03] [Server thread/INFO]: [MultiWorld] Disabled.
-[21:51:03] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
-[21:51:03] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[21:51:03] [Server thread/INFO]: [DynPad] Disabling DynPad v1.5
-[21:51:03] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v1.4
-[21:51:03] [Server thread/INFO]: [CreativeLimiter] Disabling CreativeLimiter v1.0
-[21:51:03] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
-[21:51:03] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
-[21:51:03] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[21:51:03] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
-[21:51:03] [Server thread/INFO]: [KeepItems] Disabling KeepItems v1.3.2
-[21:51:03] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;88df431
-[21:51:03] [Server thread/INFO]: Saving players
-[21:51:04] [Server thread/INFO]: Saving worlds
-[21:51:04] [Server thread/INFO]: Saving chunks for level 'spawn'/overworld
-[21:51:05] [Server thread/INFO]: Saving chunks for level 'spawn_nether'/the_nether
-[21:51:05] [Server thread/INFO]: Saving chunks for level 'spawn_the_end'/the_end
-[21:51:05] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[21:51:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[21:51:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[00:19:37] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@3091798b to net.minecraft.server.v1_12_R1.HandshakeListener@56132c66
+[00:19:37] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:19:39] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:19:39] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@3091798b to net.minecraft.server.v1_12_R1.PacketStatusListener@42485341
+[00:19:42] [Server thread/INFO]: [ChatEx] There is no new version available. You are up-to-date!
+[00:19:53] [Craft Scheduler Thread - 8/INFO]: [Metrics] Connection timed out: connect
+[00:21:43] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@c5abe7b to net.minecraft.server.v1_12_R1.HandshakeListener@666fdacf
+[00:21:43] [Netty Server IO #2/DEBUG]: Enabled auto read
+[00:21:43] [Netty Server IO #2/DEBUG]: Enabled auto read
+[00:21:43] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@c5abe7b to net.minecraft.server.v1_12_R1.PacketStatusListener@74adb222
+[00:24:03] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@2f10ac45 to net.minecraft.server.v1_12_R1.HandshakeListener@79548c29
+[00:24:03] [Netty Server IO #3/DEBUG]: Enabled auto read
+[00:24:03] [Netty Server IO #3/DEBUG]: Enabled auto read
+[00:24:03] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@2f10ac45 to net.minecraft.server.v1_12_R1.PacketStatusListener@57789bd5
+[00:24:34] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@52dfb2fa to net.minecraft.server.v1_12_R1.HandshakeListener@3be78c90
+[00:24:34] [Netty Server IO #0/DEBUG]: Enabled auto read
+[00:24:34] [Netty Server IO #0/DEBUG]: Enabled auto read
+[00:24:34] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@52dfb2fa to net.minecraft.server.v1_12_R1.PacketStatusListener@2185aaee
+[00:26:29] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:27:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:27:30] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:30:59] [Craft Scheduler Thread - 8/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
+[00:34:19] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:34:59] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:35:20] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:40:12] [Craft Scheduler Thread - 18/INFO]: [Metrics] Server returned HTTP response code: 500 for URL: http://mcstats.org/report/ServerSigns
+[00:42:09] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:42:50] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:43:10] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:46:17] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@5fe33330 to net.minecraft.server.v1_12_R1.HandshakeListener@66fc0234
+[00:46:17] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:46:17] [Netty Server IO #1/DEBUG]: Enabled auto read
+[00:46:17] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@5fe33330 to net.minecraft.server.v1_12_R1.PacketStatusListener@33d32898
+[00:50:05] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:50:46] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:51:02] [Craft Scheduler Thread - 33/INFO]: [Metrics] Read timed out
+[00:51:07] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[00:58:07] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[00:58:48] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[00:59:07] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@23976e80 to net.minecraft.server.v1_12_R1.HandshakeListener@5dbd844
+[00:59:07] [Netty Server IO #2/DEBUG]: Enabled auto read
+[00:59:07] [Netty Server IO #2/DEBUG]: Enabled auto read
+[00:59:07] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@23976e80 to net.minecraft.server.v1_12_R1.PacketStatusListener@2dc56621
+[00:59:08] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@36481b29 to net.minecraft.server.v1_12_R1.HandshakeListener@1e2deeeb
+[00:59:08] [Netty Server IO #3/DEBUG]: Enabled auto read
+[00:59:08] [Netty Server IO #3/DEBUG]: Enabled auto read
+[00:59:08] [Netty Server IO #3/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@36481b29 to net.minecraft.server.v1_12_R1.PacketStatusListener@8bc94d5
+[00:59:09] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:01:13] [Craft Scheduler Thread - 31/INFO]: [Metrics] Connection timed out: connect
+[01:06:03] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:06:45] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:07:05] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:11:32] [Craft Scheduler Thread - 50/INFO]: [Metrics] Connection timed out: connect
+[01:13:56] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:14:40] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:15:02] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:21:34] [Craft Scheduler Thread - 60/INFO]: [Marriage] Purged 0 player entries in 13ms
+[01:21:54] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:22:36] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:22:58] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:23:38] [Craft Scheduler Thread - 63/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
+[01:29:47] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:30:27] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:30:47] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:32:52] [Craft Scheduler Thread - 51/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
+[01:37:39] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:38:21] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:38:41] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:42:28] [Craft Scheduler Thread - 71/INFO]: [Metrics] Connection timed out: connect
+[01:45:31] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:46:13] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:46:35] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[01:53:29] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[01:53:35] [Craft Scheduler Thread - 87/INFO]: [Metrics] Server returned HTTP response code: 504 for URL: http://mcstats.org/report/ServerSigns
+[01:54:10] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[01:54:31] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[02:01:19] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[02:01:59] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[02:02:20] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[02:03:02] [Craft Scheduler Thread - 85/INFO]: [Metrics] Connection timed out: connect
+[02:09:09] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[02:09:51] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[02:10:12] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[02:13:20] [Craft Scheduler Thread - 85/INFO]: [Metrics] Connection timed out: connect
+[02:13:42] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@1519cab9 to net.minecraft.server.v1_12_R1.HandshakeListener@1821da74
+[02:13:42] [Netty Server IO #0/DEBUG]: Enabled auto read
+[02:13:42] [Netty Server IO #0/DEBUG]: Enabled auto read
+[02:13:42] [Netty Server IO #0/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@1519cab9 to net.minecraft.server.v1_12_R1.PacketStatusListener@2cc70afb
+[02:16:31] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@337f545e to net.minecraft.server.v1_12_R1.HandshakeListener@344d426b
+[02:16:31] [Netty Server IO #1/DEBUG]: Enabled auto read
+[02:16:31] [Netty Server IO #1/DEBUG]: Enabled auto read
+[02:16:31] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@337f545e to net.minecraft.server.v1_12_R1.PacketStatusListener@310ba68d
+[02:17:06] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m60 [0;33;22m[21mсекунд![m
+[02:17:47] [Server thread/INFO]: [0;30;1m([0;36;1m[21mｆｉｎｅ[0;33;1m[21mＷｏｒｌｄ[0;30;1m) [0;33;22m[21mВнимание! Все предметы лежащие на полу будут уничтожены через [0;37;22m20 [0;33;22m[21mсекунд![m
+[02:18:09] [Server thread/INFO]: [0;30;1m([0;36;1mｆｉｎｅ[0;33;1mＷｏｒｌｄ[0;30;1m) [0;32;1m[21mБыло удалено [0;37;22m0 [0;32;1m[21mпредметов[m
+[02:19:05] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@3fab9b72 to net.minecraft.server.v1_12_R1.HandshakeListener@4558a859
+[02:19:05] [Netty Server IO #2/DEBUG]: Enabled auto read
+[02:19:05] [Netty Server IO #2/DEBUG]: Enabled auto read
+[02:19:05] [Netty Server IO #2/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@3fab9b72 to net.minecraft.server.v1_12_R1.PacketStatusListener@564620d1
+[02:19:44] [Server thread/INFO]: Stopping the server
+[02:19:44] [Server thread/INFO]: Stopping server
+[02:19:44] [Server thread/INFO]: [ItemFixer] Disabling ItemFixer v2.7.8
+[02:19:44] [Server thread/INFO]: [dtlTraders] Disabling dtlTraders v3.5.4
+[02:19:44] [Server thread/INFO]: [SystemBoard] Disabling SystemBoard v1.0
+[02:19:44] [Server thread/INFO]: [0;32;1m[SystemBoard] Плагин выключен.[m
+[02:19:44] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[02:19:44] [Server thread/INFO]: [ServerSigns] Disabling ServerSigns v4.5.1
+[02:19:44] [Server thread/INFO]: [ServerSigns] ServerSigns is now disabled.
+[02:19:44] [Server thread/INFO]: [ChatEx] Disabling ChatEx v1.6
+[02:19:44] [Server thread/INFO]: [ChatEx] is now disabled!
+[02:19:44] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.1.4
+[02:19:44] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.22-SNAPSHOT (build 1487)
+[02:19:44] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.15.0-SNAPSHOT-sMD5NET-b1066
+[02:19:44] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[02:19:44] [Server thread/INFO]: [NoCheatPlus] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is disabled.
+[02:19:44] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
+[02:19:44] [Server thread/INFO]: [WClans] Disabling WClans v1.0
+[02:19:44] [Server thread/INFO]: [0;32;1m[WClans] &aПлагин выключен.[m
+[02:19:44] [Server thread/INFO]: [ShoppingCartReloaded] Disabling ShoppingCartReloaded v1.2u11
+[02:19:44] [Server thread/INFO]: [Marriage] Disabling Marriage v2.0.18
+[02:19:44] [Server thread/INFO]: [Marriage] Loading database...
+[02:19:44] [Server thread/INFO]: [Marriage] Plugin has been completely disabled.
+[02:19:44] [Server thread/INFO]: [Jobs] Disabling Jobs v4.9.1
+[02:19:44] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.0.6
+[02:19:44] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v2.3.1
+[02:19:44] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b468
+[02:19:44] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[02:19:44] [Server thread/INFO]: [MineResetLite] Disabling MineResetLite v0.4.7
+[02:19:44] [Server thread/INFO]: [MineResetLite] MineResetLite disabled
+[02:19:44] [Server thread/INFO]: [CustomJoinItems] Disabling CustomJoinItems v1.5.2
+[02:19:44] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v1.3.0
+[02:19:44] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[02:19:44] [Server thread/INFO]: [WGExtender] Disabling WGExtender v1.0
+[02:19:44] [Server thread/INFO]: [RandomPort] Disabling RandomPort v2.0
+[02:19:44] [Server thread/INFO]: RandomPort has been disabled.
+[02:19:44] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[02:19:44] [Server thread/INFO]: WEPIF: PermissionsEx обнаружен! Использую PermissionEx для разрешений.
+[02:19:44] [Server thread/INFO]: [OPSRegion] Disabling OPSRegion v1.0
+[02:19:44] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[02:19:44] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[02:19:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.5-SNAPSHOT
+[02:19:44] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[02:19:44] [Server thread/INFO]: [MultiWorld] Disabled.
+[02:19:44] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
+[02:19:44] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[02:19:45] [Server thread/INFO]: [DynPad] Disabling DynPad v1.5
+[02:19:45] [Server thread/INFO]: [AntiRelog] Disabling AntiRelog v1.4
+[02:19:45] [Server thread/INFO]: [CreativeLimiter] Disabling CreativeLimiter v1.0
+[02:19:45] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.5
+[02:19:45] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
+[02:19:45] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[02:19:45] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[02:19:45] [Server thread/INFO]: [KeepItems] Disabling KeepItems v1.3.2
+[02:19:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9-SNAPSHOT;88df431
+[02:19:45] [Server thread/INFO]: Saving players
+[02:19:45] [Server thread/INFO]: Saving worlds
+[02:19:45] [Server thread/INFO]: Saving chunks for level 'spawn'/overworld
+[02:19:45] [Server thread/INFO]: Saving chunks for level 'spawn_nether'/the_nether
+[02:19:45] [Server thread/INFO]: Saving chunks for level 'spawn_the_end'/the_end
+[02:19:45] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[02:19:46] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[02:19:46] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

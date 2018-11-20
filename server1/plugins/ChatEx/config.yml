@@ -15,8 +15,8 @@
 # Messages.JoinAndQuit.Enabled: Do you want to change the join and the quit messages?
 
 enable: true
-message-format: '&eⓁ !clan! %prefix %displayname &4➠ %suffix %message'
-global-message-format: '&6Ⓖ !clan! %prefix %displayname%suffix: &f&o%message'
+message-format: '&aⓁ !clan! %prefix %displayname &4➠ %suffix %message'
+global-message-format: '&eⒼ !clan! %prefix %displayname%suffix: &f&o%message'
 ranged-mode: true
 chat-range: 100.0
 multi-prefixes: false

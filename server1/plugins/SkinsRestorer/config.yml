@@ -8,6 +8,7 @@ DefaultSkins:
   Enabled: false
   Names:
   - Steve
+  ApplyForPremium: false
 DisabledSkins:
   Enabled: false
   Names:
@@ -25,3 +26,5 @@ MySQL:
   Password: pass
 Updater:
   Enabled: 'true'
+Proxies:
+  Enabled: false

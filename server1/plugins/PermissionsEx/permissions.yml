@@ -26,6 +26,25 @@ groups:
     - essentials.warp
     - essentials.warp.list
     - essentials.signs.use.*
+    - changeskin.command.setskin
+    - chatex.allowchat
+    - chatex.chat.global
+    - chestcommands.open.menu.yml
+    - chestcommands.open.donate.yml
+    - dynpad.*
+    - jobs.join
+    - jobs.join.*
+    - jobs.command.join
+    - jobs.command.browse
+    - jobs.command.top
+    - jobs.command.stats
+    - jobs.command.archive
+    - jobs.command.leave
+    - jobs.command.leaveall
+    - jobs.command.info
+    - jobs.command.employ
+    - marry.default
+    - 
     options:
       weight: '100'
       prefix: '&8(&6Игрок&8)&f &7'

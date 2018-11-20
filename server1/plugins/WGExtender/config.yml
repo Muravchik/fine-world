@@ -44,8 +44,8 @@ autoflags:
   enabled: true
   flags:
     lightning: DENY
-    damage-animals: DENY
     allow-shop: DENY
+    damage-animals: DENY
 restrictcommands:
   enabled: true
   commands:

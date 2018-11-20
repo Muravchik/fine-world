@@ -1,6 +1,18 @@
 ip_forward: true
 network_compression_threshold: 256
 stats: 03e59ae4-1ee4-4059-acb0-1aa06f0deeb4
+permissions:
+  default:
+  - skinsrestorer.playercmds
+  - changeskin.command.setskin
+  - bungeecord.command.server
+  - bungeecord.command.list
+  - bungeealiases.lobby
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
 groups:
   SteveGrKek:
   - admin
@@ -18,7 +30,6 @@ servers:
     address: 127.0.0.1:23042
     restricted: false
 timeout: 30000
-player_limit: -1
 listeners:
 - query_port: 25565
   motd: '&bｆｉｎｅ&eＷｏｒｌｄ'
@@ -36,18 +47,7 @@ listeners:
   force_default_server: true
   proxy_protocol: false
 prevent_proxy_connections: false
-permissions:
-  default:
-  - skinsrestorer.playercmds
-  - changeskin.command.setskin
-  - bungeecord.command.server
-  - bungeecord.command.list
-  - bungeealiases.lobby
-  admin:
-  - bungeecord.command.alert
-  - bungeecord.command.end
-  - bungeecord.command.ip
-  - bungeecord.command.reload
+player_limit: -1
 online_mode: false
 log_commands: false
 disabled_commands:
