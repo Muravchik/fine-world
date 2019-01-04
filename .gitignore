@@ -3,6 +3,7 @@
 server1/server-icon x64.png
 server1/server-icon x64.png
 server1/server-iconx512.png
-server1/logs/latest.log
+server1/logs/
+Auth/logs/
 server1/plugins/NoCheatPlus/nocheatplus.log.lck
 *.log

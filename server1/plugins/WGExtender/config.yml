@@ -43,9 +43,9 @@ regionprotect:
 autoflags:
   enabled: true
   flags:
+    damage-animals: DENY
     lightning: DENY
     allow-shop: DENY
-    damage-animals: DENY
 restrictcommands:
   enabled: true
   commands:
