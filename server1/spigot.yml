@@ -14,6 +14,7 @@ config-version: 11
 settings:
   debug: true
   save-user-cache-on-stop-only: false
+<<<<<<< HEAD
   player-shuffle: 0
   netty-threads: 4
   bungeecord: false
@@ -25,6 +26,22 @@ settings:
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.bat
+=======
+  moved-wrongly-threshold: 0.0625
+  filter-creative-items: true
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  sample-count: 12
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.bat
+  player-shuffle: 0
+  bungeecord: false
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  netty-threads: 4
+  late-bind: true
+>>>>>>> New_PEX's
   attribute:
     maxHealth:
       max: 2048.0
@@ -32,12 +49,25 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+<<<<<<< HEAD
   moved-too-quickly-multiplier: 10.0
   filter-creative-items: true
   moved-wrongly-threshold: 0.0625
 commands:
   tab-complete: 0
   log: true
+=======
+messages:
+  whitelist: Тех. Работы!
+  unknown-command: Неизвестная команда. введите "/help" для просмотра списка команд.
+  server-full: Сервер переполнен!
+  outdated-client: §eКлиент устарел!
+  outdated-server: Чето мы устарели, ну и ладно, всёравно скоро обновимся)
+  restart: Сервер перезагружается
+commands:
+  tab-complete: 0
+  silent-commandblock-console: false
+>>>>>>> New_PEX's
   replace-commands:
   - setblock
   - summon
@@ -45,6 +75,7 @@ commands:
   - tellraw
   spam-exclusions:
   - /skill
+<<<<<<< HEAD
   silent-commandblock-console: false
 messages:
   whitelist: Тех. Работы!
@@ -56,45 +87,30 @@ messages:
 stats:
   disable-saving: false
   forced-stats: {}
+=======
+  log: true
+>>>>>>> New_PEX's
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+stats:
+  disable-saving: false
+  forced-stats: {}
 world-settings:
   default:
     verbose: true
+    arrow-despawn-rate: 1200
     view-distance: 10
-    nerf-spawner-mobs: false
-    zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
-    merge-radius:
-      exp: 3.0
-      item: 2.5
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
     item-despawn-rate: 6000
-    max-tnt-per-tick: 100
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    max-tick-time:
-      tile: 50
-      entity: 50
-    hunger:
-      jump-walk-exhaustion: 0.05
-      jump-sprint-exhaustion: 0.2
-      combat-exhaustion: 0.1
-      regen-exhaustion: 6.0
-      swim-multiplier: 0.01
-      sprint-multiplier: 0.1
-      other-multiplier: 0.0
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -106,17 +122,38 @@ world-settings:
       netherwart-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    save-structure-info: true
-    random-light-updates: false
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+    random-light-updates: false
+    save-structure-info: true
+    mob-spawn-range: 4
+    max-tnt-per-tick: 100
     seed-village: 10387312
     seed-feature: 14357617
     seed-monument: 10387313
     seed-slime: 987234911
-    mob-spawn-range: 4
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tick-time:
+      tile: 50
+      entity: 50
     dragon-death-sound-radius: 0
-    arrow-despawn-rate: 1200
     max-entity-collisions: 8

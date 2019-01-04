@@ -8994,6 +8994,7 @@ ProtocolLib v4.3.0
 18-11-04 02:19:44 [INFO] Removed hook: AllViolations(NCP) [1.0].
 18-11-04 02:19:44 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
 18-11-04 02:19:44 [INFO] [GenericInstanceRegistry] Registry cleared.
+<<<<<<< HEAD
 19-01-04 16:59:08 [INFO] Logger started.
 19-01-04 16:59:08 [INFO] Logging system initialized.
 19-01-04 16:59:08 [INFO] Detected Minecraft version: 1.12.2
@@ -9063,3 +9064,5 @@ ProtocolLib v4.3.0
 19-01-04 17:05:23 [INFO] Removed hook: AllViolations(NCP) [1.0].
 19-01-04 17:05:23 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
 19-01-04 17:05:23 [INFO] [GenericInstanceRegistry] Registry cleared.
+=======
+>>>>>>> New_PEX's

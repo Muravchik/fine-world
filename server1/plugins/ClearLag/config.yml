@@ -141,7 +141,7 @@ firespread-reducer:
 # -- 'entities' lists all the entities that will be counted
 #     and possibly removed.
 chunk-entity-limiter:
-  enabled: false
+  enabled: true
   limit: 10
   entities:
     - Squid

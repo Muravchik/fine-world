@@ -43,8 +43,8 @@ regionprotect:
 autoflags:
   enabled: true
   flags:
-    lightning: DENY
     damage-animals: DENY
+    lightning: DENY
     allow-shop: DENY
 restrictcommands:
   enabled: true

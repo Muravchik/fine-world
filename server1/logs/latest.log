@@ -579,6 +579,7 @@ java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
 [17:03:37] [Netty Server IO #1/DEBUG]: Enabled auto read
 [17:03:38] [Netty Server IO #1/DEBUG]: Enabled auto read
 [17:03:38] [Netty Server IO #1/DEBUG]: Set listener of net.minecraft.server.v1_12_R1.NetworkManager@3a686e85 to net.minecraft.server.v1_12_R1.PacketStatusListener@684c86d3
+<<<<<<< HEAD
 [17:05:22] [Server thread/INFO]: Stopping the server
 [17:05:22] [Server thread/INFO]: Stopping server
 [17:05:22] [Server thread/INFO]: [ItemFixer] Disabling ItemFixer v2.7.8
@@ -648,3 +649,5 @@ java.lang.NoSuchMethodException: java.lang.Throwable.getStackTraceElement(int)
 [17:05:23] [Server thread/WARN]: The save for world located at .\world_nether is being accessed from another location, aborting
 [17:05:23] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
 [17:05:23] [Server thread/WARN]: The save for world located at .\world_the_end is being accessed from another location, aborting
+=======
+>>>>>>> New_PEX's

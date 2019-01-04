@@ -10,7 +10,11 @@ npc:
       location:
         world: spawn
         x: '-11.5'
+<<<<<<< HEAD
         y: '-1.54090835829E7'
+=======
+        y: '-1.53914200459E7'
+>>>>>>> New_PEX's
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
@@ -68,7 +72,11 @@ npc:
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,age,location,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -80,7 +88,11 @@ npc:
       location:
         world: spawn
         x: '-5.5'
+<<<<<<< HEAD
         y: '-1.54179951516E7'
+=======
+        y: '-1.54003316146E7'
+>>>>>>> New_PEX's
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
@@ -170,7 +182,11 @@ npc:
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,location,age,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -197,14 +213,22 @@ npc:
       location:
         world: spawn
         x: '-22.5'
+<<<<<<< HEAD
         y: '-1.54086975025E7'
+=======
+        y: '-1.53910339655E7'
+>>>>>>> New_PEX's
         z: '11.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,location,age,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -258,14 +282,22 @@ npc:
       location:
         world: spawn
         x: '-22.5'
+<<<<<<< HEAD
         y: '-1.54080908219E7'
+=======
+        y: '-1.53904272849E7'
+>>>>>>> New_PEX's
         z: '13.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,location,age,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -328,14 +360,22 @@ npc:
       location:
         world: spawn
         x: '-22.5'
+<<<<<<< HEAD
         y: '-1.54002980698E7'
+=======
+        y: '-1.53826345328E7'
+>>>>>>> New_PEX's
         z: '18.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,location,age,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -425,14 +465,22 @@ npc:
       location:
         world: spawn
         x: '-18.5'
+<<<<<<< HEAD
         y: '-1.54002236009E7'
+=======
+        y: '-1.53825600639E7'
+>>>>>>> New_PEX's
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,age,location,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -557,14 +605,22 @@ npc:
       location:
         world: spawn
         x: '-16.5'
+<<<<<<< HEAD
         y: '-1.53998161012E7'
+=======
+        y: '-1.53821525642E7'
+>>>>>>> New_PEX's
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
+<<<<<<< HEAD
     traitnames: owner,mounttrait,spawned,type,trader,location,age,wallet
+=======
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
+>>>>>>> New_PEX's
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
