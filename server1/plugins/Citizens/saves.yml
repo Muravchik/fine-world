@@ -10,7 +10,7 @@ npc:
       location:
         world: spawn
         x: '-11.5'
-        y: '-1.55543118842E7'
+        y: '-1.53914200459E7'
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
@@ -24,43 +24,43 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - apple p:20.00 a:1 s:0
-        - cookie p:10.00 a:1 s:1
-        - bread p:25.00 a:1 s:2
-        - cooked_fish p:40.00 a:1 s:3
-        - cooked_fish:1 p:40.00 a:1 s:4
-        - raw_fish:3 p:50.00 a:1 s:5
-        - grilled_pork p:40.00 a:1 s:6
-        - cooked_beef p:40.00 a:1 s:7
-        - cooked_mutton p:40.00 a:1 s:8
-        - cooked_chicken p:40.00 a:1 s:9
-        - cooked_rabbit p:40.00 a:1 s:10
-        - melon p:30.00 a:1 s:11
-        - beetroot p:30.00 a:1 s:12
-        - carrot_item p:30.00 a:1 s:13
-        - potato_item p:30.00 a:1 s:14
-        - baked_potato p:50.00 a:1 s:15
-        - pumpkin_pie p:80.00 a:1 s:16
         - golden_apple p:1000.00 a:1 s:17
+        - pumpkin_pie p:80.00 a:1 s:16
+        - baked_potato p:50.00 a:1 s:15
+        - potato_item p:30.00 a:1 s:14
+        - carrot_item p:30.00 a:1 s:13
+        - beetroot p:30.00 a:1 s:12
+        - melon p:30.00 a:1 s:11
+        - cooked_rabbit p:40.00 a:1 s:10
+        - cooked_chicken p:40.00 a:1 s:9
+        - cooked_mutton p:40.00 a:1 s:8
+        - cooked_beef p:40.00 a:1 s:7
+        - grilled_pork p:40.00 a:1 s:6
+        - raw_fish:3 p:50.00 a:1 s:5
+        - cooked_fish:1 p:40.00 a:1 s:4
+        - cooked_fish p:40.00 a:1 s:3
+        - bread p:25.00 a:1 s:2
+        - cookie p:10.00 a:1 s:1
+        - apple p:20.00 a:1 s:0
         buy:
-        - apple p:2.00 a:1 s:0
-        - cookie p:1.00 a:1 s:1
-        - bread p:2.50 a:1 s:2
-        - cooked_fish p:4.00 a:1 s:3
-        - cooked_fish:1 p:4.00 a:1 s:4
-        - raw_fish:3 p:5.00 a:1 s:5 .sp
-        - grilled_pork p:4.00 a:1 s:6
-        - cooked_beef p:4.00 a:1 s:7
-        - cooked_mutton p:4.00 a:1 s:8
-        - cooked_chicken p:4.00 a:1 s:9
-        - cooked_rabbit p:4.00 a:1 s:10
-        - melon p:3.00 a:1 s:11
-        - beetroot p:3.00 a:1 s:12
-        - carrot_item p:3.00 a:1 s:13
-        - potato_item p:3.00 a:1 s:14
-        - baked_potato p:5.00 a:1 s:15
-        - pumpkin_pie p:8.00 a:1 s:16
         - golden_apple p:100.00 a:1 s:17
+        - pumpkin_pie p:8.00 a:1 s:16
+        - baked_potato p:5.00 a:1 s:15
+        - potato_item p:3.00 a:1 s:14
+        - carrot_item p:3.00 a:1 s:13
+        - beetroot p:3.00 a:1 s:12
+        - melon p:3.00 a:1 s:11
+        - cooked_rabbit p:4.00 a:1 s:10
+        - cooked_chicken p:4.00 a:1 s:9
+        - cooked_mutton p:4.00 a:1 s:8
+        - cooked_beef p:4.00 a:1 s:7
+        - grilled_pork p:4.00 a:1 s:6
+        - raw_fish:3 p:5.00 a:1 s:5 .sp
+        - cooked_fish:1 p:4.00 a:1 s:4
+        - cooked_fish p:4.00 a:1 s:3
+        - bread p:2.50 a:1 s:2
+        - cookie p:1.00 a:1 s:1
+        - apple p:2.00 a:1 s:0
       wallet:
         player-uuid: none
         type: infinite
@@ -68,7 +68,7 @@ npc:
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,age,location,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -80,7 +80,7 @@ npc:
       location:
         world: spawn
         x: '-5.5'
-        y: '-1.55631489728E7'
+        y: '-1.54003316146E7'
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
@@ -94,75 +94,75 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - flint p:50.00 a:1 s:0
-        - coal p:50.00 a:1 s:1
-        - coal:1 p:50.00 a:1 s:2
-        - iron_ingot p:100.00 a:1 s:3
-        - gold_ingot p:100.00 a:1 s:4
-        - glowstone_dust p:100.00 a:1 s:5 .lore:
+        - slime_ball p:600.00 a:1 s:44
+        - paper p:300.00 a:1 s:35
+        - prismarine_shard p:200.00 a:1 s:28
+        - prismarine_crystals p:300.00 a:1 s:27
+        - sugar_cane p:100.00 a:1 s:26
+        - nether_star p:9000.00 a:1 s:24 .lore:
           - '^6Stack price: ^3enabled'
-        - diamond p:2500.00 a:1 s:6 .lore:
-          - '^6Stack price: ^3enabled'
-        - emerald p:60000.00 a:1 s:7 .lore:
-          - '^6Stack price: ^3enabled'
-          - '^6Stack price: ^3enabled'
-        - clay_brick p:60.00 a:1 s:8
-        - string p:70.00 a:1 s:9 .lore:
-          - '^6Stack price: ^3enabled'
-        - feather p:50.00 a:1 s:10 .lore:
+        - skull_item:1 p:3000.00 a:1 s:23 sk:null
+        - fireball p:300.00 a:1 s:22
+        - blaze_rod p:240.00 a:1 s:21
+        - quartz p:60.00 a:1 s:20
+        - nether_brick_item p:60.00 a:1 s:19
+        - nether_stalk p:160.00 a:1 s:18
+        - clay_ball p:50.00 a:1 s:17
+        - ink_sack p:50.00 a:1 s:15
+        - ink_sack:15 p:50.00 a:1 s:14
+        - bone p:140.00 a:1 s:13
+        - leather p:150.00 a:1 s:12 .lore:
           - '^6Stack price: ^3enabled'
         - sulphur p:180.00 a:1 s:11 .lore:
           - '^6Stack price: ^3enabled'
           - '^6Stack price: ^3enabled'
-        - leather p:150.00 a:1 s:12 .lore:
+        - feather p:50.00 a:1 s:10 .lore:
           - '^6Stack price: ^3enabled'
-        - bone p:140.00 a:1 s:13
-        - ink_sack:15 p:50.00 a:1 s:14
-        - ink_sack p:50.00 a:1 s:15
-        - clay_ball p:50.00 a:1 s:17
-        - nether_stalk p:160.00 a:1 s:18
-        - nether_brick_item p:60.00 a:1 s:19
-        - quartz p:60.00 a:1 s:20
-        - blaze_rod p:240.00 a:1 s:21
-        - fireball p:300.00 a:1 s:22
-        - skull_item:1 p:3000.00 a:1 s:23 sk:null
-        - nether_star p:9000.00 a:1 s:24 .lore:
+        - string p:70.00 a:1 s:9 .lore:
           - '^6Stack price: ^3enabled'
-        - sugar_cane p:100.00 a:1 s:26
-        - prismarine_crystals p:300.00 a:1 s:27
-        - prismarine_shard p:200.00 a:1 s:28
-        - paper p:300.00 a:1 s:35
-        - slime_ball p:600.00 a:1 s:44
+        - clay_brick p:60.00 a:1 s:8
+        - emerald p:60000.00 a:1 s:7 .lore:
+          - '^6Stack price: ^3enabled'
+          - '^6Stack price: ^3enabled'
+        - diamond p:2500.00 a:1 s:6 .lore:
+          - '^6Stack price: ^3enabled'
+        - glowstone_dust p:100.00 a:1 s:5 .lore:
+          - '^6Stack price: ^3enabled'
+        - gold_ingot p:100.00 a:1 s:4
+        - iron_ingot p:100.00 a:1 s:3
+        - coal:1 p:50.00 a:1 s:2
+        - coal p:50.00 a:1 s:1
+        - flint p:50.00 a:1 s:0
         buy:
-        - flint p:3.00 a:1 s:0
-        - coal p:5.00 a:1 s:1
-        - coal:1 p:5.00 a:1 s:2
-        - iron_ingot p:10.00 a:1 s:3
-        - gold_ingot p:10.00 a:1 s:4
-        - glowstone_dust p:10.00 a:1 s:5
-        - diamond p:250.00 a:1 s:6
-        - emerald p:600.00 a:1 s:7
-        - clay_brick p:6.00 a:1 s:8
-        - string p:7.00 a:1 s:9
-        - feather p:5.00 a:1 s:10
-        - sulphur p:18.00 a:1 s:11
-        - leather p:15.00 a:1 s:12
-        - bone p:14.00 a:1 s:13
-        - ink_sack:15 p:5.00 a:1 s:14
-        - ink_sack p:5.00 a:1 s:15
-        - clay_ball p:5.00 a:1 s:17
-        - nether_stalk p:16.00 a:1 s:18
-        - nether_brick_item p:6.00 a:1 s:19
-        - quartz p:6.00 a:1 s:20
-        - blaze_rod p:24.00 a:1 s:21
-        - fireball p:30.00 a:1 s:22
-        - skull_item:1 p:300.00 a:1 s:23 sk:null
-        - nether_star p:900.00 a:1 s:24
-        - sugar_cane p:10.00 a:1 s:26
-        - prismarine_crystals p:30.00 a:1 s:27
-        - prismarine_shard p:20.00 a:1 s:28
-        - paper p:30.00 a:1 s:35
         - slime_ball p:60.00 a:1 s:44
+        - paper p:30.00 a:1 s:35
+        - prismarine_shard p:20.00 a:1 s:28
+        - prismarine_crystals p:30.00 a:1 s:27
+        - sugar_cane p:10.00 a:1 s:26
+        - nether_star p:900.00 a:1 s:24
+        - skull_item:1 p:300.00 a:1 s:23 sk:null
+        - fireball p:30.00 a:1 s:22
+        - blaze_rod p:24.00 a:1 s:21
+        - quartz p:6.00 a:1 s:20
+        - nether_brick_item p:6.00 a:1 s:19
+        - nether_stalk p:16.00 a:1 s:18
+        - clay_ball p:5.00 a:1 s:17
+        - ink_sack p:5.00 a:1 s:15
+        - ink_sack:15 p:5.00 a:1 s:14
+        - bone p:14.00 a:1 s:13
+        - leather p:15.00 a:1 s:12
+        - sulphur p:18.00 a:1 s:11
+        - feather p:5.00 a:1 s:10
+        - string p:7.00 a:1 s:9
+        - clay_brick p:6.00 a:1 s:8
+        - emerald p:600.00 a:1 s:7
+        - diamond p:250.00 a:1 s:6
+        - glowstone_dust p:10.00 a:1 s:5
+        - gold_ingot p:10.00 a:1 s:4
+        - iron_ingot p:10.00 a:1 s:3
+        - coal:1 p:5.00 a:1 s:2
+        - coal p:5.00 a:1 s:1
+        - flint p:3.00 a:1 s:0
       wallet:
         player-uuid: none
         type: infinite
@@ -170,7 +170,7 @@ npc:
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,location,age,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -197,14 +197,14 @@ npc:
       location:
         world: spawn
         x: '-22.5'
-        y: '-1.55538513237E7'
+        y: '-1.53910339655E7'
         z: '11.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,location,age,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -226,46 +226,46 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - dispenser a:1 s:0
-        - piston_sticky_base a:1 s:1
-        - piston_base a:1 s:2
-        - tnt a:1 s:3
-        - lever a:1 s:4
-        - stone_plate a:1 s:5
-        - wood_plate a:1 s:6
-        - redstone_torch_on a:1 s:7
-        - stone_button a:1 s:8
-        - trap_door a:1 s:9
-        - fence_gate a:1 s:10
-        - redstone_lamp_off a:1 s:11
-        - tripwire_hook a:1 s:12
-        - wood_button a:1 s:13
-        - trapped_chest a:1 s:14
-        - gold_plate a:1 s:15
-        - iron_plate a:1 s:16
-        - daylight_detector a:1 s:17
-        - redstone_block a:1 s:18
-        - hopper a:1 s:19
-        - dropper a:1 s:20
-        - iron_trapdoor a:1 s:21
-        - wood_door a:1 s:22
-        - iron_door a:1 s:23
-        - redstone a:1 s:24
-        - diode a:1 s:25
         - redstone_comparator a:1 s:26
+        - diode a:1 s:25
+        - redstone a:1 s:24
+        - iron_door a:1 s:23
+        - wood_door a:1 s:22
+        - iron_trapdoor a:1 s:21
+        - dropper a:1 s:20
+        - hopper a:1 s:19
+        - redstone_block a:1 s:18
+        - daylight_detector a:1 s:17
+        - iron_plate a:1 s:16
+        - gold_plate a:1 s:15
+        - trapped_chest a:1 s:14
+        - wood_button a:1 s:13
+        - tripwire_hook a:1 s:12
+        - redstone_lamp_off a:1 s:11
+        - fence_gate a:1 s:10
+        - trap_door a:1 s:9
+        - stone_button a:1 s:8
+        - redstone_torch_on a:1 s:7
+        - wood_plate a:1 s:6
+        - stone_plate a:1 s:5
+        - lever a:1 s:4
+        - tnt a:1 s:3
+        - piston_base a:1 s:2
+        - piston_sticky_base a:1 s:1
+        - dispenser a:1 s:0
         buy: []
       spawned: true
       location:
         world: spawn
         x: '-22.5'
-        y: '-1.55532446431E7'
+        y: '-1.53904272849E7'
         z: '13.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,location,age,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -287,55 +287,55 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - banner:15 a:1 s:35 bn:unused
-        - armor_stand a:1 s:34
-        - flower_pot_item a:1 s:33
-        - item_frame a:1 s:32
-        - bed a:1 s:31
-        - sign a:1 s:30
-        - painting a:1 s:29
-        - carpet a:1 s:28
-        - slime_block a:1 s:27
-        - end_rod a:1 s:26
-        - anvil a:1 s:25
-        - cobble_wall:1 a:1 s:24
-        - cobble_wall a:1 s:23
-        - ender_chest a:1 s:22
-        - ender_portal_frame a:1 s:21
-        - enchantment_table a:1 s:20
-        - nether_fence a:1 s:19
-        - thin_glass a:1 s:18
-        - iron_fence a:1 s:17
-        - fence a:1 s:16
-        - jukebox a:1 s:15
-        - cactus a:1 s:14
-        - snow a:1 s:13
-        - ladder a:1 s:12
-        - furnace a:1 s:11
-        - workbench a:1 s:10
-        - chest a:1 s:9
-        - dead_bush a:1 s:8
-        - leaves a:1 s:7
-        - web a:1 s:6
-        - sapling:5 a:1 s:5
-        - sapling:4 a:1 s:4
-        - sapling:3 a:1 s:3
-        - sapling:2 a:1 s:2
-        - sapling:1 a:1 s:1
         - sapling a:1 s:0
+        - sapling:1 a:1 s:1
+        - sapling:2 a:1 s:2
+        - sapling:3 a:1 s:3
+        - sapling:4 a:1 s:4
+        - sapling:5 a:1 s:5
+        - web a:1 s:6
+        - leaves a:1 s:7
+        - dead_bush a:1 s:8
+        - chest a:1 s:9
+        - workbench a:1 s:10
+        - furnace a:1 s:11
+        - ladder a:1 s:12
+        - snow a:1 s:13
+        - cactus a:1 s:14
+        - jukebox a:1 s:15
+        - fence a:1 s:16
+        - iron_fence a:1 s:17
+        - thin_glass a:1 s:18
+        - nether_fence a:1 s:19
+        - enchantment_table a:1 s:20
+        - ender_portal_frame a:1 s:21
+        - ender_chest a:1 s:22
+        - cobble_wall a:1 s:23
+        - cobble_wall:1 a:1 s:24
+        - anvil a:1 s:25
+        - end_rod a:1 s:26
+        - slime_block a:1 s:27
+        - carpet a:1 s:28
+        - painting a:1 s:29
+        - sign a:1 s:30
+        - bed a:1 s:31
+        - item_frame a:1 s:32
+        - flower_pot_item a:1 s:33
+        - armor_stand a:1 s:34
+        - banner:15 a:1 s:35 bn:unused
         buy: []
       spawned: true
       location:
         world: spawn
         x: '-22.5'
-        y: '-1.5545451891E7'
+        y: '-1.53826345328E7'
         z: '18.5'
         yaw: '-90.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,location,age,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -357,82 +357,82 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - gravel p:30.00 a:1 s:23 .lore:
+        - brick_stairs a:1 s:0 .lore:
           - '^6Stack price: ^3enabled'
-        - dirt:2 p:700.00 a:1 s:22 .lore:
+        - smooth_stairs p:15.00 a:1 s:1
+        - nether_brick_stairs p:350.00 a:1 s:2
+        - nether_brick p:240.00 a:1 s:3
+        - prismarine p:800.00 a:1 s:4
+        - prismarine:1 a:1 s:5 .lore:
           - '^6Stack price: ^3enabled'
-        - mycel p:700.00 a:1 s:21 .lore:
-          - '^6Stack price: ^3enabled'
-        - packed_ice p:500.00 a:1 s:20 .lore:
-          - '^6Stack price: ^3enabled'
-        - coal_block p:450.00 a:1 s:19 .lore:
-          - '^6Stack price: ^3enabled'
-        - hard_clay p:220.00 a:1 s:18 .lore:
-          - '^6Stack price: ^3enabled'
-        - red_nether_brick p:440.00 a:1 s:17
-        - nether_wart_block a:1 s:16 .lore:
-          - '^6Stack price: ^3enabled'
-        - magma a:1 s:15 .lore:
-          - '^6Stack price: ^3enabled'
-        - purpur_slab a:1 s:14 .lore:
-          - '^6Stack price: ^3enabled'
-        - purpur_stairs a:1 s:13 .lore:
-          - '^6Stack price: ^3enabled'
-        - purpur_pillar a:1 s:12 .lore:
+        - prismarine:2 p:1600.00 a:1 s:6
+        - sea_lantern p:2000.00 a:1 s:7
+        - hay_block p:250.00 a:1 s:8
+        - ender_stone p:300.00 a:1 s:9
+        - end_bricks a:1 s:10 .lore:
           - '^6Stack price: ^3enabled'
         - purpur_block a:1 s:11 .lore:
           - '^6Stack price: ^3enabled'
-        - end_bricks a:1 s:10 .lore:
+        - purpur_pillar a:1 s:12 .lore:
           - '^6Stack price: ^3enabled'
-        - ender_stone p:300.00 a:1 s:9
-        - hay_block p:250.00 a:1 s:8
-        - sea_lantern p:2000.00 a:1 s:7
-        - prismarine:2 p:1600.00 a:1 s:6
-        - prismarine:1 a:1 s:5 .lore:
+        - purpur_stairs a:1 s:13 .lore:
           - '^6Stack price: ^3enabled'
-        - prismarine p:800.00 a:1 s:4
-        - nether_brick p:240.00 a:1 s:3
-        - nether_brick_stairs p:350.00 a:1 s:2
-        - smooth_stairs p:15.00 a:1 s:1
-        - brick_stairs a:1 s:0 .lore:
+        - purpur_slab a:1 s:14 .lore:
+          - '^6Stack price: ^3enabled'
+        - magma a:1 s:15 .lore:
+          - '^6Stack price: ^3enabled'
+        - nether_wart_block a:1 s:16 .lore:
+          - '^6Stack price: ^3enabled'
+        - red_nether_brick p:440.00 a:1 s:17
+        - hard_clay p:220.00 a:1 s:18 .lore:
+          - '^6Stack price: ^3enabled'
+        - coal_block p:450.00 a:1 s:19 .lore:
+          - '^6Stack price: ^3enabled'
+        - packed_ice p:500.00 a:1 s:20 .lore:
+          - '^6Stack price: ^3enabled'
+        - mycel p:700.00 a:1 s:21 .lore:
+          - '^6Stack price: ^3enabled'
+        - dirt:2 p:700.00 a:1 s:22 .lore:
+          - '^6Stack price: ^3enabled'
+        - gravel p:30.00 a:1 s:23 .lore:
           - '^6Stack price: ^3enabled'
         buy:
-        - gravel p:3.00 a:1 s:23
-        - dirt:2 p:70.00 a:1 s:22
-        - mycel p:70.00 a:1 s:21
-        - packed_ice p:50.00 a:1 s:20
-        - coal_block p:45.00 a:1 s:19
-        - hard_clay p:22.00 a:1 s:18
-        - red_nether_brick p:44.00 a:1 s:17 .sp
-        - nether_wart_block p:110.00 a:1 s:16
-        - magma p:30.00 a:1 s:15
-        - purpur_slab p:35.00 a:1 s:14
-        - purpur_stairs p:1000.00 a:1 s:13
-        - purpur_pillar p:70.00 a:1 s:12
-        - purpur_block p:70.00 a:1 s:11
-        - end_bricks p:120.00 a:1 s:10
-        - ender_stone p:30.00 a:1 s:9
-        - hay_block p:25.00 a:1 s:8
-        - sea_lantern p:200.00 a:1 s:7
-        - prismarine:2 p:160.00 a:1 s:6 .sp
-        - prismarine:1 p:150.00 a:1 s:5
-        - prismarine p:80.00 a:1 s:4 .sp
-        - nether_brick p:24.00 a:1 s:3
-        - nether_brick_stairs p:35.00 a:1 s:2
-        - smooth_stairs p:1.50 a:1 s:1
         - brick_stairs p:35.00 a:1 s:0
+        - smooth_stairs p:1.50 a:1 s:1
+        - nether_brick_stairs p:35.00 a:1 s:2
+        - nether_brick p:24.00 a:1 s:3
+        - prismarine p:80.00 a:1 s:4 .sp
+        - prismarine:1 p:150.00 a:1 s:5
+        - prismarine:2 p:160.00 a:1 s:6 .sp
+        - sea_lantern p:200.00 a:1 s:7
+        - hay_block p:25.00 a:1 s:8
+        - ender_stone p:30.00 a:1 s:9
+        - end_bricks p:120.00 a:1 s:10
+        - purpur_block p:70.00 a:1 s:11
+        - purpur_pillar p:70.00 a:1 s:12
+        - purpur_stairs p:1000.00 a:1 s:13
+        - purpur_slab p:35.00 a:1 s:14
+        - magma p:30.00 a:1 s:15
+        - nether_wart_block p:110.00 a:1 s:16
+        - red_nether_brick p:44.00 a:1 s:17 .sp
+        - hard_clay p:22.00 a:1 s:18
+        - coal_block p:45.00 a:1 s:19
+        - packed_ice p:50.00 a:1 s:20
+        - mycel p:70.00 a:1 s:21
+        - dirt:2 p:70.00 a:1 s:22
+        - gravel p:3.00 a:1 s:23
       spawned: true
       location:
         world: spawn
         x: '-18.5'
-        y: '-1.55453774221E7'
+        y: '-1.53825600639E7'
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,age,location,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -454,117 +454,117 @@ npc:
         owner-uuid: none
         patterns: []
         sell:
-        - cobblestone p:5.00 a:1 s:0
-        - stone p:10.00 a:1 s:1
-        - stone:2 p:15.00 a:1 s:2
-        - stone:6 p:15.00 a:1 s:3
-        - wood p:5.00 a:1 s:4
-        - wood:1 p:5.00 a:1 s:5
-        - wood:2 p:5.00 a:1 s:6
-        - wood:3 p:5.00 a:1 s:7
-        - wood:4 p:5.00 a:1 s:8
-        - wood:5 p:5.00 a:1 s:9
-        - log p:20.00 a:1 s:10
-        - log:1 p:20.00 a:1 s:11
-        - log:2 p:20.00 a:1 s:12
-        - log:3 p:20.00 a:1 s:13
-        - sponge p:150.00 a:1 s:14
-        - sponge:1 p:160.00 a:1 s:15
-        - sandstone p:30.00 a:1 s:16
-        - sandstone:1 p:40.00 a:1 s:17
-        - sandstone:2 p:40.00 a:1 s:18
-        - glass p:30.00 a:1 s:19
-        - step p:5.00 a:1 s:20
-        - step:1 p:15.00 a:1 s:21
-        - step:3 p:2.50 a:1 s:22
-        - step:4 p:120.00 a:1 s:23
-        - step:5 p:5.00 a:1 s:24
-        - step:6 p:120.00 a:1 s:25 .sp
-        - step:7 p:120.00 a:1 s:26
-        - wood_stairs p:30.00 a:1 s:27
-        - spruce_wood_stairs p:30.00 a:1 s:28
-        - birch_wood_stairs p:30.00 a:1 s:29
-        - jungle_wood_stairs p:30.00 a:1 s:30
-        - acacia_stairs p:35.00 a:1 s:31
-        - dark_oak_stairs p:35.00 a:1 s:32
-        - log_2 p:30.00 a:1 s:33
-        - log_2:1 p:30.00 a:1 s:34
-        - smooth_brick p:20.00 a:1 s:36
-        - smooth_brick:1 p:90.00 a:1 s:37
+        - glowstone p:300.00 a:1 s:49
+        - soul_sand p:100.00 a:1 s:48
+        - netherrack p:20.00 a:1 s:47
+        - bookshelf p:400.00 a:1 s:46
+        - wool p:150.00 a:1 s:45
+        - quartz_stairs p:350.00 a:1 s:43
+        - quartz_block:2 p:250.00 a:1 s:42
+        - quartz_block:1 p:250.00 a:1 s:41
+        - quartz_block p:240.00 a:1 s:40
+        - smooth_brick:3 p:20.00 a:1 s:39
         - smooth_brick:2 p:90.00 a:1 s:38 .lore:
           - '^6Stack price: ^3enabled'
-        - smooth_brick:3 p:20.00 a:1 s:39
-        - quartz_block p:240.00 a:1 s:40
-        - quartz_block:1 p:250.00 a:1 s:41
-        - quartz_block:2 p:250.00 a:1 s:42
-        - quartz_stairs p:350.00 a:1 s:43
-        - wool p:150.00 a:1 s:45
-        - bookshelf p:400.00 a:1 s:46
-        - netherrack p:20.00 a:1 s:47
-        - soul_sand p:100.00 a:1 s:48
-        - glowstone p:300.00 a:1 s:49
+        - smooth_brick:1 p:90.00 a:1 s:37
+        - smooth_brick p:20.00 a:1 s:36
+        - log_2:1 p:30.00 a:1 s:34
+        - log_2 p:30.00 a:1 s:33
+        - dark_oak_stairs p:35.00 a:1 s:32
+        - acacia_stairs p:35.00 a:1 s:31
+        - jungle_wood_stairs p:30.00 a:1 s:30
+        - birch_wood_stairs p:30.00 a:1 s:29
+        - spruce_wood_stairs p:30.00 a:1 s:28
+        - wood_stairs p:30.00 a:1 s:27
+        - step:7 p:120.00 a:1 s:26
+        - step:6 p:120.00 a:1 s:25 .sp
+        - step:5 p:5.00 a:1 s:24
+        - step:4 p:120.00 a:1 s:23
+        - step:3 p:2.50 a:1 s:22
+        - step:1 p:15.00 a:1 s:21
+        - step p:5.00 a:1 s:20
+        - glass p:30.00 a:1 s:19
+        - sandstone:2 p:40.00 a:1 s:18
+        - sandstone:1 p:40.00 a:1 s:17
+        - sandstone p:30.00 a:1 s:16
+        - sponge:1 p:160.00 a:1 s:15
+        - sponge p:150.00 a:1 s:14
+        - log:3 p:20.00 a:1 s:13
+        - log:2 p:20.00 a:1 s:12
+        - log:1 p:20.00 a:1 s:11
+        - log p:20.00 a:1 s:10
+        - wood:5 p:5.00 a:1 s:9
+        - wood:4 p:5.00 a:1 s:8
+        - wood:3 p:5.00 a:1 s:7
+        - wood:2 p:5.00 a:1 s:6
+        - wood:1 p:5.00 a:1 s:5
+        - wood p:5.00 a:1 s:4
+        - stone:6 p:15.00 a:1 s:3
+        - stone:2 p:15.00 a:1 s:2
+        - stone p:10.00 a:1 s:1
+        - cobblestone p:5.00 a:1 s:0
         buy:
-        - cobblestone p:0.50 a:1 s:0
-        - stone p:1.00 a:1 s:1
-        - stone:2 p:1.50 a:1 s:2
-        - stone:6 p:1.50 a:1 s:3
-        - wood p:0.50 a:1 s:4
-        - wood:1 p:0.50 a:1 s:5
-        - wood:2 p:0.50 a:1 s:6
-        - wood:3 p:0.50 a:1 s:7
-        - wood:4 p:0.50 a:1 s:8
-        - wood:5 p:0.50 a:1 s:9
-        - log p:2.00 a:1 s:10
-        - log:1 p:2.00 a:1 s:11
-        - log:2 p:2.00 a:1 s:12
-        - log:3 p:2.00 a:1 s:13
-        - sponge p:15.00 a:1 s:14
-        - sponge:1 p:16.00 a:1 s:15
-        - sandstone p:3.00 a:1 s:16
-        - sandstone:1 p:4.00 a:1 s:17
-        - sandstone:2 p:4.00 a:1 s:18
+        - glowstone p:30.00 a:1 s:49
+        - soul_sand p:10.00 a:1 s:48
+        - netherrack p:2.00 a:1 s:47
+        - bookshelf p:40.00 a:1 s:46
+        - wool p:15.00 a:1 s:45
+        - quartz_stairs p:35.00 a:1 s:43
+        - quartz_block:2 p:25.00 a:1 s:42
+        - quartz_block:1 p:25.00 a:1 s:41
+        - quartz_block p:24.00 a:1 s:40
+        - smooth_brick:3 p:2.00 a:1 s:39
+        - smooth_brick:2 p:9.00 a:1 s:38
+        - smooth_brick:1 p:9.00 a:1 s:37
+        - smooth_brick p:2.00 a:1 s:36
+        - log_2:1 p:3.00 a:1 s:34
+        - log_2 p:3.00 a:1 s:33
+        - dark_oak_stairs p:3.50 a:1 s:32
+        - acacia_stairs p:3.50 a:1 s:31
+        - jungle_wood_stairs p:3.00 a:1 s:30
+        - birch_wood_stairs p:3.00 a:1 s:29
+        - spruce_wood_stairs p:3.00 a:1 s:28
+        - wood_stairs p:3.00 a:1 s:27
+        - step:7 p:12.00 a:1 s:26
+        - step:6 p:12.00 a:1 s:25 .sp
+        - step:5 p:0.50 a:1 s:24
+        - step:4 p:12.00 a:1 s:23 .sp
+        - step:3 p:0.25 a:1 s:22
+        - step:1 p:1.50 a:1 s:21
+        - step p:0.50 a:1 s:20
         - glass p:3.00 a:1 s:19 .lore:
           - '^6Stack price: ^3enabled'
-        - step p:0.50 a:1 s:20
-        - step:1 p:1.50 a:1 s:21
-        - step:3 p:0.25 a:1 s:22
-        - step:4 p:12.00 a:1 s:23 .sp
-        - step:5 p:0.50 a:1 s:24
-        - step:6 p:12.00 a:1 s:25 .sp
-        - step:7 p:12.00 a:1 s:26
-        - wood_stairs p:3.00 a:1 s:27
-        - spruce_wood_stairs p:3.00 a:1 s:28
-        - birch_wood_stairs p:3.00 a:1 s:29
-        - jungle_wood_stairs p:3.00 a:1 s:30
-        - acacia_stairs p:3.50 a:1 s:31
-        - dark_oak_stairs p:3.50 a:1 s:32
-        - log_2 p:3.00 a:1 s:33
-        - log_2:1 p:3.00 a:1 s:34
-        - smooth_brick p:2.00 a:1 s:36
-        - smooth_brick:1 p:9.00 a:1 s:37
-        - smooth_brick:2 p:9.00 a:1 s:38
-        - smooth_brick:3 p:2.00 a:1 s:39
-        - quartz_block p:24.00 a:1 s:40
-        - quartz_block:1 p:25.00 a:1 s:41
-        - quartz_block:2 p:25.00 a:1 s:42
-        - quartz_stairs p:35.00 a:1 s:43
-        - wool p:15.00 a:1 s:45
-        - bookshelf p:40.00 a:1 s:46
-        - netherrack p:2.00 a:1 s:47
-        - soul_sand p:10.00 a:1 s:48
-        - glowstone p:30.00 a:1 s:49
+        - sandstone:2 p:4.00 a:1 s:18
+        - sandstone:1 p:4.00 a:1 s:17
+        - sandstone p:3.00 a:1 s:16
+        - sponge:1 p:16.00 a:1 s:15
+        - sponge p:15.00 a:1 s:14
+        - log:3 p:2.00 a:1 s:13
+        - log:2 p:2.00 a:1 s:12
+        - log:1 p:2.00 a:1 s:11
+        - log p:2.00 a:1 s:10
+        - wood:5 p:0.50 a:1 s:9
+        - wood:4 p:0.50 a:1 s:8
+        - wood:3 p:0.50 a:1 s:7
+        - wood:2 p:0.50 a:1 s:6
+        - wood:1 p:0.50 a:1 s:5
+        - wood p:0.50 a:1 s:4
+        - stone:6 p:1.50 a:1 s:3
+        - stone:2 p:1.50 a:1 s:2
+        - stone p:1.00 a:1 s:1
+        - cobblestone p:0.50 a:1 s:0
       spawned: true
       location:
         world: spawn
         x: '-16.5'
-        y: '-1.55449660024E7'
+        y: '-1.53821525642E7'
         z: '23.5'
         yaw: '-180.0'
         pitch: '0.0'
       owner:
         owner: SteveGrKek
         uuid: 80063e32-660f-3040-aa72-a0e52f9efa9f
-    traitnames: type,spawned,wallet,location,age,mounttrait,trader,owner
+    traitnames: spawned,location,wallet,age,owner,trader,type,mounttrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
