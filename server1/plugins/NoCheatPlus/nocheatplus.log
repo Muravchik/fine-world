@@ -8169,3 +8169,897 @@ ProtocolLib v4.3.0
 18-09-08 02:37:50 [INFO] Removed hook: AllViolations(NCP) [1.0].
 18-09-08 02:37:50 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 1789 (1789/0) | event.player.move.handled.pos 869 (869/0) | event.player.move.handled.look 70 (70/0) | event.player.move.handled.pos_look 850 (850/0) |
 18-09-08 02:37:50 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-08 21:31:56 [INFO] Logger started.
+18-09-08 21:31:56 [INFO] Logging system initialized.
+18-09-08 21:31:56 [INFO] Detected Minecraft version: 1.12.2
+18-09-08 21:32:56 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-08 21:32:56 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-08 21:32:57 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-08 21:32:57 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-08 21:32:57 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-08 21:32:57 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-08 21:32:57 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-08 21:32:57 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-08 21:33:05 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-08 21:33:05 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-08 21:33:06 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-08 21:33:06 [INFO] Post-enable running...
+18-09-08 21:33:10 [INFO] Post-enable finished.
+18-09-08 21:33:10 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-08 22:01:38 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-08 22:01:38 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 2753 (2753/0) | event.player.move.handled.pos 1655 (1655/0) | event.player.move.handled.look 76 (76/0) | event.player.move.handled.pos_look 1022 (1022/0) |
+18-09-08 22:01:38 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-08 22:01:50 [INFO] Logger started.
+18-09-08 22:01:50 [INFO] Logging system initialized.
+18-09-08 22:01:50 [INFO] Detected Minecraft version: 1.12.2
+18-09-08 22:02:04 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-08 22:02:04 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-08 22:02:04 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-08 22:02:05 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-08 22:02:05 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-08 22:02:05 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-08 22:02:05 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-08 22:02:05 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-08 22:02:09 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-08 22:02:09 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-08 22:02:09 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-08 22:02:09 [INFO] Post-enable running...
+18-09-08 22:02:13 [INFO] Post-enable finished.
+18-09-08 22:02:13 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-08 22:03:24 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-08 22:03:24 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 370 (370/0) | event.player.move.handled.pos 279 (279/0) | event.player.move.handled.look 8 (8/0) | event.player.move.handled.pos_look 83 (83/0) |
+18-09-08 22:03:24 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-08 22:04:30 [INFO] Logger started.
+18-09-08 22:04:30 [INFO] Logging system initialized.
+18-09-08 22:04:30 [INFO] Detected Minecraft version: 1.12.2
+18-09-08 22:05:26 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-08 22:05:26 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-08 22:05:26 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-08 22:05:27 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-08 22:05:27 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-08 22:05:27 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-08 22:05:27 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-08 22:05:27 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-08 22:05:34 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-08 22:05:34 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-08 22:05:34 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-08 22:05:34 [INFO] Post-enable running...
+18-09-08 22:05:40 [INFO] Post-enable finished.
+18-09-08 22:05:41 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-09 03:27:29 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-09 03:27:29 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 20648 (20648/0) | event.player.move.handled.pos 9544 (9544/0) | event.player.move.handled.look 447 (447/0) | event.player.move.handled.pos_look 10657 (10657/0) |
+18-09-09 03:27:29 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-09 16:58:08 [INFO] Logger started.
+18-09-09 16:58:08 [INFO] Logging system initialized.
+18-09-09 16:58:08 [INFO] Detected Minecraft version: 1.12.2
+18-09-09 16:59:05 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-09 16:59:05 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-09 16:59:05 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-09 16:59:06 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-09 16:59:06 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-09 16:59:06 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-09 16:59:06 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-09 16:59:06 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-09 16:59:16 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-09 16:59:16 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-09 16:59:16 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-09 16:59:16 [INFO] Post-enable running...
+18-09-09 16:59:21 [INFO] Post-enable finished.
+18-09-09 16:59:22 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-09 21:51:03 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-09 21:51:03 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 24842 (24842/0) | event.player.move.handled.pos 7858 (7858/0) | event.player.move.handled.look 1191 (1191/0) | event.player.move.handled.pos_look 15790 (15790/0) |
+18-09-09 21:51:03 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-12 17:58:49 [INFO] Logger started.
+18-09-12 17:58:49 [INFO] Logging system initialized.
+18-09-12 17:58:49 [INFO] Detected Minecraft version: 1.12.2
+18-09-12 17:59:44 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-12 17:59:44 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-12 17:59:44 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-12 17:59:44 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-12 17:59:44 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-12 17:59:45 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-12 17:59:45 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-12 17:59:45 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-12 17:59:54 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-12 17:59:54 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-12 17:59:54 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-12 17:59:54 [INFO] Post-enable running...
+18-09-12 17:59:59 [INFO] Post-enable finished.
+18-09-12 18:00:00 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-12 21:40:33 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-12 21:40:33 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 138364 (138364/0) | event.player.move.handled.pos 54719 (54719/0) | event.player.move.handled.look 4908 (4908/0) | event.player.move.handled.pos_look 78729 (78729/0) |
+18-09-12 21:40:33 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-23 17:26:27 [INFO] Logger started.
+18-09-23 17:26:27 [INFO] Logging system initialized.
+18-09-23 17:26:27 [INFO] Detected Minecraft version: 1.12.2
+18-09-23 17:27:23 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-23 17:27:23 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-23 17:27:23 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-23 17:27:23 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-23 17:27:23 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-23 17:27:23 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-23 17:27:23 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-23 17:27:24 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-23 17:27:31 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-23 17:27:31 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-23 17:27:31 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-23 17:27:31 [INFO] Post-enable running...
+18-09-23 17:27:35 [INFO] Post-enable finished.
+18-09-23 17:27:35 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-23 17:38:41 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-23 17:38:41 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 74 (74/0) | event.player.move.handled.pos 61 (61/0) | event.player.move.handled.look 0 | event.player.move.handled.pos_look 13 (13/0) |
+18-09-23 17:38:41 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-23 17:39:34 [INFO] Logger started.
+18-09-23 17:39:34 [INFO] Logging system initialized.
+18-09-23 17:39:34 [INFO] Detected Minecraft version: 1.12.2
+18-09-23 17:40:17 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-23 17:40:17 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-23 17:40:17 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-23 17:40:18 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-23 17:40:18 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-23 17:40:18 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-23 17:40:18 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-23 17:40:18 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-23 17:40:24 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-23 17:40:24 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-23 17:40:25 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-23 17:40:25 [INFO] Post-enable running...
+18-09-23 17:40:29 [INFO] Post-enable finished.
+18-09-23 17:40:30 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-23 17:41:29 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-23 17:41:29 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-09-23 17:41:29 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-23 17:46:41 [INFO] Logger started.
+18-09-23 17:46:41 [INFO] Logging system initialized.
+18-09-23 17:46:41 [INFO] Detected Minecraft version: 1.12.2
+18-09-23 17:47:18 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-23 17:47:18 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-23 17:47:19 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-23 17:47:19 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-23 17:47:19 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-23 17:47:19 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-23 17:47:19 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-23 17:47:19 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-23 17:47:25 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-23 17:47:25 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-23 17:47:25 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-23 17:47:25 [INFO] Post-enable running...
+18-09-23 17:47:29 [INFO] Post-enable finished.
+18-09-23 17:47:30 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-23 19:07:01 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-23 19:07:01 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 27215 (27215/0) | event.player.move.handled.pos 12917 (12917/0) | event.player.move.handled.look 954 (954/0) | event.player.move.handled.pos_look 13344 (13344/0) |
+18-09-23 19:07:01 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-09-24 21:02:50 [INFO] Logger started.
+18-09-24 21:02:50 [INFO] Logging system initialized.
+18-09-24 21:02:50 [INFO] Detected Minecraft version: 1.12.2
+18-09-24 21:04:32 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-09-24 21:04:32 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-09-24 21:04:32 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-09-24 21:04:33 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-09-24 21:04:33 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-09-24 21:04:33 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-09-24 21:04:33 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-09-24 21:04:33 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-09-24 21:04:46 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-09-24 21:04:46 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-09-24 21:04:47 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-09-24 21:04:47 [INFO] Post-enable running...
+18-09-24 21:04:53 [INFO] Post-enable finished.
+18-09-24 21:04:54 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-09-25 00:04:49 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-09-25 00:04:49 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 31785 (31785/0) | event.player.move.handled.pos 15194 (15194/0) | event.player.move.handled.look 2424 (2424/0) | event.player.move.handled.pos_look 14167 (14167/0) |
+18-09-25 00:04:49 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-10-29 15:59:16 [INFO] Logger started.
+18-10-29 15:59:16 [INFO] Logging system initialized.
+18-10-29 15:59:16 [INFO] Detected Minecraft version: 1.12.2
+18-10-29 16:00:54 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-10-29 16:00:54 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-10-29 16:00:55 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-10-29 16:00:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-10-29 16:00:56 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-10-29 16:00:56 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-10-29 16:00:56 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-10-29 16:00:56 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-10-29 16:01:20 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-10-29 16:01:21 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-10-29 16:01:21 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-10-29 16:01:21 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-10-29 16:01:21 [INFO] Post-enable running...
+18-10-29 16:01:25 [INFO] Post-enable finished.
+18-10-29 16:01:27 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-10-29 17:27:50 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-10-29 17:27:50 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 33754 (33754/0) | event.player.move.handled.pos 14134 (14134/0) | event.player.move.handled.look 1198 (1198/0) | event.player.move.handled.pos_look 18421 (18421/0) |
+18-10-29 17:27:50 [INFO] [GenericInstanceRegistry] Registry cleared.
+18-11-03 17:35:10 [INFO] Logger started.
+18-11-03 17:35:10 [INFO] Logging system initialized.
+18-11-03 17:35:10 [INFO] Detected Minecraft version: 1.12.2
+18-11-03 17:36:04 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-11-03 17:36:04 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-11-03 17:36:04 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-11-03 17:36:05 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-11-03 17:36:05 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-11-03 17:36:05 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-11-03 17:36:05 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-11-03 17:36:05 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-11-03 17:36:13 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-11-03 17:36:13 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-11-03 17:36:13 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-11-03 17:36:13 [INFO] Post-enable running...
+18-11-03 17:36:19 [INFO] Post-enable finished.
+18-11-03 17:36:20 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-11-04 00:18:33 [INFO] Logger started.
+18-11-04 00:18:33 [INFO] Logging system initialized.
+18-11-04 00:18:33 [INFO] Detected Minecraft version: 1.12.2
+18-11-04 00:19:19 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+18-11-04 00:19:19 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.5 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.8 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.9 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.10 blocks.
+18-11-04 00:19:19 [INFO] Added block-info for Minecraft 1.11 blocks.
+18-11-04 00:19:20 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+18-11-04 00:19:20 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+18-11-04 00:19:20 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+18-11-04 00:19:20 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+18-11-04 00:19:20 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+18-11-04 00:19:27 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+18-11-04 00:19:27 [INFO] Added hook: AllViolations(NCP) [1.0].
+18-11-04 00:19:27 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+18-11-04 00:19:27 [INFO] Post-enable running...
+18-11-04 00:19:32 [INFO] Post-enable finished.
+18-11-04 00:19:33 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+18-11-04 02:19:44 [INFO] Removed hook: AllViolations(NCP) [1.0].
+18-11-04 02:19:44 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+18-11-04 02:19:44 [INFO] [GenericInstanceRegistry] Registry cleared.
+19-01-04 16:59:08 [INFO] Logger started.
+19-01-04 16:59:08 [INFO] Logging system initialized.
+19-01-04 16:59:08 [INFO] Detected Minecraft version: 1.12.2
+19-01-04 17:00:38 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+19-01-04 17:00:38 [INFO] McAccess set to: 1.4.5-1.11|? / CB-Reflect
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.5 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.8 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.9 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.10 blocks.
+19-01-04 17:00:38 [INFO] Added block-info for Minecraft 1.11 blocks.
+19-01-04 17:00:39 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+19-01-04 17:00:39 [WARNING] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+19-01-04 17:00:39 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+19-01-04 17:00:39 [WARNING] The following configuration default values have changed:
+Changed with build 1057: strings.nofall
+(Remove/update individual values or set configversion.created to 1057 to ignore all, then reload the configuration with the 'ncp reload' command.)
+19-01-04 17:00:39 [INFO] Version 3.15.0-SNAPSHOT-sMD5NET-b1066 is enabled.
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.stats.Counters: fr.neatmonster.nocheatplus.stats.Counters
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.workaround.WRPT: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for java.util.Random: java.util.Random
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+19-01-04 17:00:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+19-01-04 17:00:53 [INFO] Added hook: AllViolations(NCP) [1.0].
+19-01-04 17:00:53 [WARNING] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 235(WHITE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 236(ORANGE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 237(MAGENTA_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 238(LIGHT_BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 239(YELLOW_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 240(LIME_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 241(PINK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 242(GRAY_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 243(SILVER_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 244(CYAN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 245(PURPLE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 246(BLUE_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 247(BROWN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 248(GREEN_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 249(RED_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 250(BLACK_GLAZED_TERRACOTTA / SOLID+GROUND) 
+* MISSING 251(CONCRETE / SOLID+GROUND) 
+* MISSING 252(CONCRETE_POWDER / SOLID+GROUND) 
+19-01-04 17:00:53 [INFO] Post-enable running...
+19-01-04 17:01:06 [INFO] Post-enable finished.
+19-01-04 17:01:09 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-95dd097-305df90 ~MC: 1.12.2~
+  detected: 1.12.2
+#### NoCheatPlus ####
+Plugin: 3.15.0-SNAPSHOT-sMD5NET-b1066
+MCAccess: 1.4.5-1.11|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+#### Related Plugins ####
+ProtocolLib v4.3.0
+19-01-04 17:05:23 [INFO] Removed hook: AllViolations(NCP) [1.0].
+19-01-04 17:05:23 [FINE] | canceldead 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move.handled 0 | event.player.move.handled.pos 0 | event.player.move.handled.look 0 | event.player.move.handled.pos_look 0 |
+19-01-04 17:05:23 [INFO] [GenericInstanceRegistry] Registry cleared.
